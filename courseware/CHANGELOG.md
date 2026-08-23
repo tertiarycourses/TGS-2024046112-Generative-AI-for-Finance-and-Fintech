@@ -1,5 +1,14 @@
 # Courseware Changelog
 
+## v5.5 — 24 August 2026
+
+- Rebalanced the trainer deck around applied use of Copilot in Excel, Finance Agent and Microsoft Copilot Studio for finance.
+- Added complete Prepare → Configure → Run → Inspect → Verify operating sequences without moving click-by-click lab procedures into the PPT.
+- Added Excel workbook-readiness, mode-selection, prompt-contract, formula-review, dashboard-review, variance, reconciliation and troubleshooting pages.
+- Added Copilot Studio agent-scope, instruction, knowledge, tool, agent-flow, Power Fx, authentication, DLP, test-pane, activity-map, evaluation, solution-release and troubleshooting pages.
+- Used authentic current Microsoft interface captures alongside editable PowerPoint tables, flows, formulas and configuration artifacts.
+- Added release QA gates that require both Excel and Copilot Studio applied operating coverage.
+
 ## v5.4 — 23 August 2026
 
 - Replaced the repeated screenshot-plus-three-card and four-card-row compositions with nine content-aware layout families.

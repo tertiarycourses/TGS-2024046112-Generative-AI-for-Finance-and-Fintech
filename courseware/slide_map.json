@@ -7,27 +7,27 @@
       "start": 61
     },
     "3": {
-      "start": 152,
-      "end": 189
+      "start": 170,
+      "end": 226
     },
     "4": {
-      "start": 190
+      "start": 227
     },
     "5": {
-      "start": 328
+      "start": 365
     }
   },
   "labs": {
-    "5": 184,
-    "6": 186,
-    "7": 188,
-    "1": 351,
-    "2": 353,
-    "3": 355,
-    "4": 357,
-    "8": 359,
-    "9": 361,
-    "10": 363
+    "5": 221,
+    "6": 223,
+    "7": 225,
+    "1": 388,
+    "2": 390,
+    "3": 392,
+    "4": 394,
+    "8": 396,
+    "9": 398,
+    "10": 400
   },
   "legacy_source": {
     "19": 16,
@@ -75,216 +75,216 @@
     "61": 58,
     "62": 59,
     "63": 60,
-    "65": 88,
-    "66": 89,
-    "67": 90,
-    "68": 91,
-    "69": 92,
-    "70": 93,
-    "71": 94,
-    "72": 95,
-    "73": 96,
-    "74": 97,
-    "75": 98,
-    "76": 99,
-    "77": 100,
-    "78": 101,
-    "79": 102,
-    "80": 103,
-    "81": 104,
-    "82": 105,
-    "83": 106,
-    "84": 107,
-    "85": 108,
-    "86": 109,
-    "87": 110,
-    "88": 111,
-    "89": 112,
-    "90": 113,
-    "91": 114,
-    "92": 115,
-    "93": 116,
-    "94": 117,
-    "95": 118,
-    "96": 119,
-    "97": 120,
-    "98": 121,
-    "99": 122,
-    "100": 123,
-    "101": 124,
-    "102": 125,
-    "103": 126,
-    "104": 127,
-    "105": 128,
-    "106": 129,
-    "107": 130,
-    "108": 131,
-    "109": 132,
-    "110": 133,
-    "111": 134,
-    "112": 135,
-    "113": 136,
-    "114": 137,
-    "115": 138,
-    "116": 139,
-    "117": 140,
-    "118": 141,
-    "119": 142,
-    "120": 143,
-    "121": 144,
-    "122": 145,
-    "123": 146,
-    "124": 147,
-    "125": 148,
-    "127": 149,
-    "128": 150,
-    "129": 151,
-    "149": 191,
-    "150": 192,
-    "151": 193,
-    "152": 194,
-    "153": 195,
-    "154": 196,
-    "155": 197,
-    "156": 198,
-    "157": 199,
-    "158": 200,
-    "159": 201,
-    "160": 202,
-    "161": 203,
-    "162": 204,
-    "163": 205,
-    "164": 206,
-    "165": 207,
-    "166": 208,
-    "167": 209,
-    "168": 210,
-    "169": 211,
-    "170": 212,
-    "171": 213,
-    "172": 214,
-    "173": 215,
-    "174": 231,
-    "175": 232,
-    "176": 233,
-    "177": 234,
-    "178": 235,
-    "179": 236,
-    "180": 237,
-    "181": 238,
-    "182": 239,
-    "183": 240,
-    "184": 241,
-    "185": 242,
-    "186": 243,
-    "187": 244,
-    "188": 245,
-    "189": 246,
-    "190": 247,
-    "191": 248,
-    "192": 249,
-    "193": 250,
-    "194": 251,
-    "195": 252,
-    "196": 253,
-    "197": 254,
-    "198": 255,
-    "199": 256,
-    "200": 257,
-    "201": 258,
-    "202": 259,
-    "203": 260,
-    "204": 261,
-    "205": 262,
-    "206": 263,
-    "207": 264,
-    "208": 265,
-    "209": 266,
-    "210": 267,
-    "211": 268,
-    "212": 269,
-    "213": 270,
-    "214": 271,
-    "215": 272,
-    "216": 273,
-    "217": 274,
-    "218": 275,
-    "219": 276,
-    "220": 277,
-    "221": 278,
-    "222": 279,
-    "223": 280,
-    "224": 281,
-    "225": 282,
-    "226": 283,
-    "227": 284,
-    "228": 285,
-    "229": 286,
-    "230": 287,
-    "231": 288,
-    "232": 289,
-    "233": 290,
-    "234": 291,
-    "235": 292,
-    "236": 293,
-    "237": 294,
-    "238": 295,
-    "239": 296,
-    "240": 297,
-    "241": 298,
-    "242": 299,
-    "243": 300,
-    "244": 301,
-    "245": 302,
-    "246": 303,
-    "247": 304,
-    "248": 305,
-    "249": 306,
-    "250": 307,
-    "251": 308,
-    "252": 309,
-    "253": 310,
-    "254": 311,
-    "255": 312,
-    "256": 313,
-    "257": 314,
-    "258": 315,
-    "259": 316,
-    "260": 317,
-    "261": 318,
-    "262": 319,
-    "263": 320,
-    "264": 321,
-    "265": 322,
-    "266": 323,
-    "267": 324,
-    "268": 325,
-    "269": 326,
-    "270": 327,
-    "272": 329,
-    "273": 330,
-    "274": 331,
-    "275": 332,
-    "276": 333,
-    "277": 334,
-    "278": 335,
-    "279": 336,
-    "280": 337,
-    "281": 338,
-    "282": 339,
-    "283": 340,
-    "284": 341,
-    "285": 342,
-    "286": 343,
-    "287": 344,
-    "288": 345,
-    "289": 346,
-    "290": 347,
-    "291": 348,
-    "292": 349,
-    "293": 350
+    "65": 106,
+    "66": 107,
+    "67": 108,
+    "68": 109,
+    "69": 110,
+    "70": 111,
+    "71": 112,
+    "72": 113,
+    "73": 114,
+    "74": 115,
+    "75": 116,
+    "76": 117,
+    "77": 118,
+    "78": 119,
+    "79": 120,
+    "80": 121,
+    "81": 122,
+    "82": 123,
+    "83": 124,
+    "84": 125,
+    "85": 126,
+    "86": 127,
+    "87": 128,
+    "88": 129,
+    "89": 130,
+    "90": 131,
+    "91": 132,
+    "92": 133,
+    "93": 134,
+    "94": 135,
+    "95": 136,
+    "96": 137,
+    "97": 138,
+    "98": 139,
+    "99": 140,
+    "100": 141,
+    "101": 142,
+    "102": 143,
+    "103": 144,
+    "104": 145,
+    "105": 146,
+    "106": 147,
+    "107": 148,
+    "108": 149,
+    "109": 150,
+    "110": 151,
+    "111": 152,
+    "112": 153,
+    "113": 154,
+    "114": 155,
+    "115": 156,
+    "116": 157,
+    "117": 158,
+    "118": 159,
+    "119": 160,
+    "120": 161,
+    "121": 162,
+    "122": 163,
+    "123": 164,
+    "124": 165,
+    "125": 166,
+    "127": 167,
+    "128": 168,
+    "129": 169,
+    "149": 228,
+    "150": 229,
+    "151": 230,
+    "152": 231,
+    "153": 232,
+    "154": 233,
+    "155": 234,
+    "156": 235,
+    "157": 236,
+    "158": 237,
+    "159": 238,
+    "160": 239,
+    "161": 240,
+    "162": 241,
+    "163": 242,
+    "164": 243,
+    "165": 244,
+    "166": 245,
+    "167": 246,
+    "168": 247,
+    "169": 248,
+    "170": 249,
+    "171": 250,
+    "172": 251,
+    "173": 252,
+    "174": 268,
+    "175": 269,
+    "176": 270,
+    "177": 271,
+    "178": 272,
+    "179": 273,
+    "180": 274,
+    "181": 275,
+    "182": 276,
+    "183": 277,
+    "184": 278,
+    "185": 279,
+    "186": 280,
+    "187": 281,
+    "188": 282,
+    "189": 283,
+    "190": 284,
+    "191": 285,
+    "192": 286,
+    "193": 287,
+    "194": 288,
+    "195": 289,
+    "196": 290,
+    "197": 291,
+    "198": 292,
+    "199": 293,
+    "200": 294,
+    "201": 295,
+    "202": 296,
+    "203": 297,
+    "204": 298,
+    "205": 299,
+    "206": 300,
+    "207": 301,
+    "208": 302,
+    "209": 303,
+    "210": 304,
+    "211": 305,
+    "212": 306,
+    "213": 307,
+    "214": 308,
+    "215": 309,
+    "216": 310,
+    "217": 311,
+    "218": 312,
+    "219": 313,
+    "220": 314,
+    "221": 315,
+    "222": 316,
+    "223": 317,
+    "224": 318,
+    "225": 319,
+    "226": 320,
+    "227": 321,
+    "228": 322,
+    "229": 323,
+    "230": 324,
+    "231": 325,
+    "232": 326,
+    "233": 327,
+    "234": 328,
+    "235": 329,
+    "236": 330,
+    "237": 331,
+    "238": 332,
+    "239": 333,
+    "240": 334,
+    "241": 335,
+    "242": 336,
+    "243": 337,
+    "244": 338,
+    "245": 339,
+    "246": 340,
+    "247": 341,
+    "248": 342,
+    "249": 343,
+    "250": 344,
+    "251": 345,
+    "252": 346,
+    "253": 347,
+    "254": 348,
+    "255": 349,
+    "256": 350,
+    "257": 351,
+    "258": 352,
+    "259": 353,
+    "260": 354,
+    "261": 355,
+    "262": 356,
+    "263": 357,
+    "264": 358,
+    "265": 359,
+    "266": 360,
+    "267": 361,
+    "268": 362,
+    "269": 363,
+    "270": 364,
+    "272": 366,
+    "273": 367,
+    "274": 368,
+    "275": 369,
+    "276": 370,
+    "277": 371,
+    "278": 372,
+    "279": 373,
+    "280": 374,
+    "281": 375,
+    "282": 376,
+    "283": 377,
+    "284": 378,
+    "285": 379,
+    "286": 380,
+    "287": 381,
+    "288": 382,
+    "289": 383,
+    "290": 384,
+    "291": 385,
+    "292": 386,
+    "293": 387
   },
-  "slide_count": 373,
+  "slide_count": 410,
   "technical_anchor_inventory": [
     {
       "slide": 1,
@@ -663,1503 +663,1688 @@
     },
     {
       "slide": 76,
-      "title": "Prompt Contract: Build a Controlled FP&A Output",
-      "anchor": "CONFIG"
+      "title": "Use Copilot in Excel for a Controlled Finance Task",
+      "anchor": "ARCH"
     },
     {
       "slide": 77,
-      "title": "Workbook Schema Copilot Can Reliably Address",
+      "title": "Prepare the Workbook Before Asking Copilot",
       "anchor": "MODEL"
     },
     {
       "slide": 78,
+      "title": "Locate Copilot and Confirm Workbook Context",
+      "anchor": "UI"
+    },
+    {
+      "slide": 79,
+      "title": "Select Chat, Plan or Edit from the Expected Output",
+      "anchor": "UI"
+    },
+    {
+      "slide": 80,
+      "title": "Match the Finance Task to the Least-Invasive Mode",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 81,
+      "title": "Submit a Finance Prompt with an Output Contract",
+      "anchor": "CONFIG"
+    },
+    {
+      "slide": 82,
+      "title": "Inspect the Proposed Edit Before Trusting the Result",
+      "anchor": "UI"
+    },
+    {
+      "slide": 83,
+      "title": "Verify the Native Formulas Copilot Added",
+      "anchor": "FORMULA"
+    },
+    {
+      "slide": 84,
+      "title": "Build a Budget-vs-Actual Analysis with Copilot",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 85,
+      "title": "Review a Copilot-Created Finance Dashboard",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 86,
+      "title": "Run Assistive Variance Analysis from the Finance Sidecar",
+      "anchor": "UI"
+    },
+    {
+      "slide": 87,
+      "title": "Configure Materiality and Comparison Criteria",
+      "anchor": "UI"
+    },
+    {
+      "slide": 88,
+      "title": "Validate Impact, Contributors and Commentary",
+      "anchor": "UI"
+    },
+    {
+      "slide": 89,
+      "title": "Edit the Variance Comment Before Release",
+      "anchor": "UI"
+    },
+    {
+      "slide": 90,
+      "title": "Use Finance Agent to Reconcile Two Excel Tables",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 91,
+      "title": "Confirm Reconciliation Keys and Monetary Columns",
+      "anchor": "UI"
+    },
+    {
+      "slide": 92,
+      "title": "Use the Reconciliation Summary as an Exception Queue",
+      "anchor": "UI"
+    },
+    {
+      "slide": 93,
+      "title": "Troubleshoot Excel Copilot Finance Outputs",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 94,
+      "title": "Prompt Contract: Build a Controlled FP&A Output",
+      "anchor": "CONFIG"
+    },
+    {
+      "slide": 95,
+      "title": "Workbook Schema Copilot Can Reliably Address",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 96,
       "title": "SUMIFS: Controlled Aggregation at Reporting Grain",
       "anchor": "FORMULA"
     },
     {
-      "slide": 79,
+      "slide": 97,
       "title": "XLOOKUP: Mapping with an Explicit Exception State",
       "anchor": "FORMULA"
     },
     {
-      "slide": 80,
+      "slide": 98,
       "title": "Variance Identity and Materiality Rule",
       "anchor": "FORMULA"
     },
     {
-      "slide": 81,
+      "slide": 99,
       "title": "Driver-Based Forecast: Keep Assumptions Observable",
       "anchor": "FORMULA"
     },
     {
-      "slide": 82,
+      "slide": 100,
       "title": "Working-Capital Metrics with Defined Time Basis",
       "anchor": "FORMULA"
     },
     {
-      "slide": 83,
+      "slide": 101,
       "title": "Reconciliation Matching Logic",
       "anchor": "CONFIG"
     },
     {
-      "slide": 84,
+      "slide": 102,
       "title": "Excel Exception Classification",
       "anchor": "FORMULA"
     },
     {
-      "slide": 85,
+      "slide": 103,
       "title": "Variance Analysis Object Topology",
       "anchor": "ARCH"
     },
     {
-      "slide": 86,
+      "slide": 104,
       "title": "Select Chat, Plan or Edit by Change Risk",
       "anchor": "MODEL"
     },
     {
-      "slide": 87,
+      "slide": 105,
       "title": "Workbook Acceptance-Test Matrix",
       "anchor": "MODEL"
     },
     {
-      "slide": 88,
+      "slide": 106,
       "title": "Topics",
       "anchor": "MODEL"
     },
     {
-      "slide": 89,
+      "slide": 107,
       "title": "Excel Copilot for FP&A",
       "anchor": "EVIDENCE"
     },
     {
-      "slide": 90,
+      "slide": 108,
       "title": "What Can Excel Copilot Do?",
       "anchor": "MODEL"
     },
     {
-      "slide": 91,
-      "title": "Finance AI pattern",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 92,
-      "title": "Secure Access to Microsoft 365 Copilot",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 93,
-      "title": "Demo: Summarize Data",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 94,
-      "title": "Demo: Summarize Data",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 95,
-      "title": "Demo: Summarize Data",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 96,
-      "title": "Demo: Summarize Data",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 97,
-      "title": "Demo: Format Data",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 98,
-      "title": "Demo: Format Data",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 99,
-      "title": "Demo: Voice Activation",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 100,
-      "title": "Activity: Get Started on Excel Copilot",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 101,
-      "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 102,
-      "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 103,
-      "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 104,
-      "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 105,
-      "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 106,
-      "title": "Demo: Highlight Data",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 107,
-      "title": "Demo: Highlight Data",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 108,
-      "title": "Demo: Filter Data",
-      "anchor": "EVIDENCE"
-    },
-    {
       "slide": 109,
-      "title": "Demo: Filter Data",
+      "title": "Finance AI pattern",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 110,
-      "title": "Demo: Filter Data",
-      "anchor": "EVIDENCE"
+      "title": "Secure Access to Microsoft 365 Copilot",
+      "anchor": "MODEL"
     },
     {
       "slide": 111,
-      "title": "Demo: Sort Data",
+      "title": "Demo: Summarize Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 112,
-      "title": "Activity: Extract Info",
-      "anchor": "MODEL"
+      "title": "Demo: Summarize Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 113,
-      "title": "Activity: Extract Info",
-      "anchor": "MODEL"
+      "title": "Demo: Summarize Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 114,
-      "title": "Demo: Import Data Using Power Query",
+      "title": "Demo: Summarize Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 115,
-      "title": "Demo: Analyze Data",
+      "title": "Demo: Format Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 116,
-      "title": "Demo: Analyze Data",
+      "title": "Demo: Format Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 117,
-      "title": "Demo: Analyze Data",
+      "title": "Demo: Voice Activation",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 118,
-      "title": "Demo: Analyze Data",
-      "anchor": "EVIDENCE"
+      "title": "Activity: Get Started on Excel Copilot",
+      "anchor": "MODEL"
     },
     {
       "slide": 119,
-      "title": "Demo: Analyze Data",
+      "title": "Demo: Add Formula",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 120,
-      "title": "Demo: Analyze Data",
+      "title": "Demo: Add Formula",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 121,
-      "title": "Activity: Analyse Data",
+      "title": "Demo: Add Formula",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 122,
-      "title": "Finance AI pattern",
+      "title": "Demo: Add Formula",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 123,
-      "title": "Demo: Reconcile Data with Copilot for Finance",
+      "title": "Demo: Add Formula",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 124,
-      "title": "Compare to ChatGPT",
-      "anchor": "MODEL"
+      "title": "Demo: Highlight Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 125,
-      "title": "Demo: Analyze Trends and Variances",
+      "title": "Demo: Highlight Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 126,
-      "title": "Demo: Analyze Trends and Variances",
+      "title": "Demo: Filter Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 127,
-      "title": "Demo: Analyze Trends and Variances",
+      "title": "Demo: Filter Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 128,
-      "title": "Demo: Analyze Trends and Variances",
+      "title": "Demo: Filter Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 129,
-      "title": "Demo: Analyze Trends and Variances",
+      "title": "Demo: Sort Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 130,
-      "title": "Demo: Financial Forecast",
-      "anchor": "EVIDENCE"
+      "title": "Activity: Extract Info",
+      "anchor": "MODEL"
     },
     {
       "slide": 131,
-      "title": "Compare to ChatGPT",
+      "title": "Activity: Extract Info",
       "anchor": "MODEL"
     },
     {
       "slide": 132,
-      "title": "Compare to ChatGPT",
+      "title": "Demo: Import Data Using Power Query",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 133,
-      "title": "Compare to ChatGPT",
-      "anchor": "MODEL"
+      "title": "Demo: Analyze Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 134,
-      "title": "Compare to ChatGPT",
-      "anchor": "MODEL"
+      "title": "Demo: Analyze Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 135,
-      "title": "Compare to ChatGPT",
-      "anchor": "MODEL"
+      "title": "Demo: Analyze Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 136,
-      "title": "Activity: Financial Forecast",
-      "anchor": "MODEL"
+      "title": "Demo: Analyze Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 137,
-      "title": "Hint: Financial Forecast",
+      "title": "Demo: Analyze Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 138,
-      "title": "Hint: Financial Forecast",
+      "title": "Demo: Analyze Data",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 139,
-      "title": "Hint: Financial Forecast",
-      "anchor": "MODEL"
+      "title": "Activity: Analyse Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 140,
-      "title": "Demo: FP&A",
+      "title": "Finance AI pattern",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 141,
-      "title": "Demo: FP&A",
+      "title": "Demo: Reconcile Data with Copilot for Finance",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 142,
-      "title": "Activity: FP&A",
+      "title": "Compare to ChatGPT",
       "anchor": "MODEL"
     },
     {
       "slide": 143,
-      "title": "Activity: FP&A",
-      "anchor": "MODEL"
+      "title": "Demo: Analyze Trends and Variances",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 144,
-      "title": "Activity: FP&A",
-      "anchor": "MODEL"
+      "title": "Demo: Analyze Trends and Variances",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 145,
-      "title": "Activity: FP&A",
+      "title": "Demo: Analyze Trends and Variances",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 146,
-      "title": "Hint: FP&A",
-      "anchor": "MODEL"
+      "title": "Demo: Analyze Trends and Variances",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 147,
-      "title": "Finance AI pattern",
+      "title": "Demo: Analyze Trends and Variances",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 148,
-      "title": "Demo: Excel Agent Mode",
+      "title": "Demo: Financial Forecast",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 149,
-      "title": "Case Study: OCBC",
-      "anchor": "EVIDENCE"
+      "title": "Compare to ChatGPT",
+      "anchor": "MODEL"
     },
     {
       "slide": 150,
-      "title": "Case Study: OCBC",
+      "title": "Compare to ChatGPT",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 151,
-      "title": "Case Study: JP Morgan Chase",
-      "anchor": "EVIDENCE"
+      "title": "Compare to ChatGPT",
+      "anchor": "MODEL"
     },
     {
       "slide": 152,
-      "title": "Practical Applications of Agentic AI to Automate Financial Processes",
-      "anchor": "EXEMPT"
+      "title": "Compare to ChatGPT",
+      "anchor": "MODEL"
     },
     {
       "slide": 153,
-      "title": "Microsoft 365 Finance Decision Pack",
+      "title": "Compare to ChatGPT",
       "anchor": "MODEL"
     },
     {
       "slide": 154,
-      "title": "From Workbook Evidence to Decision Pack",
-      "anchor": "ARCH"
+      "title": "Activity: Financial Forecast",
+      "anchor": "MODEL"
     },
     {
       "slide": 155,
-      "title": "Copilot Studio Home and Agent Creation",
-      "anchor": "UI"
+      "title": "Hint: Financial Forecast",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 156,
-      "title": "Describe a Finance Agent in Natural Language",
-      "anchor": "UI"
+      "title": "Hint: Financial Forecast",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 157,
-      "title": "Build Surface: Identity, Knowledge and Tools",
-      "anchor": "UI"
+      "title": "Hint: Financial Forecast",
+      "anchor": "MODEL"
     },
     {
       "slide": 158,
-      "title": "Copilot Studio Agent Anatomy",
-      "anchor": "MODEL"
+      "title": "Demo: FP&A",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 159,
-      "title": "Finance Query Agent Instruction Contract",
-      "anchor": "FORMULA"
+      "title": "Demo: FP&A",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 160,
-      "title": "Test Answers Against the Knowledge Source",
-      "anchor": "UI"
-    },
-    {
-      "slide": 161,
-      "title": "Knowledge Grounding Lifecycle",
-      "anchor": "ARCH"
-    },
-    {
-      "slide": 162,
-      "title": "Add a Tool to the Finance Agent",
-      "anchor": "UI"
-    },
-    {
-      "slide": 163,
-      "title": "Read Tools vs Write Tools",
+      "title": "Activity: FP&A",
       "anchor": "MODEL"
     },
     {
+      "slide": 161,
+      "title": "Activity: FP&A",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 162,
+      "title": "Activity: FP&A",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 163,
+      "title": "Activity: FP&A",
+      "anchor": "EVIDENCE"
+    },
+    {
       "slide": 164,
-      "title": "Authentication and Permission Inheritance",
+      "title": "Hint: FP&A",
       "anchor": "MODEL"
     },
     {
       "slide": 165,
-      "title": "Copilot Studio Data Loss Prevention",
-      "anchor": "MODEL"
+      "title": "Finance AI pattern",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 166,
-      "title": "Topics vs Generative Orchestration",
-      "anchor": "MODEL"
+      "title": "Demo: Excel Agent Mode",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 167,
-      "title": "Finance Agent Flow Pattern",
-      "anchor": "ARCH"
+      "title": "Case Study: OCBC",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 168,
-      "title": "Multi-Agent Close Architecture",
-      "anchor": "MODEL"
+      "title": "Case Study: OCBC",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 169,
-      "title": "Structured Agent Handoff Contract",
-      "anchor": "FORMULA"
+      "title": "Case Study: JP Morgan Chase",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 170,
-      "title": "Finance Agent UAT Matrix",
-      "anchor": "MODEL"
+      "title": "Practical Applications of Agentic AI to Automate Financial Processes",
+      "anchor": "EXEMPT"
     },
     {
       "slide": 171,
-      "title": "Agent Evaluation Scorecard",
+      "title": "Microsoft 365 Finance Decision Pack",
       "anchor": "MODEL"
     },
     {
       "slide": 172,
-      "title": "Finance Query Agent: Operating Instructions",
-      "anchor": "CONFIG"
-    },
-    {
-      "slide": 173,
-      "title": "Knowledge-Source Metadata Contract",
-      "anchor": "CONFIG"
-    },
-    {
-      "slide": 174,
-      "title": "Generative Orchestration: Runtime Selection",
+      "title": "From Workbook Evidence to Decision Pack",
       "anchor": "ARCH"
     },
     {
+      "slide": 173,
+      "title": "Copilot Studio Home and Agent Creation",
+      "anchor": "UI"
+    },
+    {
+      "slide": 174,
+      "title": "Describe a Finance Agent in Natural Language",
+      "anchor": "UI"
+    },
+    {
       "slide": 175,
-      "title": "ReadCloseStatus Tool Contract",
-      "anchor": "CONFIG"
+      "title": "Build Surface: Identity, Knowledge and Tools",
+      "anchor": "UI"
     },
     {
       "slide": 176,
-      "title": "Power Fx Input Guard for Finance Tools",
-      "anchor": "CONFIG"
+      "title": "Build and Release a Finance Agent in Copilot Studio",
+      "anchor": "ARCH"
     },
     {
       "slide": 177,
-      "title": "DLP Connector Classification for a Finance Environment",
-      "anchor": "MODEL"
+      "title": "Start in the Correct Copilot Studio Environment",
+      "anchor": "UI"
     },
     {
       "slide": 178,
-      "title": "Environment and Solution ALM",
-      "anchor": "MODEL"
+      "title": "Describe the Finance Agent as a Bounded Service",
+      "anchor": "UI"
     },
     {
       "slide": 179,
-      "title": "Multi-Agent Handoff Payload",
-      "anchor": "CONFIG"
+      "title": "Configure Identity, Instructions, Knowledge and Tools",
+      "anchor": "UI"
     },
     {
       "slide": 180,
-      "title": "Agent Evaluation Test-Case Schema",
+      "title": "Configure Finance Agent Instructions",
       "anchor": "CONFIG"
     },
     {
       "slide": 181,
-      "title": "Evaluation Result Diagnosis",
+      "title": "Choose Finance Knowledge Sources Deliberately",
       "anchor": "MODEL"
     },
     {
       "slide": 182,
-      "title": "Automated Evaluation Pipeline",
-      "anchor": "ARCH"
+      "title": "Test Knowledge Grounding Before Adding Write Capabilities",
+      "anchor": "UI"
     },
     {
       "slide": 183,
-      "title": "Production Telemetry and Alert Rules",
-      "anchor": "MODEL"
+      "title": "Add the Minimum Tool Needed for the Finance Outcome",
+      "anchor": "UI"
     },
     {
       "slide": 184,
-      "title": "Lab 5 \u00b7 Create a Microsoft 365 Finance Decision Pack",
-      "anchor": "ARCH"
-    },
-    {
-      "slide": 185,
-      "title": "Lab 5 \u00b7 Acceptance Evidence",
+      "title": "Select a Copilot Studio Tool Type for Finance",
       "anchor": "MODEL"
     },
     {
+      "slide": 185,
+      "title": "Configure the Tool Input and Output Contract",
+      "anchor": "CONFIG"
+    },
+    {
       "slide": 186,
-      "title": "Lab 6 \u00b7 Build a Grounded Finance Query Agent",
+      "title": "Implement a Read-Only Finance Agent Flow",
       "anchor": "ARCH"
     },
     {
       "slide": 187,
-      "title": "Lab 6 \u00b7 Acceptance Evidence",
-      "anchor": "MODEL"
+      "title": "Validate Finance Tool Inputs with Power Fx",
+      "anchor": "FORMULA"
     },
     {
       "slide": 188,
-      "title": "Lab 7 \u00b7 Design and UAT a Multi-Agent Close Workflow",
-      "anchor": "ARCH"
+      "title": "Configure Authentication for the Agent and Its Tools",
+      "anchor": "MODEL"
     },
     {
       "slide": 189,
-      "title": "Lab 7 \u00b7 Acceptance Evidence",
+      "title": "Apply DLP Before Combining Finance Capabilities",
       "anchor": "MODEL"
     },
     {
       "slide": 190,
-      "title": "AI Risk Management, Security and Fraud Detection",
-      "anchor": "EXEMPT"
+      "title": "Use the Test Pane as a Finance Control Harness",
+      "anchor": "MODEL"
     },
     {
       "slide": 191,
-      "title": "Traditional risk management tools have not kept pace with evolving modern threats like cyber fraud, complex\u2026",
-      "anchor": "EVIDENCE"
+      "title": "Read the Activity Map to Diagnose Agent Behaviour",
+      "anchor": "MODEL"
     },
     {
       "slide": 192,
-      "title": "AI Risk Detection Loop",
-      "anchor": "ARCH"
+      "title": "Create a Finance Agent Regression Test Set",
+      "anchor": "CONFIG"
     },
     {
       "slide": 193,
-      "title": "Detecting Known and Unknown Risks",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 194,
-      "title": "Real-Time Risk Detection in Action",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 195,
-      "title": "AI-Powered Fraud Detection: Signal to Case",
+      "title": "Publish the Finance Agent through a Controlled Release",
       "anchor": "ARCH"
     },
     {
+      "slide": 194,
+      "title": "Troubleshoot a Finance Agent Systematically",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 195,
+      "title": "Copilot Studio Agent Anatomy",
+      "anchor": "MODEL"
+    },
+    {
       "slide": 196,
-      "title": "Speed, Accuray and Reduced Noise",
-      "anchor": "EVIDENCE"
+      "title": "Finance Query Agent Instruction Contract",
+      "anchor": "FORMULA"
     },
     {
       "slide": 197,
-      "title": "AI Does Not Replace Finance Judgement",
-      "anchor": "MODEL"
+      "title": "Test Answers Against the Knowledge Source",
+      "anchor": "UI"
     },
     {
       "slide": 198,
-      "title": "AI moves risk management from reactive to proactive and from rule-based to insight-driven.",
-      "anchor": "MODEL"
+      "title": "Knowledge Grounding Lifecycle",
+      "anchor": "ARCH"
     },
     {
       "slide": 199,
-      "title": "From Detection to Action Generative AI turns flagged events into clear, consistent reports",
-      "anchor": "MODEL"
+      "title": "Add a Tool to the Finance Agent",
+      "anchor": "UI"
     },
     {
       "slide": 200,
-      "title": "Traditional AI: classifies, predicts, flags Generative AI: writes reports, explains findings, simulates events",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 201,
-      "title": "What Makes Generative AI Different?",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 202,
-      "title": "Use Case: Simulating Fraud Scenarios",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 203,
-      "title": "Automating Regulatory Reporting",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 204,
-      "title": "Gen AI Across the Workflow",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 205,
-      "title": "Finance AI pattern",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 206,
-      "title": "Stage 1",
+      "title": "Read Tools vs Write Tools",
       "anchor": "MODEL"
     },
     {
+      "slide": 201,
+      "title": "Authentication and Permission Inheritance",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 202,
+      "title": "Copilot Studio Data Loss Prevention",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 203,
+      "title": "Topics vs Generative Orchestration",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 204,
+      "title": "Finance Agent Flow Pattern",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 205,
+      "title": "Multi-Agent Close Architecture",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 206,
+      "title": "Structured Agent Handoff Contract",
+      "anchor": "FORMULA"
+    },
+    {
       "slide": 207,
-      "title": "Stage 2",
+      "title": "Finance Agent UAT Matrix",
       "anchor": "MODEL"
     },
     {
       "slide": 208,
-      "title": "Stage 3: AI-Generated Reporting",
-      "anchor": "ARCH"
+      "title": "Agent Evaluation Scorecard",
+      "anchor": "MODEL"
     },
     {
       "slide": 209,
-      "title": "AI isn\u2019t just another tool. It\u2019s a strategic capability that reshapes risk response and reporting.",
-      "anchor": "MODEL"
+      "title": "Finance Query Agent: Operating Instructions",
+      "anchor": "CONFIG"
     },
     {
       "slide": 210,
-      "title": "Demo: Data Cleaning & Preprocessing Prompts",
-      "anchor": "MODEL"
+      "title": "Knowledge-Source Metadata Contract",
+      "anchor": "CONFIG"
     },
     {
       "slide": 211,
-      "title": "Demo: Data Cleaning & Preprocessing Prompts",
-      "anchor": "EVIDENCE"
+      "title": "Generative Orchestration: Runtime Selection",
+      "anchor": "ARCH"
     },
     {
       "slide": 212,
-      "title": "Demo: Exploratory Data Analysis (EDA) Prompts",
-      "anchor": "MODEL"
+      "title": "ReadCloseStatus Tool Contract",
+      "anchor": "CONFIG"
     },
     {
       "slide": 213,
-      "title": "Demo: Exploratory Data Analysis (EDA) Prompts",
-      "anchor": "EVIDENCE"
+      "title": "Power Fx Input Guard for Finance Tools",
+      "anchor": "CONFIG"
     },
     {
       "slide": 214,
-      "title": "Demo: Fraud Detection Prompts",
+      "title": "DLP Connector Classification for a Finance Environment",
       "anchor": "MODEL"
     },
     {
       "slide": 215,
-      "title": "Demo: Fraud Detection Prompts",
-      "anchor": "EVIDENCE"
+      "title": "Environment and Solution ALM",
+      "anchor": "MODEL"
     },
     {
       "slide": 216,
-      "title": "Fraud Metrics: Compute the Trade-Off",
-      "anchor": "FORMULA"
+      "title": "Multi-Agent Handoff Payload",
+      "anchor": "CONFIG"
     },
     {
       "slide": 217,
-      "title": "Threshold Changes Precision and Recall",
-      "anchor": "MODEL"
+      "title": "Agent Evaluation Test-Case Schema",
+      "anchor": "CONFIG"
     },
     {
       "slide": 218,
-      "title": "Fraud Threshold Economics",
-      "anchor": "FORMULA"
-    },
-    {
-      "slide": 219,
-      "title": "Business Cost by Fraud Threshold",
+      "title": "Evaluation Result Diagnosis",
       "anchor": "MODEL"
     },
     {
+      "slide": 219,
+      "title": "Automated Evaluation Pipeline",
+      "anchor": "ARCH"
+    },
+    {
       "slide": 220,
-      "title": "Feature Engineering with Finance Meaning",
-      "anchor": "FORMULA"
+      "title": "Production Telemetry and Alert Rules",
+      "anchor": "MODEL"
     },
     {
       "slide": 221,
-      "title": "Finance Agent Trust Boundaries",
+      "title": "Lab 5 \u00b7 Create a Microsoft 365 Finance Decision Pack",
       "anchor": "ARCH"
     },
     {
       "slide": 222,
-      "title": "Treat Retrieved Content as Data, Not Authority",
-      "anchor": "CONFIG"
-    },
-    {
-      "slide": 223,
-      "title": "Identity Propagation by Action Type",
+      "title": "Lab 5 \u00b7 Acceptance Evidence",
       "anchor": "MODEL"
     },
     {
+      "slide": 223,
+      "title": "Lab 6 \u00b7 Build a Grounded Finance Query Agent",
+      "anchor": "ARCH"
+    },
+    {
       "slide": 224,
-      "title": "Finance AI Threat-to-Control Matrix",
+      "title": "Lab 6 \u00b7 Acceptance Evidence",
       "anchor": "MODEL"
     },
     {
       "slide": 225,
-      "title": "Fraud Confusion Matrix: Convert Counts to Cost",
-      "anchor": "FORMULA"
+      "title": "Lab 7 \u00b7 Design and UAT a Multi-Agent Close Workflow",
+      "anchor": "ARCH"
     },
     {
       "slide": 226,
-      "title": "Confusion Matrix Counts by Threshold",
+      "title": "Lab 7 \u00b7 Acceptance Evidence",
       "anchor": "MODEL"
     },
     {
       "slide": 227,
-      "title": "Population Stability Index for Feature Drift",
-      "anchor": "FORMULA"
+      "title": "AI Risk Management, Security and Fraud Detection",
+      "anchor": "EXEMPT"
     },
     {
       "slide": 228,
-      "title": "Model Card: Minimum Finance Evidence",
-      "anchor": "CONFIG"
+      "title": "Traditional risk management tools have not kept pace with evolving modern threats like cyber fraud, complex\u2026",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 229,
-      "title": "Audit Event Schema for a Finance Agent Action",
-      "anchor": "CONFIG"
-    },
-    {
-      "slide": 230,
-      "title": "Finance AI Incident Response",
+      "title": "AI Risk Detection Loop",
       "anchor": "ARCH"
     },
     {
+      "slide": 230,
+      "title": "Detecting Known and Unknown Risks",
+      "anchor": "EVIDENCE"
+    },
+    {
       "slide": 231,
-      "title": "Why Class Imbalance Matters in Fraud Detection Fraud is rare, and your model must be tuned to catch it.",
-      "anchor": "MODEL"
+      "title": "Real-Time Risk Detection in Action",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 232,
-      "title": "Sampling Techniques",
-      "anchor": "MODEL"
+      "title": "AI-Powered Fraud Detection: Signal to Case",
+      "anchor": "ARCH"
     },
     {
       "slide": 233,
-      "title": "Accuracy Isn\u2019t Enough",
+      "title": "Speed, Accuray and Reduced Noise",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 234,
-      "title": "Metrics That Matter",
+      "title": "AI Does Not Replace Finance Judgement",
       "anchor": "MODEL"
     },
     {
       "slide": 235,
-      "title": "Metrics That Matter",
-      "anchor": "EVIDENCE"
+      "title": "AI moves risk management from reactive to proactive and from rule-based to insight-driven.",
+      "anchor": "MODEL"
     },
     {
       "slide": 236,
-      "title": "Metrics That Matter",
-      "anchor": "EVIDENCE"
+      "title": "From Detection to Action Generative AI turns flagged events into clear, consistent reports",
+      "anchor": "MODEL"
     },
     {
       "slide": 237,
-      "title": "Metrics That Matter",
+      "title": "Traditional AI: classifies, predicts, flags Generative AI: writes reports, explains findings, simulates events",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 238,
-      "title": "Metrics That Matter",
+      "title": "What Makes Generative AI Different?",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 239,
-      "title": "Metrics That Matter",
+      "title": "Use Case: Simulating Fraud Scenarios",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 240,
-      "title": "Confusion Matrix",
+      "title": "Automating Regulatory Reporting",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 241,
-      "title": "Confusion Matrix",
+      "title": "Gen AI Across the Workflow",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 242,
-      "title": "Accuracy",
+      "title": "Finance AI pattern",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 243,
-      "title": "Precision",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 244,
-      "title": "Recall",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 245,
-      "title": "There\u2019s No Perfect Solution, Only Trade-Offs Find the balance between catching fraud and minimizing noise",
+      "title": "Stage 1",
       "anchor": "MODEL"
     },
     {
+      "slide": 244,
+      "title": "Stage 2",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 245,
+      "title": "Stage 3: AI-Generated Reporting",
+      "anchor": "ARCH"
+    },
+    {
       "slide": 246,
-      "title": "Demo: Sampling Prompts",
+      "title": "AI isn\u2019t just another tool. It\u2019s a strategic capability that reshapes risk response and reporting.",
       "anchor": "MODEL"
     },
     {
       "slide": 247,
-      "title": "Demo: Sampling Prompts",
-      "anchor": "EVIDENCE"
+      "title": "Demo: Data Cleaning & Preprocessing Prompts",
+      "anchor": "MODEL"
     },
     {
       "slide": 248,
-      "title": "Feature Engineering for Fraud Detection",
+      "title": "Demo: Data Cleaning & Preprocessing Prompts",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 249,
-      "title": "Why Feature Engineering Matters",
+      "title": "Demo: Exploratory Data Analysis (EDA) Prompts",
       "anchor": "MODEL"
     },
     {
       "slide": 250,
-      "title": "Core Feature Engineering Concepts",
+      "title": "Demo: Exploratory Data Analysis (EDA) Prompts",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 251,
-      "title": "Risk Indicator Features",
+      "title": "Demo: Fraud Detection Prompts",
       "anchor": "MODEL"
     },
     {
       "slide": 252,
-      "title": "Risk Score Feature: Reproducible Calculation",
-      "anchor": "FORMULA"
+      "title": "Demo: Fraud Detection Prompts",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 253,
-      "title": "Detecting Unusual Spending Patterns",
-      "anchor": "EVIDENCE"
+      "title": "Fraud Metrics: Compute the Trade-Off",
+      "anchor": "FORMULA"
     },
     {
       "slide": 254,
-      "title": "Best Practices for Feature Engineering",
-      "anchor": "EVIDENCE"
+      "title": "Threshold Changes Precision and Recall",
+      "anchor": "MODEL"
     },
     {
       "slide": 255,
-      "title": "Demo: Feature Engineering Prompts",
-      "anchor": "MODEL"
+      "title": "Fraud Threshold Economics",
+      "anchor": "FORMULA"
     },
     {
       "slide": 256,
-      "title": "Demo: Feature Engineering Prompts",
-      "anchor": "EVIDENCE"
+      "title": "Business Cost by Fraud Threshold",
+      "anchor": "MODEL"
     },
     {
       "slide": 257,
-      "title": "Categorical Feature Encoding",
-      "anchor": "EVIDENCE"
+      "title": "Feature Engineering with Finance Meaning",
+      "anchor": "FORMULA"
     },
     {
       "slide": 258,
-      "title": "Categorical Encoding with an Auditable Pipeline",
-      "anchor": "CONFIG"
+      "title": "Finance Agent Trust Boundaries",
+      "anchor": "ARCH"
     },
     {
       "slide": 259,
-      "title": "Demo: Standardizing Features Prompts",
-      "anchor": "MODEL"
+      "title": "Treat Retrieved Content as Data, Not Authority",
+      "anchor": "CONFIG"
     },
     {
       "slide": 260,
-      "title": "Demo: Standardizing Features Prompts",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 261,
-      "title": "Demo: Feature Engineering",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 262,
-      "title": "Feature Quality Determines Model Quality",
+      "title": "Identity Propagation by Action Type",
       "anchor": "MODEL"
     },
     {
+      "slide": 261,
+      "title": "Finance AI Threat-to-Control Matrix",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 262,
+      "title": "Fraud Confusion Matrix: Convert Counts to Cost",
+      "anchor": "FORMULA"
+    },
+    {
       "slide": 263,
-      "title": "Baseline Models: Logistic Regression vs Decision Tree",
+      "title": "Confusion Matrix Counts by Threshold",
       "anchor": "MODEL"
     },
     {
       "slide": 264,
-      "title": "Logistics Regression Algorithm",
-      "anchor": "EVIDENCE"
+      "title": "Population Stability Index for Feature Drift",
+      "anchor": "FORMULA"
     },
     {
       "slide": 265,
-      "title": "Decision Tree Algorithm",
-      "anchor": "EVIDENCE"
+      "title": "Model Card: Minimum Finance Evidence",
+      "anchor": "CONFIG"
     },
     {
       "slide": 266,
-      "title": "Split Your Dataset",
-      "anchor": "EVIDENCE"
+      "title": "Audit Event Schema for a Finance Agent Action",
+      "anchor": "CONFIG"
     },
     {
       "slide": 267,
-      "title": "Demo: Baseline Model Prompts",
-      "anchor": "MODEL"
+      "title": "Finance AI Incident Response",
+      "anchor": "ARCH"
     },
     {
       "slide": 268,
-      "title": "Split The Data",
-      "anchor": "EVIDENCE"
+      "title": "Why Class Imbalance Matters in Fraud Detection Fraud is rare, and your model must be tuned to catch it.",
+      "anchor": "MODEL"
     },
     {
       "slide": 269,
-      "title": "Logistic Regression",
-      "anchor": "EVIDENCE"
+      "title": "Sampling Techniques",
+      "anchor": "MODEL"
     },
     {
       "slide": 270,
-      "title": "Decision Tree",
+      "title": "Accuracy Isn\u2019t Enough",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 271,
-      "title": "Decision Tree",
-      "anchor": "EVIDENCE"
+      "title": "Metrics That Matter",
+      "anchor": "MODEL"
     },
     {
       "slide": 272,
-      "title": "Classification Report: Read Beyond Accuracy",
-      "anchor": "CONFIG"
+      "title": "Metrics That Matter",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 273,
-      "title": "Finance AI pattern",
+      "title": "Metrics That Matter",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 274,
-      "title": "Baseline Diagnostics Before Model Expansion",
-      "anchor": "ARCH"
+      "title": "Metrics That Matter",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 275,
-      "title": "Why Random Forest?",
+      "title": "Metrics That Matter",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 276,
-      "title": "Random Forest Classifier: Reproducible Baseline",
-      "anchor": "CONFIG"
+      "title": "Metrics That Matter",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 277,
-      "title": "Demo: Random Forest Classifier Prompts",
+      "title": "Confusion Matrix",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 278,
-      "title": "Finance AI pattern",
+      "title": "Confusion Matrix",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 279,
-      "title": "Hyperparameters Tuning",
+      "title": "Accuracy",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 280,
-      "title": "Key Random Forest Hyperparameters",
-      "anchor": "MODEL"
+      "title": "Precision",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 281,
-      "title": "Tuning Methods",
+      "title": "Recall",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 282,
-      "title": "Grid Search",
-      "anchor": "EVIDENCE"
+      "title": "There\u2019s No Perfect Solution, Only Trade-Offs Find the balance between catching fraud and minimizing noise",
+      "anchor": "MODEL"
     },
     {
       "slide": 283,
-      "title": "Random Search",
+      "title": "Demo: Sampling Prompts",
       "anchor": "MODEL"
     },
     {
       "slide": 284,
-      "title": "Bayesian Optimization",
+      "title": "Demo: Sampling Prompts",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 285,
-      "title": "Cross-Validation Strategy",
-      "anchor": "ARCH"
+      "title": "Feature Engineering for Fraud Detection",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 286,
-      "title": "Best Practices for Hyperparameter Tuning",
+      "title": "Why Feature Engineering Matters",
       "anchor": "MODEL"
     },
     {
       "slide": 287,
-      "title": "Demo: Hyper Parameters Tunning",
-      "anchor": "MODEL"
+      "title": "Core Feature Engineering Concepts",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 288,
-      "title": "Small Tuning Improvements \u2192 Big Impact on Fraud Detection Better accuracy, fewer false positives, and smarter\u2026",
+      "title": "Risk Indicator Features",
       "anchor": "MODEL"
     },
     {
       "slide": 289,
-      "title": "Activity : Build AI Modules on Fraud Detection",
-      "anchor": "MODEL"
+      "title": "Risk Score Feature: Reproducible Calculation",
+      "anchor": "FORMULA"
     },
     {
       "slide": 290,
-      "title": "Activity : Build AI Modules on Fraud Detection",
-      "anchor": "MODEL"
+      "title": "Detecting Unusual Spending Patterns",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 291,
-      "title": "Activity : Build AI Modules on Fraud Detection",
+      "title": "Best Practices for Feature Engineering",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 292,
-      "title": "XGBoost",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 293,
-      "title": "Activity : Agent Mode",
+      "title": "Demo: Feature Engineering Prompts",
       "anchor": "MODEL"
     },
     {
+      "slide": 293,
+      "title": "Demo: Feature Engineering Prompts",
+      "anchor": "EVIDENCE"
+    },
+    {
       "slide": 294,
-      "title": "Activity : Agent Mode",
+      "title": "Categorical Feature Encoding",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 295,
-      "title": "Beyond the Build Interpretation, validation, and monitoring make fraud models trustworthy and durable",
-      "anchor": "MODEL"
+      "title": "Categorical Encoding with an Auditable Pipeline",
+      "anchor": "CONFIG"
     },
     {
       "slide": 296,
-      "title": "Make the Model Explainable",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 297,
-      "title": "Explain the Model with Feature Importance",
+      "title": "Demo: Standardizing Features Prompts",
       "anchor": "MODEL"
     },
     {
+      "slide": 297,
+      "title": "Demo: Standardizing Features Prompts",
+      "anchor": "EVIDENCE"
+    },
+    {
       "slide": 298,
-      "title": "Validate with Cross-Validation (CV)",
+      "title": "Demo: Feature Engineering",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 299,
-      "title": "Track the Right Fraud Metrics",
+      "title": "Feature Quality Determines Model Quality",
       "anchor": "MODEL"
     },
     {
       "slide": 300,
-      "title": "Monitor for Model Drift",
+      "title": "Baseline Models: Logistic Regression vs Decision Tree",
       "anchor": "MODEL"
     },
     {
       "slide": 301,
-      "title": "Document your process. Interpretability + validation + monitoring = a system of trust that scale",
-      "anchor": "MODEL"
+      "title": "Logistics Regression Algorithm",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 302,
-      "title": "From Detection to Action Generative AI instantly turns flagged data into clear, actionable alerts.",
-      "anchor": "MODEL"
+      "title": "Decision Tree Algorithm",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 303,
-      "title": "Examples of AI Generated Alerts",
+      "title": "Split Your Dataset",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 304,
-      "title": "Examples of AI Generated Alerts",
+      "title": "Demo: Baseline Model Prompts",
       "anchor": "MODEL"
     },
     {
       "slide": 305,
-      "title": "Automated Multi-Signal Alerts That Scale",
-      "anchor": "ARCH"
+      "title": "Split The Data",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 306,
-      "title": "Alert Variants and Audit Trails",
-      "anchor": "MODEL"
+      "title": "Logistic Regression",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 307,
-      "title": "The Problem with Alerts Alone",
+      "title": "Decision Tree",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 308,
-      "title": "What Makes a Strong Fraud Report?",
-      "anchor": "MODEL"
+      "title": "Decision Tree",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 309,
-      "title": "What to Collect for the Report",
-      "anchor": "EVIDENCE"
+      "title": "Classification Report: Read Beyond Accuracy",
+      "anchor": "CONFIG"
     },
     {
       "slide": 310,
-      "title": "Use a Standard Report Template",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 311,
-      "title": "Sample Executive Summary",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 312,
-      "title": "Tailor Reports to the Audience",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 313,
-      "title": "Automate the Process",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 314,
-      "title": "Secure and Audit-Friendly Finance AI",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 315,
-      "title": "Why This Matters",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 316,
-      "title": "Integrate AI into Live Operations Start small and deploy where impact is high and feedback is clear.",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 317,
-      "title": "Build a Practical Feedback Loop",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 318,
-      "title": "Ensure Compliance from Day One",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 319,
-      "title": "Train for Human\u2013AI Collaboration",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 320,
-      "title": "When AI is embedded in finance workflows risk becomes proactive, compliance becomes scalable, and fraud\u2026",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 321,
-      "title": "Sustainable AI Starts with Governance",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 322,
-      "title": "Monitor, Retrain, Adapt",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 323,
-      "title": "Build a Culture of Continuous Learning",
-      "anchor": "ARCH"
-    },
-    {
-      "slide": 324,
-      "title": "AI Is Not Just a Tool \u2014 It\u2019s a Capability When paired with strong governance and team buy-in, it becomes your\u2026",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 325,
       "title": "Finance AI pattern",
       "anchor": "EVIDENCE"
     },
     {
+      "slide": 311,
+      "title": "Baseline Diagnostics Before Model Expansion",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 312,
+      "title": "Why Random Forest?",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 313,
+      "title": "Random Forest Classifier: Reproducible Baseline",
+      "anchor": "CONFIG"
+    },
+    {
+      "slide": 314,
+      "title": "Demo: Random Forest Classifier Prompts",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 315,
+      "title": "Finance AI pattern",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 316,
+      "title": "Hyperparameters Tuning",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 317,
+      "title": "Key Random Forest Hyperparameters",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 318,
+      "title": "Tuning Methods",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 319,
+      "title": "Grid Search",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 320,
+      "title": "Random Search",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 321,
+      "title": "Bayesian Optimization",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 322,
+      "title": "Cross-Validation Strategy",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 323,
+      "title": "Best Practices for Hyperparameter Tuning",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 324,
+      "title": "Demo: Hyper Parameters Tunning",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 325,
+      "title": "Small Tuning Improvements \u2192 Big Impact on Fraud Detection Better accuracy, fewer false positives, and smarter\u2026",
+      "anchor": "MODEL"
+    },
+    {
       "slide": 326,
-      "title": "Activity : Case Study of AI on Fraud Detection",
+      "title": "Activity : Build AI Modules on Fraud Detection",
       "anchor": "MODEL"
     },
     {
       "slide": 327,
-      "title": "Activity : Case Study of AI on Fraud Detection",
+      "title": "Activity : Build AI Modules on Fraud Detection",
       "anchor": "MODEL"
     },
     {
       "slide": 328,
-      "title": "Future Trends and Innovations in Generative AI for Finance",
-      "anchor": "EXEMPT"
+      "title": "Activity : Build AI Modules on Fraud Detection",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 329,
-      "title": "Agentic AI and \u2018Human-Like\u2019 Approach",
+      "title": "XGBoost",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 330,
-      "title": "Use Cases of Agentic AI for Finance",
-      "anchor": "EVIDENCE"
+      "title": "Activity : Agent Mode",
+      "anchor": "MODEL"
     },
     {
       "slide": 331,
-      "title": "Use Cases of Agentic AI for Finance",
+      "title": "Activity : Agent Mode",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 332,
-      "title": "Case Study: JPMorgan Chase\u2019s AI-Connected Bank",
-      "anchor": "EVIDENCE"
+      "title": "Beyond the Build Interpretation, validation, and monitoring make fraud models trustworthy and durable",
+      "anchor": "MODEL"
     },
     {
       "slide": 333,
-      "title": "Future Trends of GenAI in Finance",
+      "title": "Make the Model Explainable",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 334,
-      "title": "Perplexity Finance AI",
-      "anchor": "EVIDENCE"
+      "title": "Explain the Model with Feature Importance",
+      "anchor": "MODEL"
     },
     {
       "slide": 335,
-      "title": "Perplexity Space",
+      "title": "Validate with Cross-Validation (CV)",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 336,
-      "title": "Activity : Financial Market",
+      "title": "Track the Right Fraud Metrics",
       "anchor": "MODEL"
     },
     {
       "slide": 337,
-      "title": "Lewin's Change Management Framework for GenAI in Finance",
-      "anchor": "EVIDENCE"
+      "title": "Monitor for Model Drift",
+      "anchor": "MODEL"
     },
     {
       "slide": 338,
-      "title": "Lewin's Three-Stage Model",
-      "anchor": "EVIDENCE"
+      "title": "Document your process. Interpretability + validation + monitoring = a system of trust that scale",
+      "anchor": "MODEL"
     },
     {
       "slide": 339,
-      "title": "Stage 1: Unfreeze",
-      "anchor": "EVIDENCE"
+      "title": "From Detection to Action Generative AI instantly turns flagged data into clear, actionable alerts.",
+      "anchor": "MODEL"
     },
     {
       "slide": 340,
-      "title": "Stage 1: Unfreeze",
+      "title": "Examples of AI Generated Alerts",
       "anchor": "EVIDENCE"
     },
     {
       "slide": 341,
-      "title": "Stage 1: Unfreeze",
-      "anchor": "EVIDENCE"
-    },
-    {
-      "slide": 342,
-      "title": "Stage 2: Change Implementing GenAI in Financial Operation",
+      "title": "Examples of AI Generated Alerts",
       "anchor": "MODEL"
     },
     {
+      "slide": 342,
+      "title": "Automated Multi-Signal Alerts That Scale",
+      "anchor": "ARCH"
+    },
+    {
       "slide": 343,
-      "title": "Stage 2: Change GenAI Use Cases in Finance",
+      "title": "Alert Variants and Audit Trails",
       "anchor": "MODEL"
     },
     {
       "slide": 344,
-      "title": "Stage 2: Change Overcoming Implementation Challenges",
-      "anchor": "MODEL"
+      "title": "The Problem with Alerts Alone",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 345,
-      "title": "Stage 3: Refreeze Embedding GenAI as Standard Practice",
-      "anchor": "EVIDENCE"
+      "title": "What Makes a Strong Fraud Report?",
+      "anchor": "MODEL"
     },
     {
       "slide": 346,
-      "title": "Stage 3: Refreeze Embedding GenAI as Standard Practice",
-      "anchor": "MODEL"
-    },
-    {
-      "slide": 347,
-      "title": "Your Roadmap to GenAI Success",
+      "title": "What to Collect for the Report",
       "anchor": "EVIDENCE"
     },
     {
-      "slide": 348,
-      "title": "Activity : Future Trends of GenAI",
+      "slide": 347,
+      "title": "Use a Standard Report Template",
       "anchor": "MODEL"
     },
     {
+      "slide": 348,
+      "title": "Sample Executive Summary",
+      "anchor": "EVIDENCE"
+    },
+    {
       "slide": 349,
-      "title": "Activity : Future Trends of GenAI",
+      "title": "Tailor Reports to the Audience",
       "anchor": "MODEL"
     },
     {
       "slide": 350,
-      "title": "Summary Q&A",
-      "anchor": "MODEL"
+      "title": "Automate the Process",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 351,
-      "title": "Lab 1 \u00b7 Prioritise a Finance AI Use-Case Portfolio",
-      "anchor": "ARCH"
+      "title": "Secure and Audit-Friendly Finance AI",
+      "anchor": "MODEL"
     },
     {
       "slide": 352,
-      "title": "Lab 1 \u00b7 Acceptance Evidence",
+      "title": "Why This Matters",
       "anchor": "MODEL"
     },
     {
       "slide": 353,
-      "title": "Lab 2 \u00b7 Prepare Finance Data for Copilot in Excel",
-      "anchor": "ARCH"
+      "title": "Integrate AI into Live Operations Start small and deploy where impact is high and feedback is clear.",
+      "anchor": "MODEL"
     },
     {
       "slide": 354,
-      "title": "Lab 2 \u00b7 Acceptance Evidence",
-      "anchor": "MODEL"
+      "title": "Build a Practical Feedback Loop",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 355,
-      "title": "Lab 3 \u00b7 Build an FP&A Formula Model and Dashboard",
-      "anchor": "ARCH"
+      "title": "Ensure Compliance from Day One",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 356,
-      "title": "Lab 3 \u00b7 Acceptance Evidence",
-      "anchor": "MODEL"
+      "title": "Train for Human\u2013AI Collaboration",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 357,
-      "title": "Lab 4 \u00b7 Reconcile Accounts and Explain Variances",
-      "anchor": "ARCH"
+      "title": "When AI is embedded in finance workflows risk becomes proactive, compliance becomes scalable, and fraud\u2026",
+      "anchor": "MODEL"
     },
     {
       "slide": 358,
-      "title": "Lab 4 \u00b7 Acceptance Evidence",
+      "title": "Sustainable AI Starts with Governance",
       "anchor": "MODEL"
     },
     {
       "slide": 359,
-      "title": "Lab 8 \u00b7 Evaluate a Fraud Model and Alert Narrative",
-      "anchor": "ARCH"
+      "title": "Monitor, Retrain, Adapt",
+      "anchor": "EVIDENCE"
     },
     {
       "slide": 360,
-      "title": "Lab 8 \u00b7 Acceptance Evidence",
-      "anchor": "MODEL"
+      "title": "Build a Culture of Continuous Learning",
+      "anchor": "ARCH"
     },
     {
       "slide": 361,
-      "title": "Lab 9 \u00b7 Threat-Model and Secure a Finance Agent",
-      "anchor": "ARCH"
-    },
-    {
-      "slide": 362,
-      "title": "Lab 9 \u00b7 Acceptance Evidence",
+      "title": "AI Is Not Just a Tool \u2014 It\u2019s a Capability When paired with strong governance and team buy-in, it becomes your\u2026",
       "anchor": "MODEL"
     },
     {
+      "slide": 362,
+      "title": "Finance AI pattern",
+      "anchor": "EVIDENCE"
+    },
+    {
       "slide": 363,
-      "title": "Lab 10 \u00b7 Build the Finance AI Business Case and Roadmap",
-      "anchor": "ARCH"
+      "title": "Activity : Case Study of AI on Fraud Detection",
+      "anchor": "MODEL"
     },
     {
       "slide": 364,
-      "title": "Lab 10 \u00b7 Acceptance Evidence",
+      "title": "Activity : Case Study of AI on Fraud Detection",
       "anchor": "MODEL"
     },
     {
       "slide": 365,
+      "title": "Future Trends and Innovations in Generative AI for Finance",
+      "anchor": "EXEMPT"
+    },
+    {
+      "slide": 366,
+      "title": "Agentic AI and \u2018Human-Like\u2019 Approach",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 367,
+      "title": "Use Cases of Agentic AI for Finance",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 368,
+      "title": "Use Cases of Agentic AI for Finance",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 369,
+      "title": "Case Study: JPMorgan Chase\u2019s AI-Connected Bank",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 370,
+      "title": "Future Trends of GenAI in Finance",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 371,
+      "title": "Perplexity Finance AI",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 372,
+      "title": "Perplexity Space",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 373,
+      "title": "Activity : Financial Market",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 374,
+      "title": "Lewin's Change Management Framework for GenAI in Finance",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 375,
+      "title": "Lewin's Three-Stage Model",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 376,
+      "title": "Stage 1: Unfreeze",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 377,
+      "title": "Stage 1: Unfreeze",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 378,
+      "title": "Stage 1: Unfreeze",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 379,
+      "title": "Stage 2: Change Implementing GenAI in Financial Operation",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 380,
+      "title": "Stage 2: Change GenAI Use Cases in Finance",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 381,
+      "title": "Stage 2: Change Overcoming Implementation Challenges",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 382,
+      "title": "Stage 3: Refreeze Embedding GenAI as Standard Practice",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 383,
+      "title": "Stage 3: Refreeze Embedding GenAI as Standard Practice",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 384,
+      "title": "Your Roadmap to GenAI Success",
+      "anchor": "EVIDENCE"
+    },
+    {
+      "slide": 385,
+      "title": "Activity : Future Trends of GenAI",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 386,
+      "title": "Activity : Future Trends of GenAI",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 387,
+      "title": "Summary Q&A",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 388,
+      "title": "Lab 1 \u00b7 Prioritise a Finance AI Use-Case Portfolio",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 389,
+      "title": "Lab 1 \u00b7 Acceptance Evidence",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 390,
+      "title": "Lab 2 \u00b7 Prepare Finance Data for Copilot in Excel",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 391,
+      "title": "Lab 2 \u00b7 Acceptance Evidence",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 392,
+      "title": "Lab 3 \u00b7 Build an FP&A Formula Model and Dashboard",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 393,
+      "title": "Lab 3 \u00b7 Acceptance Evidence",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 394,
+      "title": "Lab 4 \u00b7 Reconcile Accounts and Explain Variances",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 395,
+      "title": "Lab 4 \u00b7 Acceptance Evidence",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 396,
+      "title": "Lab 8 \u00b7 Evaluate a Fraud Model and Alert Narrative",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 397,
+      "title": "Lab 8 \u00b7 Acceptance Evidence",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 398,
+      "title": "Lab 9 \u00b7 Threat-Model and Secure a Finance Agent",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 399,
+      "title": "Lab 9 \u00b7 Acceptance Evidence",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 400,
+      "title": "Lab 10 \u00b7 Build the Finance AI Business Case and Roadmap",
+      "anchor": "ARCH"
+    },
+    {
+      "slide": 401,
+      "title": "Lab 10 \u00b7 Acceptance Evidence",
+      "anchor": "MODEL"
+    },
+    {
+      "slide": 402,
       "title": "From Copilots to Governed Finance Capability",
       "anchor": "MODEL"
     },
     {
-      "slide": 366,
+      "slide": 403,
       "title": "References and Further Reading",
       "anchor": "MODEL"
     },
     {
-      "slide": 367,
+      "slide": 404,
       "title": "References and Further Reading",
       "anchor": "MODEL"
     },
     {
-      "slide": 368,
+      "slide": 405,
       "title": "References and Further Reading",
       "anchor": "MODEL"
     },
     {
-      "slide": 369,
+      "slide": 406,
       "title": "References and Further Reading",
       "anchor": "MODEL"
     },
     {
-      "slide": 370,
+      "slide": 407,
       "title": "Assessment Reminder",
       "anchor": "EXEMPT"
     },
     {
-      "slide": 371,
+      "slide": 408,
       "title": "Assessment Flow",
       "anchor": "EXEMPT"
     },
     {
-      "slide": 372,
+      "slide": 409,
       "title": "Digital Attendance (Mandatory)",
       "anchor": "EXEMPT"
     },
     {
-      "slide": 373,
+      "slide": 410,
       "title": "Thank You",
       "anchor": "EXEMPT"
     }
   ],
   "technical_anchor_counts": {
-    "ARCH": 26,
-    "CONFIG": 14,
+    "ARCH": 32,
+    "CONFIG": 18,
     "EVIDENCE": 155,
     "EXEMPT": 19,
-    "FORMULA": 15,
-    "MODEL": 131,
-    "UI": 13
+    "FORMULA": 17,
+    "MODEL": 142,
+    "UI": 27
   },
   "layout_family_inventory": [
     {
@@ -2287,104 +2472,40 @@
       "family": "technical_board"
     },
     {
-      "slide": 89,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 91,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 93,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 94,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 95,
-      "family": "technical_board"
-    },
-    {
-      "slide": 96,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 97,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 98,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 99,
-      "family": "technical_board"
-    },
-    {
-      "slide": 101,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 102,
-      "family": "technical_board"
-    },
-    {
-      "slide": 103,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 104,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 105,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 106,
-      "family": "technical_board"
-    },
-    {
       "slide": 107,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 108,
-      "family": "split_analysis"
+      "family": "canvas_orbit"
     },
     {
       "slide": 109,
-      "family": "technical_board"
-    },
-    {
-      "slide": 110,
-      "family": "canvas_orbit"
+      "family": "wide_evidence"
     },
     {
       "slide": 111,
       "family": "wide_evidence"
     },
     {
-      "slide": 114,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 115,
+      "slide": 112,
       "family": "split_analysis"
     },
     {
-      "slide": 116,
+      "slide": 113,
       "family": "technical_board"
     },
     {
-      "slide": 117,
+      "slide": 114,
       "family": "canvas_orbit"
     },
     {
-      "slide": 118,
+      "slide": 115,
       "family": "wide_evidence"
+    },
+    {
+      "slide": 116,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 117,
+      "family": "technical_board"
     },
     {
       "slide": 119,
@@ -2396,7 +2517,7 @@
     },
     {
       "slide": 121,
-      "family": "diagram_map"
+      "family": "canvas_orbit"
     },
     {
       "slide": 122,
@@ -2404,6 +2525,10 @@
     },
     {
       "slide": 123,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 124,
       "family": "technical_board"
     },
     {
@@ -2420,18 +2545,30 @@
     },
     {
       "slide": 128,
-      "family": "wide_evidence"
+      "family": "canvas_orbit"
     },
     {
       "slide": 129,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 130,
-      "family": "technical_board"
+      "family": "wide_evidence"
     },
     {
       "slide": 132,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 133,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 134,
+      "family": "technical_board"
+    },
+    {
+      "slide": 135,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 136,
       "family": "wide_evidence"
     },
     {
@@ -2440,226 +2577,182 @@
     },
     {
       "slide": 138,
-      "family": "canvas_orbit"
+      "family": "technical_board"
+    },
+    {
+      "slide": 139,
+      "family": "diagram_map"
     },
     {
       "slide": 140,
-      "family": "split_analysis"
+      "family": "wide_evidence"
     },
     {
       "slide": 141,
       "family": "technical_board"
     },
     {
+      "slide": 143,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 144,
+      "family": "split_analysis"
+    },
+    {
       "slide": 145,
-      "family": "canvas_orbit"
+      "family": "technical_board"
+    },
+    {
+      "slide": 146,
+      "family": "wide_evidence"
     },
     {
       "slide": 147,
-      "family": "wide_evidence"
+      "family": "split_analysis"
     },
     {
       "slide": 148,
       "family": "technical_board"
     },
     {
-      "slide": 149,
+      "slide": 150,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 155,
       "family": "split_analysis"
     },
     {
-      "slide": 150,
+      "slide": 156,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 158,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 159,
       "family": "technical_board"
     },
     {
-      "slide": 151,
+      "slide": 163,
       "family": "canvas_orbit"
     },
     {
-      "slide": 191,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 193,
-      "family": "editorial_story"
-    },
-    {
-      "slide": 194,
+      "slide": 165,
       "family": "wide_evidence"
     },
     {
-      "slide": 196,
-      "family": "editorial_story"
+      "slide": 166,
+      "family": "technical_board"
     },
     {
-      "slide": 200,
-      "family": "editorial_story"
-    },
-    {
-      "slide": 201,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 202,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 203,
-      "family": "editorial_story"
-    },
-    {
-      "slide": 204,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 205,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 211,
+      "slide": 167,
       "family": "split_analysis"
     },
     {
-      "slide": 213,
+      "slide": 168,
+      "family": "technical_board"
+    },
+    {
+      "slide": 169,
       "family": "canvas_orbit"
     },
     {
-      "slide": 215,
-      "family": "split_analysis"
+      "slide": 228,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 230,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 231,
+      "family": "wide_evidence"
     },
     {
       "slide": 233,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 235,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 236,
-      "family": "diagram_map"
+      "family": "editorial_story"
     },
     {
       "slide": 237,
-      "family": "wide_evidence"
+      "family": "editorial_story"
     },
     {
       "slide": 238,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 239,
-      "family": "diagram_map"
-    },
-    {
-      "slide": 240,
       "family": "wide_evidence"
     },
     {
+      "slide": 239,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 240,
+      "family": "editorial_story"
+    },
+    {
       "slide": 241,
-      "family": "split_analysis"
+      "family": "wide_evidence"
     },
     {
       "slide": 242,
       "family": "canvas_orbit"
     },
     {
-      "slide": 243,
-      "family": "diagram_map"
-    },
-    {
-      "slide": 244,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 247,
-      "family": "split_analysis"
-    },
-    {
       "slide": 248,
-      "family": "canvas_orbit"
+      "family": "split_analysis"
     },
     {
       "slide": 250,
-      "family": "editorial_story"
-    },
-    {
-      "slide": 253,
-      "family": "editorial_story"
-    },
-    {
-      "slide": 254,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 256,
       "family": "canvas_orbit"
     },
     {
-      "slide": 257,
-      "family": "diagram_map"
-    },
-    {
-      "slide": 260,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 261,
+      "slide": 252,
       "family": "split_analysis"
-    },
-    {
-      "slide": 264,
-      "family": "diagram_map"
-    },
-    {
-      "slide": 265,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 266,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 268,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 269,
-      "family": "technical_board"
     },
     {
       "slide": 270,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 271,
       "family": "wide_evidence"
     },
     {
+      "slide": 272,
+      "family": "canvas_orbit"
+    },
+    {
       "slide": 273,
-      "family": "split_analysis"
+      "family": "diagram_map"
+    },
+    {
+      "slide": 274,
+      "family": "wide_evidence"
     },
     {
       "slide": 275,
       "family": "split_analysis"
     },
     {
-      "slide": 277,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 278,
+      "slide": 276,
       "family": "diagram_map"
     },
     {
-      "slide": 279,
+      "slide": 277,
       "family": "wide_evidence"
     },
     {
-      "slide": 281,
-      "family": "editorial_story"
+      "slide": 278,
+      "family": "split_analysis"
     },
     {
-      "slide": 282,
+      "slide": 279,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 280,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 281,
       "family": "wide_evidence"
     },
     {
@@ -2667,119 +2760,211 @@
       "family": "split_analysis"
     },
     {
-      "slide": 291,
+      "slide": 285,
       "family": "canvas_orbit"
     },
     {
-      "slide": 292,
+      "slide": 287,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 290,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 291,
       "family": "wide_evidence"
     },
     {
-      "slide": 294,
-      "family": "split_analysis"
+      "slide": 293,
+      "family": "canvas_orbit"
     },
     {
-      "slide": 296,
+      "slide": 294,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 297,
       "family": "wide_evidence"
     },
     {
       "slide": 298,
-      "family": "canvas_orbit"
+      "family": "split_analysis"
+    },
+    {
+      "slide": 301,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 302,
+      "family": "split_analysis"
     },
     {
       "slide": 303,
-      "family": "wide_evidence"
+      "family": "split_analysis"
     },
     {
-      "slide": 307,
-      "family": "wide_evidence"
+      "slide": 305,
+      "family": "split_analysis"
     },
     {
-      "slide": 309,
-      "family": "editorial_story"
-    },
-    {
-      "slide": 311,
+      "slide": 306,
       "family": "technical_board"
     },
     {
-      "slide": 313,
-      "family": "editorial_story"
+      "slide": 307,
+      "family": "canvas_orbit"
     },
     {
-      "slide": 317,
+      "slide": 308,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 310,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 312,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 314,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 315,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 316,
       "family": "wide_evidence"
     },
     {
       "slide": 318,
-      "family": "canvas_orbit"
+      "family": "editorial_story"
     },
     {
       "slide": 319,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 321,
       "family": "split_analysis"
     },
     {
-      "slide": 322,
-      "family": "canvas_orbit"
-    },
-    {
-      "slide": 325,
+      "slide": 328,
       "family": "canvas_orbit"
     },
     {
       "slide": 329,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 330,
-      "family": "diagram_map"
-    },
-    {
-      "slide": 331,
       "family": "wide_evidence"
     },
     {
-      "slide": 332,
-      "family": "technical_board"
-    },
-    {
-      "slide": 333,
+      "slide": 331,
       "family": "split_analysis"
     },
     {
-      "slide": 334,
+      "slide": 333,
       "family": "wide_evidence"
     },
     {
       "slide": 335,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 337,
-      "family": "editorial_story"
-    },
-    {
-      "slide": 338,
-      "family": "wide_evidence"
-    },
-    {
-      "slide": 339,
       "family": "canvas_orbit"
     },
     {
       "slide": 340,
-      "family": "split_analysis"
-    },
-    {
-      "slide": 341,
-      "family": "editorial_story"
-    },
-    {
-      "slide": 345,
       "family": "wide_evidence"
     },
     {
-      "slide": 347,
+      "slide": 344,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 346,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 348,
+      "family": "technical_board"
+    },
+    {
+      "slide": 350,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 354,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 355,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 356,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 359,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 362,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 366,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 367,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 368,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 369,
+      "family": "technical_board"
+    },
+    {
+      "slide": 370,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 371,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 372,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 374,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 375,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 376,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 377,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 378,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 382,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 384,
       "family": "split_analysis"
     }
   ],
@@ -2881,227 +3066,179 @@
       "family": "decision_rails"
     },
     {
-      "slide": 88,
+      "slide": 106,
       "family": "four_card"
     },
     {
-      "slide": 90,
+      "slide": 108,
       "family": "decision_rails"
     },
     {
-      "slide": 92,
+      "slide": 110,
       "family": "four_card"
     },
     {
-      "slide": 100,
+      "slide": 118,
       "family": "decision_rails"
     },
     {
-      "slide": 112,
+      "slide": 130,
       "family": "analysis_matrix"
-    },
-    {
-      "slide": 113,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 124,
-      "family": "four_card"
     },
     {
       "slide": 131,
-      "family": "four_card"
-    },
-    {
-      "slide": 133,
-      "family": "four_card"
-    },
-    {
-      "slide": 134,
-      "family": "four_card"
-    },
-    {
-      "slide": 135,
-      "family": "four_card"
-    },
-    {
-      "slide": 136,
-      "family": "decision_rails"
-    },
-    {
-      "slide": 139,
       "family": "analysis_matrix"
     },
     {
       "slide": 142,
-      "family": "decision_rails"
+      "family": "four_card"
     },
     {
-      "slide": 143,
-      "family": "decision_rails"
+      "slide": 149,
+      "family": "four_card"
     },
     {
-      "slide": 144,
-      "family": "decision_rails"
+      "slide": 151,
+      "family": "four_card"
     },
     {
-      "slide": 146,
-      "family": "analysis_matrix"
+      "slide": 152,
+      "family": "four_card"
     },
     {
       "slide": 153,
       "family": "four_card"
     },
     {
-      "slide": 158,
+      "slide": 154,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 157,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 160,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 161,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 162,
       "family": "decision_rails"
     },
     {
       "slide": 164,
-      "family": "decision_rails"
-    },
-    {
-      "slide": 165,
       "family": "analysis_matrix"
-    },
-    {
-      "slide": 168,
-      "family": "four_card"
     },
     {
       "slide": 171,
+      "family": "four_card"
+    },
+    {
+      "slide": 190,
+      "family": "four_card"
+    },
+    {
+      "slide": 195,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 201,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 202,
       "family": "analysis_matrix"
     },
     {
-      "slide": 185,
-      "family": "decision_rails"
-    },
-    {
-      "slide": 187,
+      "slide": 205,
       "family": "four_card"
     },
     {
-      "slide": 189,
+      "slide": 208,
       "family": "analysis_matrix"
     },
     {
-      "slide": 198,
+      "slide": 222,
       "family": "decision_rails"
     },
     {
-      "slide": 199,
-      "family": "decision_rails"
+      "slide": 224,
+      "family": "four_card"
     },
     {
-      "slide": 206,
+      "slide": 226,
       "family": "analysis_matrix"
     },
     {
-      "slide": 207,
+      "slide": 235,
       "family": "decision_rails"
     },
     {
-      "slide": 209,
+      "slide": 236,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 243,
       "family": "analysis_matrix"
     },
     {
-      "slide": 210,
-      "family": "four_card"
-    },
-    {
-      "slide": 212,
-      "family": "four_card"
-    },
-    {
-      "slide": 214,
-      "family": "four_card"
-    },
-    {
-      "slide": 231,
+      "slide": 244,
       "family": "decision_rails"
-    },
-    {
-      "slide": 232,
-      "family": "decision_rails"
-    },
-    {
-      "slide": 234,
-      "family": "four_card"
-    },
-    {
-      "slide": 245,
-      "family": "four_card"
     },
     {
       "slide": 246,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 247,
       "family": "four_card"
     },
     {
       "slide": 249,
-      "family": "decision_rails"
+      "family": "four_card"
     },
     {
       "slide": 251,
-      "family": "decision_rails"
-    },
-    {
-      "slide": 255,
-      "family": "decision_rails"
-    },
-    {
-      "slide": 259,
       "family": "four_card"
     },
     {
-      "slide": 267,
-      "family": "analysis_matrix"
+      "slide": 268,
+      "family": "decision_rails"
     },
     {
-      "slide": 280,
+      "slide": 269,
       "family": "decision_rails"
+    },
+    {
+      "slide": 271,
+      "family": "four_card"
+    },
+    {
+      "slide": 282,
+      "family": "four_card"
     },
     {
       "slide": 283,
-      "family": "decision_rails"
+      "family": "four_card"
     },
     {
       "slide": 286,
-      "family": "four_card"
-    },
-    {
-      "slide": 287,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 288,
-      "family": "four_card"
-    },
-    {
-      "slide": 289,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 290,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 293,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 295,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 300,
       "family": "decision_rails"
     },
     {
-      "slide": 301,
-      "family": "four_card"
+      "slide": 288,
+      "family": "decision_rails"
     },
     {
-      "slide": 302,
+      "slide": 292,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 296,
       "family": "four_card"
     },
     {
@@ -3109,27 +3246,7 @@
       "family": "analysis_matrix"
     },
     {
-      "slide": 308,
-      "family": "four_card"
-    },
-    {
-      "slide": 310,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 312,
-      "family": "decision_rails"
-    },
-    {
-      "slide": 314,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 315,
-      "family": "analysis_matrix"
-    },
-    {
-      "slide": 316,
+      "slide": 317,
       "family": "decision_rails"
     },
     {
@@ -3137,12 +3254,16 @@
       "family": "decision_rails"
     },
     {
-      "slide": 321,
-      "family": "analysis_matrix"
+      "slide": 323,
+      "family": "four_card"
     },
     {
       "slide": 324,
       "family": "analysis_matrix"
+    },
+    {
+      "slide": 325,
+      "family": "four_card"
     },
     {
       "slide": 326,
@@ -3153,81 +3274,149 @@
       "family": "analysis_matrix"
     },
     {
-      "slide": 336,
-      "family": "four_card"
+      "slide": 330,
+      "family": "analysis_matrix"
     },
     {
-      "slide": 342,
-      "family": "four_card"
+      "slide": 332,
+      "family": "analysis_matrix"
     },
     {
-      "slide": 343,
+      "slide": 337,
       "family": "decision_rails"
     },
     {
-      "slide": 344,
+      "slide": 338,
       "family": "four_card"
     },
     {
-      "slide": 346,
-      "family": "decision_rails"
+      "slide": 339,
+      "family": "four_card"
     },
     {
-      "slide": 348,
-      "family": "decision_rails"
+      "slide": 341,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 345,
+      "family": "four_card"
+    },
+    {
+      "slide": 347,
+      "family": "analysis_matrix"
     },
     {
       "slide": 349,
       "family": "decision_rails"
     },
     {
-      "slide": 350,
-      "family": "decision_rails"
+      "slide": 351,
+      "family": "analysis_matrix"
     },
     {
       "slide": 352,
       "family": "analysis_matrix"
     },
     {
-      "slide": 354,
+      "slide": 353,
       "family": "decision_rails"
     },
     {
-      "slide": 356,
-      "family": "four_card"
+      "slide": 357,
+      "family": "decision_rails"
     },
     {
       "slide": 358,
       "family": "analysis_matrix"
     },
     {
-      "slide": 360,
-      "family": "decision_rails"
+      "slide": 361,
+      "family": "analysis_matrix"
     },
     {
-      "slide": 362,
-      "family": "four_card"
+      "slide": 363,
+      "family": "analysis_matrix"
     },
     {
       "slide": 364,
       "family": "analysis_matrix"
     },
     {
-      "slide": 365,
-      "family": "decision_rails"
-    },
-    {
-      "slide": 370,
+      "slide": 373,
       "family": "four_card"
     },
     {
-      "slide": 372,
+      "slide": 379,
+      "family": "four_card"
+    },
+    {
+      "slide": 380,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 381,
+      "family": "four_card"
+    },
+    {
+      "slide": 383,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 385,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 386,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 387,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 389,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 391,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 393,
+      "family": "four_card"
+    },
+    {
+      "slide": 395,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 397,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 399,
+      "family": "four_card"
+    },
+    {
+      "slide": 401,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 402,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 407,
+      "family": "four_card"
+    },
+    {
+      "slide": 409,
       "family": "four_card"
     }
   ],
   "concept_layout_counts": {
     "analysis_matrix": 32,
     "decision_rails": 38,
-    "four_card": 38
+    "four_card": 39
   }
 }

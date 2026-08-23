@@ -4,7 +4,7 @@ WSQ courseware for **TGS-2026065050**, delivered by Tertiary Infotech Academy Pt
 
 The published learner/trainer package includes:
 
-- a 373-slide, highly visual PowerPoint deck and matching PDF;
+- a 410-slide, highly visual and deeply technical PowerPoint deck and matching PDF;
 - an aligned Learner Guide and Lesson Plan in DOCX/PDF;
 - ten self-contained lab folders with synthetic finance data, Excel workbooks, dashboards, and evidence checklists;
 - confidential WA and Case Study papers kept outside the public GitHub release.
@@ -18,13 +18,15 @@ The published learner/trainer package includes:
 
 ## Technical deck preview
 
-![Investment robo-advisor interface in the redesigned split-analysis layout](screenshot.png)
+![Copilot Studio build surface with finance-specific configuration callouts](screenshot.png)
 
-## v5.4 technical and visual coverage
+## v5.5 applied technical and visual coverage
 
-- 373 slides with zero general instructional pages in the technical-anchor inventory
+- 410 slides with zero general instructional pages in the technical-anchor inventory
 - original PPT sequence, screenshots and useful diagrams retained as the approved coverage floor
-- 34 new implementation slides covering Excel schemas, formulas, matching rules, Copilot Studio configuration, evaluation, telemetry and finance AI security
+- applied Excel operating sequence: prepare tables, select Chat/Plan/Edit, prompt for native objects, inspect formulas and verify controls
+- applied Finance Agent sequence for variance analysis and two-table reconciliation with exception disposition
+- applied Copilot Studio sequence: scope, configure instructions and knowledge, add typed tools, build agent flows, test, diagnose and release
 - inspectable `SUMIFS`, `XLOOKUP`, materiality, working-capital, reconciliation, PSI and fraud-cost calculations
 - Copilot Studio instruction, knowledge, tool, Power Fx, DLP, ALM, handoff, evaluation and audit-event schemas
 - executable scikit-learn encoding, classification-report and Random Forest examples for the fraud-model section
