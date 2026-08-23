@@ -1,0 +1,92 @@
+[
+  {
+    "lab": 1,
+    "title": "Prioritise a Finance AI Use-Case Portfolio",
+    "criteria": "K2 \u00b7 A1",
+    "folder": "lab-01-prioritise-a-finance-ai-use-case-portfolio",
+    "starter": "finance-ai-use-case-portfolio-starter.xlsx",
+    "solution": "finance-ai-use-case-portfolio-solution.xlsx",
+    "acceptance": "Weights total 100%; every shortlisted use case has a named owner, baseline KPI, risk tier and stop condition."
+  },
+  {
+    "lab": 2,
+    "title": "Prepare Finance Data for Copilot in Excel",
+    "criteria": "K1 \u00b7 A2",
+    "folder": "lab-02-prepare-finance-data-for-copilot-in-excel",
+    "starter": "northstar-finance-data-readiness-starter.xlsx",
+    "solution": "northstar-finance-data-readiness-solution.xlsx",
+    "acceptance": "Duplicate count is zero, required-field errors are zero, and clean totals reconcile to the supplied control figures."
+  },
+  {
+    "lab": 3,
+    "title": "Build an FP&A Formula Model and Dashboard",
+    "criteria": "K1 \u00b7 A2",
+    "folder": "lab-03-build-an-fp-a-formula-model-and-dashboard",
+    "starter": "northstar-fpa-dashboard-starter.xlsx",
+    "solution": "northstar-fpa-dashboard-solution.xlsx",
+    "acceptance": "Dashboard charts remain linked to data; all formula checks pass; total variance equals actual less budget; scenarios use assumption cells rather than hard-coded outputs."
+  },
+  {
+    "lab": 4,
+    "title": "Reconcile Accounts and Explain Variances",
+    "criteria": "K1 \u00b7 A2",
+    "folder": "lab-04-reconcile-accounts-and-explain-variances",
+    "starter": "northstar-reconciliation-variance-starter.xlsx",
+    "solution": "northstar-reconciliation-variance-solution.xlsx",
+    "acceptance": "Matched plus exception values reconcile to each source; all unresolved items have a reason and owner; the narrative cites actual values and materiality thresholds."
+  },
+  {
+    "lab": 5,
+    "title": "Create a Microsoft 365 Finance Decision Pack",
+    "criteria": "A3",
+    "folder": "lab-05-create-a-microsoft-365-finance-decision-pack",
+    "starter": "northstar-decision-pack-source-starter.xlsx",
+    "solution": "northstar-decision-pack-source-solution.xlsx",
+    "acceptance": "All repeated figures match the source workbook; facts and recommendations are separated; the external message remains a draft with an approver."
+  },
+  {
+    "lab": 6,
+    "title": "Build a Grounded Finance Query Agent",
+    "criteria": "A3",
+    "folder": "lab-06-build-a-grounded-finance-query-agent",
+    "starter": "northstar-agent-uat-starter.xlsx",
+    "solution": "northstar-agent-uat-solution.xlsx",
+    "acceptance": "The agent cites approved sources, refuses unsupported answers, respects access boundaries and passes all critical UAT cases before any publish decision."
+  },
+  {
+    "lab": 7,
+    "title": "Design and UAT a Multi-Agent Close Workflow",
+    "criteria": "A3",
+    "folder": "lab-07-design-and-uat-a-multi-agent-close-workflow",
+    "starter": "northstar-multi-agent-close-starter.xlsx",
+    "solution": "northstar-multi-agent-close-solution.xlsx",
+    "acceptance": "No agent can approve or post a journal; every handoff is structured; critical tests pass; monitoring and rollback have named owners."
+  },
+  {
+    "lab": 8,
+    "title": "Evaluate a Fraud Model and Alert Narrative",
+    "criteria": "K3 \u00b7 A4",
+    "folder": "lab-08-evaluate-a-fraud-model-and-alert-narrative",
+    "starter": "northstar-fraud-risk-starter.xlsx",
+    "solution": "northstar-fraud-risk-solution.xlsx",
+    "acceptance": "The threshold decision cites precision, recall, cost and capacity; alert explanations use real fields; the generated narrative is labelled draft and evidence-linked."
+  },
+  {
+    "lab": 9,
+    "title": "Threat-Model and Secure a Finance Agent",
+    "criteria": "K3 \u00b7 A4",
+    "folder": "lab-09-threat-model-and-secure-a-finance-agent",
+    "starter": "northstar-agent-security-starter.xlsx",
+    "solution": "northstar-agent-security-solution.xlsx",
+    "acceptance": "Every high risk has a preventive and detective control, test evidence, residual rating and accountable owner; no live credentials or customer data are used."
+  },
+  {
+    "lab": 10,
+    "title": "Build the Finance AI Business Case and Roadmap",
+    "criteria": "K4 \u00b7 A5",
+    "folder": "lab-10-build-the-finance-ai-business-case-and-roadmap",
+    "starter": "northstar-ai-business-case-starter.xlsx",
+    "solution": "northstar-ai-business-case-solution.xlsx",
+    "acceptance": "Costs include build, run, control and change; benefits are adoption-adjusted; NPV links to cash-flow cells; each stage gate has evidence, owner and stop condition."
+  }
+]

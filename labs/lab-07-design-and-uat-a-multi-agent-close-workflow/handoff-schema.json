@@ -1,0 +1,11 @@
+{
+  "task_id": "string",
+  "source_ids": [
+    "string"
+  ],
+  "status": "complete|exception|blocked",
+  "result": {},
+  "confidence": "high|medium|low",
+  "exceptions": [],
+  "approval_required": "role"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "slide": 35,
+    "title": "Automated accounts payable flow",
+    "path": "assets/legacy/legacy-s035.png"
+  },
+  {
+    "slide": 38,
+    "title": "Automated loan risk assessment",
+    "path": "assets/legacy/legacy-s038.png"
+  },
+  {
+    "slide": 40,
+    "title": "Automated bank reconciliation",
+    "path": "assets/legacy/legacy-s040.png"
+  },
+  {
+    "slide": 41,
+    "title": "Copilot Studio agent anatomy",
+    "path": "assets/legacy/legacy-s041.png"
+  },
+  {
+    "slide": 51,
+    "title": "Multi-agent collaboration",
+    "path": "assets/legacy/legacy-s051.png"
+  },
+  {
+    "slide": 58,
+    "title": "Reconcile data with Finance Agent in Excel",
+    "path": "assets/legacy/legacy-s058.png"
+  },
+  {
+    "slide": 100,
+    "title": "AI and machine-learning applications",
+    "path": "assets/legacy/legacy-s100.png"
+  },
+  {
+    "slide": 124,
+    "title": "Learning and model behaviour",
+    "path": "assets/legacy/legacy-s124.jpg"
+  },
+  {
+    "slide": 127,
+    "title": "Synthetic fraud scenario",
+    "path": "assets/legacy/legacy-s127.png"
+  },
+  {
+    "slide": 129,
+    "title": "Confusion matrix",
+    "path": "assets/legacy/legacy-s129.png"
+  },
+  {
+    "slide": 150,
+    "title": "Feature engineering concepts",
+    "path": "assets/legacy/legacy-s150.png"
+  },
+  {
+    "slide": 160,
+    "title": "AI-generated fraud alerts",
+    "path": "assets/legacy/legacy-s160.png"
+  },
+  {
+    "slide": 183,
+    "title": "Finance AI operating model",
+    "path": "assets/legacy/legacy-s183.png"
+  },
+  {
+    "slide": 193,
+    "title": "Finance change-management pattern",
+    "path": "assets/legacy/legacy-s193.png"
+  },
+  {
+    "slide": 246,
+    "title": "Risk monitoring workflow",
+    "path": "assets/legacy/legacy-s246.png"
+  },
+  {
+    "slide": 280,
+    "title": "Lewin change framework for finance AI",
+    "path": "assets/legacy/legacy-s280.png"
+  }
+]
