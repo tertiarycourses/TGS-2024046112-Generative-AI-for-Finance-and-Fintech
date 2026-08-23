@@ -18,17 +18,17 @@ The published learner/trainer package includes:
 
 ## Technical deck preview
 
-![Editable finance fraud-model feature-importance chart with review controls](screenshot.png)
+![Technical Copilot Studio finance-query agent operating instructions](screenshot.png)
 
-## v5.2 technical coverage
+## v5.3 technical coverage
 
-- 155 legacy visual pages rebuilt into classified, integrated layouts with technical annotations and finance-control context
-- 13 weak or damaged legacy rasters replaced by editable PowerPoint processes, formulas, tables, controls, and charts
-- optimized 85.4 MiB PowerPoint package for reliable Drive preview and download
-- Excel formulas, variance analysis, reconciliation, FP&A, dashboards, and fraud metrics
-- Copilot Studio grounding, knowledge, tools, DLP, orchestration, testing, and multi-agent handoffs
-- 7 editable PowerPoint charts, plus 1,334 native formulas and 12 editable charts across the lab workbooks
-- authentic interface evidence retained only where the interface matters; obsolete n8n material removed
+- 373 slides with zero general instructional pages in the technical-anchor inventory
+- original PPT sequence, screenshots and useful diagrams retained as the approved coverage floor
+- 34 new implementation slides covering Excel schemas, formulas, matching rules, Copilot Studio configuration, evaluation, telemetry and finance AI security
+- inspectable `SUMIFS`, `XLOOKUP`, materiality, working-capital, reconciliation, PSI and fraud-cost calculations
+- Copilot Studio instruction, knowledge, tool, Power Fx, DLP, ALM, handoff, evaluation and audit-event schemas
+- executable scikit-learn encoding, classification-report and Random Forest examples for the fraud-model section
+- optimized 85.5 MiB PowerPoint package, 8 editable PowerPoint charts, 1,334 native lab formulas and 12 editable Excel charts
 
 ## Distribution boundary
 
