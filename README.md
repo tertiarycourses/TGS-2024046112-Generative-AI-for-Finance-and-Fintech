@@ -16,9 +16,14 @@ The published learner/trainer package includes:
 - Microsoft Copilot Studio
 - AI security, governance, fraud, and model-risk controls for finance
 
-## v5.0 technical coverage
+## Technical deck preview
 
-- 183 embedded interface screenshots and technical graphics
+![Editable Transformer architecture for finance narrative generation](screenshot.png)
+
+## v5.1 technical coverage
+
+- 182 embedded interface screenshots and technical graphics, plus an editable native Transformer architecture diagram
+- optimized 85.3 MiB PowerPoint package for reliable Drive preview and download
 - Excel formulas, variance analysis, reconciliation, FP&A, dashboards, and fraud metrics
 - Copilot Studio grounding, knowledge, tools, DLP, orchestration, testing, and multi-agent handoffs
 - 5 editable PowerPoint charts, plus 1,334 native formulas and 12 editable charts across the lab workbooks
