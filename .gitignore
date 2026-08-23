@@ -11,6 +11,7 @@ QA/
 .claude/
 build/tmp/
 build/rendered/
+build/
 reference/tms/
 reference/legacy_media/
 assessment/
