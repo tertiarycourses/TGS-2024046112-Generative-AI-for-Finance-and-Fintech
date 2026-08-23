@@ -1,5 +1,14 @@
 # Courseware Changelog
 
+## v5.4 — 23 August 2026
+
+- Replaced the repeated screenshot-plus-three-card and four-card-row compositions with nine content-aware layout families.
+- Added wide-evidence, split-analysis, technical-board, editorial-story, diagram-map and canvas-orbit treatments.
+- Varied annotation language by evidence type: interface state and acceptance, diagram mechanism and failure testing, or finance decision and governance.
+- Added automated layout-diversity gates for family distribution and consecutive repetition.
+- Added four-card, 2×2 analytical-matrix and horizontal decision-rail variants for concept and acceptance pages.
+- Preserved the v5.3 technical syllabus, original PPT evidence, slide count, lab alignment and assessment mapping.
+
 ## v5.3 — 23 August 2026
 
 - Retained the original PPT sequence, screenshots and reusable diagrams as the content and evidence baseline.

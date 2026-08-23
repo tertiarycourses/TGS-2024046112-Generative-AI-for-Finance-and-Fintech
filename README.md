@@ -4,7 +4,7 @@ WSQ courseware for **TGS-2026065050**, delivered by Tertiary Infotech Academy Pt
 
 The published learner/trainer package includes:
 
-- a 338-slide, highly visual PowerPoint deck and matching PDF;
+- a 373-slide, highly visual PowerPoint deck and matching PDF;
 - an aligned Learner Guide and Lesson Plan in DOCX/PDF;
 - ten self-contained lab folders with synthetic finance data, Excel workbooks, dashboards, and evidence checklists;
 - confidential WA and Case Study papers kept outside the public GitHub release.
@@ -18,9 +18,9 @@ The published learner/trainer package includes:
 
 ## Technical deck preview
 
-![Technical Copilot Studio finance-query agent operating instructions](screenshot.png)
+![Investment robo-advisor interface in the redesigned split-analysis layout](screenshot.png)
 
-## v5.3 technical coverage
+## v5.4 technical and visual coverage
 
 - 373 slides with zero general instructional pages in the technical-anchor inventory
 - original PPT sequence, screenshots and useful diagrams retained as the approved coverage floor
@@ -28,7 +28,10 @@ The published learner/trainer package includes:
 - inspectable `SUMIFS`, `XLOOKUP`, materiality, working-capital, reconciliation, PSI and fraud-cost calculations
 - Copilot Studio instruction, knowledge, tool, Power Fx, DLP, ALM, handoff, evaluation and audit-event schemas
 - executable scikit-learn encoding, classification-report and Random Forest examples for the fraud-model section
-- optimized 85.5 MiB PowerPoint package, 8 editable PowerPoint charts, 1,334 native lab formulas and 12 editable Excel charts
+- nine content-aware layout families replace the repeated screenshot and four-card templates
+- UI, diagram and finance-context pages now use different annotation roles and compositions
+- concept and acceptance pages alternate among four-card, 2×2 analytical-matrix and decision-rail treatments
+- 8 editable PowerPoint charts, 1,334 native lab formulas and 12 editable Excel charts
 
 ## Distribution boundary
 

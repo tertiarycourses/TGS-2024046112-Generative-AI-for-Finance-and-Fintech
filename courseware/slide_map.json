@@ -2160,5 +2160,1074 @@
     "FORMULA": 15,
     "MODEL": 131,
     "UI": 13
+  },
+  "layout_family_inventory": [
+    {
+      "slide": 17,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 18,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 19,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 21,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 22,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 23,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 26,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 27,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 28,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 29,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 30,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 32,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 34,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 35,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 36,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 37,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 38,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 39,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 40,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 41,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 42,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 43,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 44,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 45,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 46,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 48,
+      "family": "technical_board"
+    },
+    {
+      "slide": 49,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 53,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 55,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 58,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 59,
+      "family": "technical_board"
+    },
+    {
+      "slide": 89,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 91,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 93,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 94,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 95,
+      "family": "technical_board"
+    },
+    {
+      "slide": 96,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 97,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 98,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 99,
+      "family": "technical_board"
+    },
+    {
+      "slide": 101,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 102,
+      "family": "technical_board"
+    },
+    {
+      "slide": 103,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 104,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 105,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 106,
+      "family": "technical_board"
+    },
+    {
+      "slide": 107,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 108,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 109,
+      "family": "technical_board"
+    },
+    {
+      "slide": 110,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 111,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 114,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 115,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 116,
+      "family": "technical_board"
+    },
+    {
+      "slide": 117,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 118,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 119,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 120,
+      "family": "technical_board"
+    },
+    {
+      "slide": 121,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 122,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 123,
+      "family": "technical_board"
+    },
+    {
+      "slide": 125,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 126,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 127,
+      "family": "technical_board"
+    },
+    {
+      "slide": 128,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 129,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 130,
+      "family": "technical_board"
+    },
+    {
+      "slide": 132,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 137,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 138,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 140,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 141,
+      "family": "technical_board"
+    },
+    {
+      "slide": 145,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 147,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 148,
+      "family": "technical_board"
+    },
+    {
+      "slide": 149,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 150,
+      "family": "technical_board"
+    },
+    {
+      "slide": 151,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 191,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 193,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 194,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 196,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 200,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 201,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 202,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 203,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 204,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 205,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 211,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 213,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 215,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 233,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 235,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 236,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 237,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 238,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 239,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 240,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 241,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 242,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 243,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 244,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 247,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 248,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 250,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 253,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 254,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 256,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 257,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 260,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 261,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 264,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 265,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 266,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 268,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 269,
+      "family": "technical_board"
+    },
+    {
+      "slide": 270,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 271,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 273,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 275,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 277,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 278,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 279,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 281,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 282,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 284,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 291,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 292,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 294,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 296,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 298,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 303,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 307,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 309,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 311,
+      "family": "technical_board"
+    },
+    {
+      "slide": 313,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 317,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 318,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 319,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 322,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 325,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 329,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 330,
+      "family": "diagram_map"
+    },
+    {
+      "slide": 331,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 332,
+      "family": "technical_board"
+    },
+    {
+      "slide": 333,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 334,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 335,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 337,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 338,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 339,
+      "family": "canvas_orbit"
+    },
+    {
+      "slide": 340,
+      "family": "split_analysis"
+    },
+    {
+      "slide": 341,
+      "family": "editorial_story"
+    },
+    {
+      "slide": 345,
+      "family": "wide_evidence"
+    },
+    {
+      "slide": 347,
+      "family": "split_analysis"
+    }
+  ],
+  "layout_family_counts": {
+    "canvas_orbit": 31,
+    "diagram_map": 12,
+    "editorial_story": 15,
+    "split_analysis": 37,
+    "technical_board": 18,
+    "wide_evidence": 42
+  },
+  "concept_layout_inventory": [
+    {
+      "slide": 2,
+      "family": "four_card"
+    },
+    {
+      "slide": 5,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 6,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 8,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 9,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 10,
+      "family": "four_card"
+    },
+    {
+      "slide": 13,
+      "family": "four_card"
+    },
+    {
+      "slide": 14,
+      "family": "four_card"
+    },
+    {
+      "slide": 16,
+      "family": "four_card"
+    },
+    {
+      "slide": 24,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 25,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 31,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 33,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 47,
+      "family": "four_card"
+    },
+    {
+      "slide": 50,
+      "family": "four_card"
+    },
+    {
+      "slide": 51,
+      "family": "four_card"
+    },
+    {
+      "slide": 52,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 54,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 56,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 57,
+      "family": "four_card"
+    },
+    {
+      "slide": 60,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 66,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 88,
+      "family": "four_card"
+    },
+    {
+      "slide": 90,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 92,
+      "family": "four_card"
+    },
+    {
+      "slide": 100,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 112,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 113,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 124,
+      "family": "four_card"
+    },
+    {
+      "slide": 131,
+      "family": "four_card"
+    },
+    {
+      "slide": 133,
+      "family": "four_card"
+    },
+    {
+      "slide": 134,
+      "family": "four_card"
+    },
+    {
+      "slide": 135,
+      "family": "four_card"
+    },
+    {
+      "slide": 136,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 139,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 142,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 143,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 144,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 146,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 153,
+      "family": "four_card"
+    },
+    {
+      "slide": 158,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 164,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 165,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 168,
+      "family": "four_card"
+    },
+    {
+      "slide": 171,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 185,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 187,
+      "family": "four_card"
+    },
+    {
+      "slide": 189,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 198,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 199,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 206,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 207,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 209,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 210,
+      "family": "four_card"
+    },
+    {
+      "slide": 212,
+      "family": "four_card"
+    },
+    {
+      "slide": 214,
+      "family": "four_card"
+    },
+    {
+      "slide": 231,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 232,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 234,
+      "family": "four_card"
+    },
+    {
+      "slide": 245,
+      "family": "four_card"
+    },
+    {
+      "slide": 246,
+      "family": "four_card"
+    },
+    {
+      "slide": 249,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 251,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 255,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 259,
+      "family": "four_card"
+    },
+    {
+      "slide": 267,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 280,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 283,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 286,
+      "family": "four_card"
+    },
+    {
+      "slide": 287,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 288,
+      "family": "four_card"
+    },
+    {
+      "slide": 289,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 290,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 293,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 295,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 300,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 301,
+      "family": "four_card"
+    },
+    {
+      "slide": 302,
+      "family": "four_card"
+    },
+    {
+      "slide": 304,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 308,
+      "family": "four_card"
+    },
+    {
+      "slide": 310,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 312,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 314,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 315,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 316,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 320,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 321,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 324,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 326,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 327,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 336,
+      "family": "four_card"
+    },
+    {
+      "slide": 342,
+      "family": "four_card"
+    },
+    {
+      "slide": 343,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 344,
+      "family": "four_card"
+    },
+    {
+      "slide": 346,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 348,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 349,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 350,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 352,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 354,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 356,
+      "family": "four_card"
+    },
+    {
+      "slide": 358,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 360,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 362,
+      "family": "four_card"
+    },
+    {
+      "slide": 364,
+      "family": "analysis_matrix"
+    },
+    {
+      "slide": 365,
+      "family": "decision_rails"
+    },
+    {
+      "slide": 370,
+      "family": "four_card"
+    },
+    {
+      "slide": 372,
+      "family": "four_card"
+    }
+  ],
+  "concept_layout_counts": {
+    "analysis_matrix": 32,
+    "decision_rails": 38,
+    "four_card": 38
   }
 }
