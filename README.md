@@ -18,16 +18,17 @@ The published learner/trainer package includes:
 
 ## Technical deck preview
 
-![Editable Transformer architecture for finance narrative generation](screenshot.png)
+![Editable finance fraud-model feature-importance chart with review controls](screenshot.png)
 
-## v5.1 technical coverage
+## v5.2 technical coverage
 
-- 182 embedded interface screenshots and technical graphics, plus an editable native Transformer architecture diagram
-- optimized 85.3 MiB PowerPoint package for reliable Drive preview and download
+- 155 legacy visual pages rebuilt into classified, integrated layouts with technical annotations and finance-control context
+- 13 weak or damaged legacy rasters replaced by editable PowerPoint processes, formulas, tables, controls, and charts
+- optimized 85.4 MiB PowerPoint package for reliable Drive preview and download
 - Excel formulas, variance analysis, reconciliation, FP&A, dashboards, and fraud metrics
 - Copilot Studio grounding, knowledge, tools, DLP, orchestration, testing, and multi-agent handoffs
-- 5 editable PowerPoint charts, plus 1,334 native formulas and 12 editable charts across the lab workbooks
-- Legacy course coverage retained and redesigned; obsolete n8n material removed
+- 7 editable PowerPoint charts, plus 1,334 native formulas and 12 editable charts across the lab workbooks
+- authentic interface evidence retained only where the interface matters; obsolete n8n material removed
 
 ## Distribution boundary
 
