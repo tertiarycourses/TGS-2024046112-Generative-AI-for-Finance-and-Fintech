@@ -20,18 +20,21 @@ The published learner/trainer package includes:
 
 ![Copilot Studio build surface with finance-specific configuration callouts](screenshot.png)
 
-## v5.5 applied technical and visual coverage
+## v5.6 applied technical and visual coverage
 
 - 410 slides with zero general instructional pages in the technical-anchor inventory
-- original PPT sequence, screenshots and useful diagrams retained as the approved coverage floor
+- original PPT sequence retained as the approved coverage floor, with **zero copied legacy rasters embedded**
+- 169 legacy visual pages rebuilt as editable PowerPoint mechanisms or coordinated generated editorial illustrations
+- 42 compressed generated editorial visuals, 27 current Microsoft UI views, and 14 rebuilt layout families
+- editable GAN training loop, Transformer architecture, Excel prompt/workbook/dashboard views, agent orchestration, and fraud model diagnostics
 - applied Excel operating sequence: prepare tables, select Chat/Plan/Edit, prompt for native objects, inspect formulas and verify controls
 - applied Finance Agent sequence for variance analysis and two-table reconciliation with exception disposition
 - applied Copilot Studio sequence: scope, configure instructions and knowledge, add typed tools, build agent flows, test, diagnose and release
 - inspectable `SUMIFS`, `XLOOKUP`, materiality, working-capital, reconciliation, PSI and fraud-cost calculations
 - Copilot Studio instruction, knowledge, tool, Power Fx, DLP, ALM, handoff, evaluation and audit-event schemas
 - executable scikit-learn encoding, classification-report and Random Forest examples for the fraud-model section
-- nine content-aware layout families replace the repeated screenshot and four-card templates
-- UI, diagram and finance-context pages now use different annotation roles and compositions
+- generated finance-context art and native technical diagrams replace the repeated copied-image treatment
+- UI, architecture, model, workbook and finance-context pages use different annotation roles and compositions
 - concept and acceptance pages alternate among four-card, 2×2 analytical-matrix and decision-rail treatments
 - 8 editable PowerPoint charts, 1,334 native lab formulas and 12 editable Excel charts
 

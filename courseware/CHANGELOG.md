@@ -1,5 +1,16 @@
 # Courseware Changelog
 
+## v5.6 — 24 August 2026
+
+- Removed all 169 copied legacy raster embeddings from the trainer deck.
+- Rebuilt the damaged GAN origins page as an editable generator/discriminator training loop with adversarial-loss feedback and a finance control boundary.
+- Added five coordinated text-free finance-AI illustrations and compressed them for preview-safe packaging.
+- Replaced obsolete Excel pictures with rotating native workbook, prompt-contract and dashboard-review layouts.
+- Replaced risk/fraud pictures with editable signal-to-case pipelines, confusion matrices, threshold economics and model diagnostics.
+- Replaced agent and workflow art with editable instruction, knowledge, orchestration, tool, approval and audit diagrams.
+- Added QA gates for zero copied legacy media, complete 169/169 replacement coverage, generated-art majority and layout-family diversity.
+- Reduced the 410-slide trainer PPTX to approximately 5.4 MiB while retaining current Microsoft interface evidence.
+
 ## v5.5 — 24 August 2026
 
 - Rebalanced the trainer deck around applied use of Copilot in Excel, Finance Agent and Microsoft Copilot Studio for finance.

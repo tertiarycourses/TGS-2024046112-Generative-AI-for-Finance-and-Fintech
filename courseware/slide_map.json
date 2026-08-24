@@ -374,12 +374,12 @@
     {
       "slide": 18,
       "title": "The Origins of Generative AI",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 19,
-      "title": "The Origins of Generative AI",
-      "anchor": "EVIDENCE"
+      "title": "GAN Training Loop: Generator vs Discriminator",
+      "anchor": "ARCH"
     },
     {
       "slide": 20,
@@ -389,7 +389,7 @@
     {
       "slide": 21,
       "title": "Key Drivers of Generative AI",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 22,
@@ -419,7 +419,7 @@
     {
       "slide": 27,
       "title": "AI Agent",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 28,
@@ -434,7 +434,7 @@
     {
       "slide": 30,
       "title": "AI Agent Using LLM",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 31,
@@ -464,7 +464,7 @@
     {
       "slide": 36,
       "title": "Automate Account Payable Flow",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 37,
@@ -479,7 +479,7 @@
     {
       "slide": 39,
       "title": "Financial Use Cases of Gen AI",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 40,
@@ -494,7 +494,7 @@
     {
       "slide": 42,
       "title": "Financial Use Cases of Gen AI",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 43,
@@ -509,7 +509,7 @@
     {
       "slide": 45,
       "title": "Financial Use Cases of Gen AI",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 46,
@@ -524,7 +524,7 @@
     {
       "slide": 48,
       "title": "What is Copilot Studio Agent",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 49,
@@ -819,7 +819,7 @@
     {
       "slide": 107,
       "title": "Excel Copilot for FP&A",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 108,
@@ -829,7 +829,7 @@
     {
       "slide": 109,
       "title": "Finance AI pattern",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 110,
@@ -839,37 +839,37 @@
     {
       "slide": 111,
       "title": "Demo: Summarize Data",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 112,
       "title": "Demo: Summarize Data",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 113,
       "title": "Demo: Summarize Data",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 114,
       "title": "Demo: Summarize Data",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 115,
       "title": "Demo: Format Data",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 116,
       "title": "Demo: Format Data",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 117,
       "title": "Demo: Voice Activation",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 118,
@@ -879,57 +879,57 @@
     {
       "slide": 119,
       "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 120,
       "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 121,
       "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 122,
       "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 123,
       "title": "Demo: Add Formula",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 124,
       "title": "Demo: Highlight Data",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 125,
       "title": "Demo: Highlight Data",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 126,
       "title": "Demo: Filter Data",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 127,
       "title": "Demo: Filter Data",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 128,
       "title": "Demo: Filter Data",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 129,
       "title": "Demo: Sort Data",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 130,
@@ -944,52 +944,52 @@
     {
       "slide": 132,
       "title": "Demo: Import Data Using Power Query",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 133,
       "title": "Demo: Analyze Data",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 134,
       "title": "Demo: Analyze Data",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 135,
       "title": "Demo: Analyze Data",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 136,
       "title": "Demo: Analyze Data",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 137,
       "title": "Demo: Analyze Data",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 138,
       "title": "Demo: Analyze Data",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 139,
       "title": "Activity: Analyse Data",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 140,
       "title": "Finance AI pattern",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 141,
       "title": "Demo: Reconcile Data with Copilot for Finance",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 142,
@@ -999,32 +999,32 @@
     {
       "slide": 143,
       "title": "Demo: Analyze Trends and Variances",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 144,
       "title": "Demo: Analyze Trends and Variances",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 145,
       "title": "Demo: Analyze Trends and Variances",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 146,
       "title": "Demo: Analyze Trends and Variances",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 147,
       "title": "Demo: Analyze Trends and Variances",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 148,
       "title": "Demo: Financial Forecast",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 149,
@@ -1034,7 +1034,7 @@
     {
       "slide": 150,
       "title": "Compare to ChatGPT",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 151,
@@ -1059,12 +1059,12 @@
     {
       "slide": 155,
       "title": "Hint: Financial Forecast",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 156,
       "title": "Hint: Financial Forecast",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 157,
@@ -1074,12 +1074,12 @@
     {
       "slide": 158,
       "title": "Demo: FP&A",
-      "anchor": "EVIDENCE"
+      "anchor": "CONFIG"
     },
     {
       "slide": 159,
       "title": "Demo: FP&A",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 160,
@@ -1099,7 +1099,7 @@
     {
       "slide": 163,
       "title": "Activity: FP&A",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 164,
@@ -1109,12 +1109,12 @@
     {
       "slide": 165,
       "title": "Finance AI pattern",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 166,
       "title": "Demo: Excel Agent Mode",
-      "anchor": "EVIDENCE"
+      "anchor": "UI"
     },
     {
       "slide": 167,
@@ -1424,7 +1424,7 @@
     {
       "slide": 228,
       "title": "Traditional risk management tools have not kept pace with evolving modern threats like cyber fraud, complex\u2026",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 229,
@@ -1434,7 +1434,7 @@
     {
       "slide": 230,
       "title": "Detecting Known and Unknown Risks",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 231,
@@ -1449,7 +1449,7 @@
     {
       "slide": 233,
       "title": "Speed, Accuray and Reduced Noise",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 234,
@@ -1469,12 +1469,12 @@
     {
       "slide": 237,
       "title": "Traditional AI: classifies, predicts, flags Generative AI: writes reports, explains findings, simulates events",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 238,
       "title": "What Makes Generative AI Different?",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 239,
@@ -1484,17 +1484,17 @@
     {
       "slide": 240,
       "title": "Automating Regulatory Reporting",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 241,
       "title": "Gen AI Across the Workflow",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 242,
       "title": "Finance AI pattern",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 243,
@@ -1524,7 +1524,7 @@
     {
       "slide": 248,
       "title": "Demo: Data Cleaning & Preprocessing Prompts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 249,
@@ -1534,7 +1534,7 @@
     {
       "slide": 250,
       "title": "Demo: Exploratory Data Analysis (EDA) Prompts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 251,
@@ -1544,7 +1544,7 @@
     {
       "slide": 252,
       "title": "Demo: Fraud Detection Prompts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 253,
@@ -1644,52 +1644,52 @@
     {
       "slide": 272,
       "title": "Metrics That Matter",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 273,
       "title": "Metrics That Matter",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 274,
       "title": "Metrics That Matter",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 275,
       "title": "Metrics That Matter",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 276,
       "title": "Metrics That Matter",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 277,
       "title": "Confusion Matrix",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 278,
       "title": "Confusion Matrix",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 279,
       "title": "Accuracy",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 280,
       "title": "Precision",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 281,
       "title": "Recall",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 282,
@@ -1704,12 +1704,12 @@
     {
       "slide": 284,
       "title": "Demo: Sampling Prompts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 285,
       "title": "Feature Engineering for Fraud Detection",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 286,
@@ -1719,7 +1719,7 @@
     {
       "slide": 287,
       "title": "Core Feature Engineering Concepts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 288,
@@ -1734,12 +1734,12 @@
     {
       "slide": 290,
       "title": "Detecting Unusual Spending Patterns",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 291,
       "title": "Best Practices for Feature Engineering",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 292,
@@ -1749,12 +1749,12 @@
     {
       "slide": 293,
       "title": "Demo: Feature Engineering Prompts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 294,
       "title": "Categorical Feature Encoding",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 295,
@@ -1769,12 +1769,12 @@
     {
       "slide": 297,
       "title": "Demo: Standardizing Features Prompts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 298,
       "title": "Demo: Feature Engineering",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 299,
@@ -1789,17 +1789,17 @@
     {
       "slide": 301,
       "title": "Logistics Regression Algorithm",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 302,
       "title": "Decision Tree Algorithm",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 303,
       "title": "Split Your Dataset",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 304,
@@ -1809,22 +1809,22 @@
     {
       "slide": 305,
       "title": "Split The Data",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 306,
       "title": "Logistic Regression",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 307,
       "title": "Decision Tree",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 308,
       "title": "Decision Tree",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 309,
@@ -1834,7 +1834,7 @@
     {
       "slide": 310,
       "title": "Finance AI pattern",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 311,
@@ -1844,7 +1844,7 @@
     {
       "slide": 312,
       "title": "Why Random Forest?",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 313,
@@ -1854,17 +1854,17 @@
     {
       "slide": 314,
       "title": "Demo: Random Forest Classifier Prompts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 315,
       "title": "Finance AI pattern",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 316,
       "title": "Hyperparameters Tuning",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 317,
@@ -1874,12 +1874,12 @@
     {
       "slide": 318,
       "title": "Tuning Methods",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 319,
       "title": "Grid Search",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 320,
@@ -1889,7 +1889,7 @@
     {
       "slide": 321,
       "title": "Bayesian Optimization",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 322,
@@ -1924,12 +1924,12 @@
     {
       "slide": 328,
       "title": "Activity : Build AI Modules on Fraud Detection",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 329,
       "title": "XGBoost",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 330,
@@ -1939,7 +1939,7 @@
     {
       "slide": 331,
       "title": "Activity : Agent Mode",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 332,
@@ -1949,7 +1949,7 @@
     {
       "slide": 333,
       "title": "Make the Model Explainable",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 334,
@@ -1959,7 +1959,7 @@
     {
       "slide": 335,
       "title": "Validate with Cross-Validation (CV)",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 336,
@@ -1984,7 +1984,7 @@
     {
       "slide": 340,
       "title": "Examples of AI Generated Alerts",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 341,
@@ -2004,7 +2004,7 @@
     {
       "slide": 344,
       "title": "The Problem with Alerts Alone",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 345,
@@ -2014,7 +2014,7 @@
     {
       "slide": 346,
       "title": "What to Collect for the Report",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 347,
@@ -2024,7 +2024,7 @@
     {
       "slide": 348,
       "title": "Sample Executive Summary",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 349,
@@ -2034,7 +2034,7 @@
     {
       "slide": 350,
       "title": "Automate the Process",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 351,
@@ -2059,7 +2059,7 @@
     {
       "slide": 355,
       "title": "Ensure Compliance from Day One",
-      "anchor": "EVIDENCE"
+      "anchor": "MODEL"
     },
     {
       "slide": 356,
@@ -2119,7 +2119,7 @@
     {
       "slide": 367,
       "title": "Use Cases of Agentic AI for Finance",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 368,
@@ -2164,7 +2164,7 @@
     {
       "slide": 376,
       "title": "Stage 1: Unfreeze",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 377,
@@ -2194,7 +2194,7 @@
     {
       "slide": 382,
       "title": "Stage 3: Refreeze Embedding GenAI as Standard Practice",
-      "anchor": "EVIDENCE"
+      "anchor": "ARCH"
     },
     {
       "slide": 383,
@@ -2338,643 +2338,707 @@
     }
   ],
   "technical_anchor_counts": {
-    "ARCH": 32,
-    "CONFIG": 18,
-    "EVIDENCE": 155,
+    "ARCH": 45,
+    "CONFIG": 32,
+    "EVIDENCE": 42,
     "EXEMPT": 19,
     "FORMULA": 17,
-    "MODEL": 142,
-    "UI": 27
+    "MODEL": 215,
+    "UI": 40
   },
   "layout_family_inventory": [
     {
       "slide": 17,
-      "family": "canvas_orbit"
+      "family": "editorial_split"
     },
     {
       "slide": 18,
-      "family": "diagram_map"
+      "family": "native_data_pipeline"
     },
     {
       "slide": 19,
-      "family": "wide_evidence"
+      "family": "native_gan_loop"
+    },
+    {
+      "slide": 20,
+      "family": "native_transformer_architecture"
     },
     {
       "slide": 21,
-      "family": "split_analysis"
+      "family": "native_data_pipeline"
     },
     {
       "slide": 22,
-      "family": "diagram_map"
+      "family": "editorial_banner"
     },
     {
       "slide": 23,
-      "family": "wide_evidence"
+      "family": "editorial_orbit"
     },
     {
       "slide": 26,
-      "family": "wide_evidence"
+      "family": "editorial_banner"
     },
     {
       "slide": 27,
-      "family": "split_analysis"
+      "family": "native_agent_orchestration"
     },
     {
       "slide": 28,
-      "family": "canvas_orbit"
+      "family": "editorial_focus"
     },
     {
       "slide": 29,
-      "family": "diagram_map"
+      "family": "editorial_split"
     },
     {
       "slide": 30,
-      "family": "wide_evidence"
+      "family": "native_agent_orchestration"
     },
     {
       "slide": 32,
-      "family": "editorial_story"
+      "family": "editorial_focus"
     },
     {
       "slide": 34,
-      "family": "canvas_orbit"
+      "family": "editorial_banner"
     },
     {
       "slide": 35,
-      "family": "split_analysis"
+      "family": "editorial_orbit"
     },
     {
       "slide": 36,
-      "family": "diagram_map"
+      "family": "native_data_pipeline"
     },
     {
       "slide": 37,
-      "family": "wide_evidence"
+      "family": "editorial_split"
     },
     {
       "slide": 38,
-      "family": "split_analysis"
+      "family": "editorial_banner"
     },
     {
       "slide": 39,
-      "family": "editorial_story"
+      "family": "native_data_pipeline"
     },
     {
       "slide": 40,
-      "family": "wide_evidence"
+      "family": "editorial_focus"
     },
     {
       "slide": 41,
-      "family": "canvas_orbit"
+      "family": "editorial_split"
     },
     {
       "slide": 42,
-      "family": "canvas_orbit"
+      "family": "native_data_pipeline"
     },
     {
       "slide": 43,
-      "family": "editorial_story"
+      "family": "editorial_orbit"
     },
     {
       "slide": 44,
-      "family": "wide_evidence"
+      "family": "editorial_focus"
     },
     {
       "slide": 45,
-      "family": "canvas_orbit"
+      "family": "native_data_pipeline"
     },
     {
       "slide": 46,
-      "family": "editorial_story"
+      "family": "editorial_banner"
     },
     {
       "slide": 48,
-      "family": "technical_board"
+      "family": "native_agent_orchestration"
     },
     {
       "slide": 49,
-      "family": "canvas_orbit"
+      "family": "editorial_split"
     },
     {
       "slide": 53,
-      "family": "wide_evidence"
+      "family": "editorial_split"
     },
     {
       "slide": 55,
-      "family": "split_analysis"
+      "family": "editorial_orbit"
     },
     {
       "slide": 58,
-      "family": "split_analysis"
+      "family": "editorial_banner"
     },
     {
       "slide": 59,
-      "family": "technical_board"
+      "family": "editorial_orbit"
     },
     {
       "slide": 107,
-      "family": "canvas_orbit"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 109,
-      "family": "wide_evidence"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 111,
-      "family": "wide_evidence"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 112,
-      "family": "split_analysis"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 113,
-      "family": "technical_board"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 114,
-      "family": "canvas_orbit"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 115,
-      "family": "wide_evidence"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 116,
-      "family": "split_analysis"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 117,
-      "family": "technical_board"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 119,
-      "family": "split_analysis"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 120,
-      "family": "technical_board"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 121,
-      "family": "canvas_orbit"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 122,
-      "family": "wide_evidence"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 123,
-      "family": "split_analysis"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 124,
-      "family": "technical_board"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 125,
-      "family": "wide_evidence"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 126,
-      "family": "split_analysis"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 127,
-      "family": "technical_board"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 128,
-      "family": "canvas_orbit"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 129,
-      "family": "wide_evidence"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 132,
-      "family": "wide_evidence"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 133,
-      "family": "split_analysis"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 134,
-      "family": "technical_board"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 135,
-      "family": "canvas_orbit"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 136,
-      "family": "wide_evidence"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 137,
-      "family": "split_analysis"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 138,
-      "family": "technical_board"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 139,
-      "family": "diagram_map"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 140,
-      "family": "wide_evidence"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 141,
-      "family": "technical_board"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 143,
-      "family": "wide_evidence"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 144,
-      "family": "split_analysis"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 145,
-      "family": "technical_board"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 146,
-      "family": "wide_evidence"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 147,
-      "family": "split_analysis"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 148,
-      "family": "technical_board"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 150,
-      "family": "wide_evidence"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 155,
-      "family": "split_analysis"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 156,
-      "family": "canvas_orbit"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 158,
-      "family": "split_analysis"
+      "family": "native_excel_prompt_contract"
     },
     {
       "slide": 159,
-      "family": "technical_board"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 163,
-      "family": "canvas_orbit"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 165,
-      "family": "wide_evidence"
+      "family": "native_excel_dashboard"
     },
     {
       "slide": 166,
-      "family": "technical_board"
+      "family": "native_excel_workbook"
     },
     {
       "slide": 167,
-      "family": "split_analysis"
+      "family": "editorial_focus"
     },
     {
       "slide": 168,
-      "family": "technical_board"
+      "family": "editorial_split"
     },
     {
       "slide": 169,
-      "family": "canvas_orbit"
+      "family": "editorial_banner"
     },
     {
       "slide": 228,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
+    },
+    {
+      "slide": 229,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 230,
-      "family": "editorial_story"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 231,
-      "family": "wide_evidence"
+      "family": "editorial_split"
+    },
+    {
+      "slide": 232,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 233,
-      "family": "editorial_story"
+      "family": "native_risk_pipeline"
+    },
+    {
+      "slide": 234,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 237,
-      "family": "editorial_story"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 238,
-      "family": "wide_evidence"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 239,
-      "family": "canvas_orbit"
+      "family": "editorial_split"
     },
     {
       "slide": 240,
-      "family": "editorial_story"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 241,
-      "family": "wide_evidence"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 242,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
+    },
+    {
+      "slide": 245,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 248,
-      "family": "split_analysis"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 250,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 252,
-      "family": "split_analysis"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 270,
-      "family": "wide_evidence"
+      "family": "editorial_split"
     },
     {
       "slide": 272,
-      "family": "canvas_orbit"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 273,
-      "family": "diagram_map"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 274,
-      "family": "wide_evidence"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 275,
-      "family": "split_analysis"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 276,
-      "family": "diagram_map"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 277,
-      "family": "wide_evidence"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 278,
-      "family": "split_analysis"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 279,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 280,
-      "family": "diagram_map"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 281,
-      "family": "wide_evidence"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 284,
-      "family": "split_analysis"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 285,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 287,
-      "family": "editorial_story"
+      "family": "native_risk_diagnostic"
+    },
+    {
+      "slide": 289,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 290,
-      "family": "editorial_story"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 291,
-      "family": "wide_evidence"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 293,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 294,
-      "family": "diagram_map"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 297,
-      "family": "wide_evidence"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 298,
-      "family": "split_analysis"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 301,
-      "family": "diagram_map"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 302,
-      "family": "split_analysis"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 303,
-      "family": "split_analysis"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 305,
-      "family": "split_analysis"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 306,
-      "family": "technical_board"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 307,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 308,
-      "family": "wide_evidence"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 310,
-      "family": "split_analysis"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 312,
-      "family": "split_analysis"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 314,
-      "family": "canvas_orbit"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 315,
-      "family": "diagram_map"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 316,
-      "family": "wide_evidence"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 318,
-      "family": "editorial_story"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 319,
-      "family": "wide_evidence"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 321,
-      "family": "split_analysis"
+      "family": "native_risk_diagnostic"
+    },
+    {
+      "slide": 322,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 328,
-      "family": "canvas_orbit"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 329,
-      "family": "wide_evidence"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 331,
-      "family": "split_analysis"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 333,
-      "family": "wide_evidence"
+      "family": "native_risk_diagnostic"
+    },
+    {
+      "slide": 334,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 335,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
+    },
+    {
+      "slide": 336,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 340,
-      "family": "wide_evidence"
+      "family": "native_risk_pipeline"
+    },
+    {
+      "slide": 342,
+      "family": "native_specialist_replacement"
+    },
+    {
+      "slide": 343,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 344,
-      "family": "wide_evidence"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 346,
-      "family": "editorial_story"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 348,
-      "family": "technical_board"
+      "family": "native_risk_pipeline"
     },
     {
       "slide": 350,
-      "family": "editorial_story"
+      "family": "native_risk_pipeline"
+    },
+    {
+      "slide": 351,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 354,
-      "family": "wide_evidence"
+      "family": "editorial_split"
     },
     {
       "slide": 355,
-      "family": "canvas_orbit"
+      "family": "native_risk_diagnostic"
     },
     {
       "slide": 356,
-      "family": "split_analysis"
+      "family": "editorial_orbit"
+    },
+    {
+      "slide": 358,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 359,
-      "family": "canvas_orbit"
+      "family": "editorial_banner"
+    },
+    {
+      "slide": 360,
+      "family": "native_specialist_replacement"
     },
     {
       "slide": 362,
-      "family": "canvas_orbit"
+      "family": "editorial_split"
     },
     {
       "slide": 366,
-      "family": "split_analysis"
+      "family": "editorial_split"
     },
     {
       "slide": 367,
-      "family": "diagram_map"
+      "family": "native_agent_orchestration"
     },
     {
       "slide": 368,
-      "family": "wide_evidence"
+      "family": "editorial_orbit"
     },
     {
       "slide": 369,
-      "family": "technical_board"
+      "family": "editorial_focus"
     },
     {
       "slide": 370,
-      "family": "split_analysis"
+      "family": "editorial_split"
     },
     {
       "slide": 371,
-      "family": "wide_evidence"
+      "family": "editorial_banner"
     },
     {
       "slide": 372,
-      "family": "split_analysis"
+      "family": "editorial_orbit"
     },
     {
       "slide": 374,
-      "family": "editorial_story"
+      "family": "editorial_split"
     },
     {
       "slide": 375,
-      "family": "wide_evidence"
+      "family": "editorial_banner"
     },
     {
       "slide": 376,
-      "family": "canvas_orbit"
+      "family": "native_agent_orchestration"
     },
     {
       "slide": 377,
-      "family": "split_analysis"
+      "family": "editorial_focus"
     },
     {
       "slide": 378,
-      "family": "editorial_story"
+      "family": "editorial_split"
     },
     {
       "slide": 382,
-      "family": "wide_evidence"
+      "family": "native_agent_orchestration"
     },
     {
       "slide": 384,
-      "family": "split_analysis"
+      "family": "editorial_orbit"
     }
   ],
   "layout_family_counts": {
-    "canvas_orbit": 31,
-    "diagram_map": 12,
-    "editorial_story": 15,
-    "split_analysis": 37,
-    "technical_board": 18,
-    "wide_evidence": 42
+    "editorial_banner": 10,
+    "editorial_focus": 7,
+    "editorial_orbit": 9,
+    "editorial_split": 16,
+    "native_agent_orchestration": 6,
+    "native_data_pipeline": 6,
+    "native_excel_dashboard": 17,
+    "native_excel_prompt_contract": 14,
+    "native_excel_workbook": 13,
+    "native_gan_loop": 1,
+    "native_risk_diagnostic": 30,
+    "native_risk_pipeline": 26,
+    "native_specialist_replacement": 13,
+    "native_transformer_architecture": 1
   },
   "concept_layout_inventory": [
     {
