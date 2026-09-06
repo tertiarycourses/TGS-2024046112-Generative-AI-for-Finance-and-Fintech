@@ -42,8 +42,10 @@ Record the evidence for Step 2 in the checklist before continuing.
 
 ### Step 3: Add a Human review node and define its inputs, including an outcome and an approver name.
 
-- Add a Human review node. Define two inputs: an Outcome as Yes/No and an approver name as Text.
+- Add a Human review node. It needs its own connection first: choose Not connected, then Create new connection, then Create.
+- Define two inputs: Outcome as Yes/No and ApproverName as Text.
 - The node will not save with zero inputs, and there is no built-in outcome property to reference.
+- The type picker offers Text, Yes/No, Email, Number and Date. There is no Choice type, so put the approve/reject meaning in the Message text.
 
 Record the evidence for Step 3 in the checklist before continuing.
 

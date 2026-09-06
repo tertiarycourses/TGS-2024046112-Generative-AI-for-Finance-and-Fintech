@@ -52,8 +52,10 @@ Record the evidence for Step 3 in the checklist before continuing.
 
 ### Step 4: Create an agent flow and give it a name ending in the do-not-delete marker.
 
-- In Copilot Studio, create a workflow and name it ending in (DO NOT DELETE).
-- Choose the trigger When an agent calls the workflow. Only this trigger makes the flow selectable as an agent tool.
+- In Copilot Studio open Workflows and create one, naming it ending in (DO NOT DELETE).
+- Open the trigger and change the type from Manual to When an agent calls the workflow.
+- The Add-tool dialog on an agent says it outright: only workflows using that trigger are shown, and Power Automate cloud flows are not supported. Publishing alone is not enough.
+- Add a typed input the agent will pass in, such as AgeingBucket as Text.
 
 Record the evidence for Step 4 in the checklist before continuing.
 
@@ -75,8 +77,10 @@ Record the evidence for Step 6 in the checklist before continuing.
 
 ### Step 7: Add the flow as a tool on your agent, publishing the flow first so it becomes selectable.
 
-- Publish the flow, then add it as a tool on your agent.
-- Only published flows appear in the tool picker. An unpublished flow is greyed out.
+- Add a Respond to the agent node and define a typed output, then bind it to the Get items Value array with the picker.
+- Save, then Publish. Publishing takes 30 to 60 seconds and the status pill must read Published.
+- Open your agent, choose Tools, Add a tool, then the Workflows category, and select your flow.
+- Only published flows with the agent trigger appear there. Save and republish the agent afterwards.
 
 Record the evidence for Step 7 in the checklist before continuing.
 
