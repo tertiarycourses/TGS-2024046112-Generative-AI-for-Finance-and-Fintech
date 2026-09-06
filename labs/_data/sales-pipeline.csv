@@ -1,0 +1,141 @@
+﻿OpportunityID,CustomerID,CustomerName,Department,Region,Stage,DealValueSGD,ProbabilityPct,WeightedValueSGD,CreatedDate,ExpectedCloseDate,Owner
+OPP-0001,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Closed Lost,471910.05,0,0.0,2026-05-24,2026-07-26,E. Chen
+OPP-0002,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Proposal,198134.82,45,89160.67,2026-01-15,2026-06-05,C. Wong
+OPP-0003,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Closed Won,353357.82,100,353357.82,2026-03-11,2026-04-22,A. Tan
+OPP-0004,CUST-006,Sydney Freight Co,Enterprise,Australia,Closed Won,644172.69,100,644172.69,2026-04-19,2026-09-07,B. Lim
+OPP-0005,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Closed Won,604077.9,100,604077.9,2026-06-18,2026-07-19,A. Tan
+OPP-0006,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Qualification,537729.26,20,107545.85,2026-01-02,2026-02-22,E. Chen
+OPP-0007,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Proposal,457334.53,45,205800.54,2026-05-04,2026-07-29,B. Lim
+OPP-0008,CUST-006,Sydney Freight Co,Enterprise,Australia,Negotiation,465147.8,70,325603.46,2026-03-03,2026-06-15,B. Lim
+OPP-0009,CUST-011,Tampines Medical Group,Enterprise,Singapore,Negotiation,422643.8,70,295850.66,2026-04-21,2026-09-13,A. Tan
+OPP-0010,CUST-006,Sydney Freight Co,Enterprise,Australia,Closed Won,719003.82,100,719003.82,2026-05-06,2026-06-18,E. Chen
+OPP-0011,CUST-008,Johor Agri Holdings,SME Lending,Malaysia,Closed Won,365123.27,100,365123.27,2026-05-18,2026-10-07,C. Wong
+OPP-0012,CUST-011,Tampines Medical Group,Enterprise,Singapore,Closed Won,155472.05,100,155472.05,2026-03-07,2026-07-07,E. Chen
+OPP-0013,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Negotiation,372257.69,70,260580.38,2026-02-14,2026-06-13,B. Lim
+OPP-0014,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Proposal,413357.66,45,186010.95,2026-06-19,2026-08-06,B. Lim
+OPP-0015,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Negotiation,134875.98,70,94413.19,2026-05-25,2026-10-15,D. Rahman
+OPP-0016,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Closed Lost,204764.19,0,0.0,2026-04-04,2026-06-10,B. Lim
+OPP-0017,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Negotiation,89646.21,70,62752.35,2026-04-25,2026-08-15,A. Tan
+OPP-0018,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Negotiation,323458.19,70,226420.73,2026-01-14,2026-03-15,D. Rahman
+OPP-0019,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Proposal,219812.62,45,98915.68,2026-02-02,2026-03-21,C. Wong
+OPP-0020,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Won,278459.79,100,278459.79,2026-04-22,2026-09-17,E. Chen
+OPP-0021,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Qualification,108563.97,20,21712.79,2026-03-12,2026-07-15,E. Chen
+OPP-0022,CUST-008,Johor Agri Holdings,SME Lending,Malaysia,Closed Won,596992.6,100,596992.6,2026-01-17,2026-05-08,B. Lim
+OPP-0023,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Proposal,365902.3,45,164656.04,2026-03-26,2026-08-18,B. Lim
+OPP-0024,CUST-006,Sydney Freight Co,Enterprise,Australia,Negotiation,719804.56,70,503863.19,2026-06-15,2026-10-21,B. Lim
+OPP-0025,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Proposal,46571.8,45,20957.31,2026-06-11,2026-09-14,A. Tan
+OPP-0026,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Closed Won,387523.41,100,387523.41,2026-03-15,2026-05-12,C. Wong
+OPP-0027,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Closed Won,409661.5,100,409661.5,2026-02-17,2026-05-09,C. Wong
+OPP-0028,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Qualification,328245.43,20,65649.09,2026-02-12,2026-05-04,E. Chen
+OPP-0029,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Qualification,603563.14,20,120712.63,2026-03-13,2026-05-31,A. Tan
+OPP-0030,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Lost,53025.87,0,0.0,2026-03-24,2026-07-14,E. Chen
+OPP-0031,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Proposal,327830.05,45,147523.52,2026-05-21,2026-09-14,E. Chen
+OPP-0032,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Closed Won,137396.82,100,137396.82,2026-06-01,2026-07-14,E. Chen
+OPP-0033,CUST-012,Melaka Shipping,SME Lending,Malaysia,Qualification,84365.78,20,16873.16,2026-06-08,2026-08-24,B. Lim
+OPP-0034,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Negotiation,471484.67,70,330039.27,2026-04-21,2026-06-13,B. Lim
+OPP-0035,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Qualification,343465.38,20,68693.08,2026-04-11,2026-07-10,D. Rahman
+OPP-0036,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Negotiation,352698.53,70,246888.97,2026-02-07,2026-06-01,E. Chen
+OPP-0037,CUST-006,Sydney Freight Co,Enterprise,Australia,Closed Won,267272.97,100,267272.97,2026-01-26,2026-06-24,A. Tan
+OPP-0038,CUST-008,Johor Agri Holdings,SME Lending,Malaysia,Closed Won,322700.8,100,322700.8,2026-05-10,2026-08-11,C. Wong
+OPP-0039,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Proposal,293668.45,45,132150.8,2026-04-05,2026-05-23,A. Tan
+OPP-0040,CUST-011,Tampines Medical Group,Enterprise,Singapore,Closed Won,120618.6,100,120618.6,2026-03-19,2026-06-13,A. Tan
+OPP-0041,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Qualification,275822.99,20,55164.6,2026-01-19,2026-04-23,A. Tan
+OPP-0042,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Lost,231396.28,0,0.0,2026-03-31,2026-08-14,E. Chen
+OPP-0043,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Negotiation,607359.97,70,425151.98,2026-06-10,2026-08-12,C. Wong
+OPP-0044,CUST-011,Tampines Medical Group,Enterprise,Singapore,Proposal,205151.23,45,92318.05,2026-01-15,2026-05-31,D. Rahman
+OPP-0045,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Closed Won,269010.37,100,269010.37,2026-04-22,2026-07-19,D. Rahman
+OPP-0046,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Qualification,119685.19,20,23937.04,2026-04-22,2026-06-29,C. Wong
+OPP-0047,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Qualification,330097.86,20,66019.57,2026-02-08,2026-05-09,D. Rahman
+OPP-0048,CUST-012,Melaka Shipping,SME Lending,Malaysia,Proposal,258760.8,45,116442.36,2026-03-30,2026-07-21,D. Rahman
+OPP-0049,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Proposal,56484.82,45,25418.17,2026-01-31,2026-04-29,C. Wong
+OPP-0050,CUST-006,Sydney Freight Co,Enterprise,Australia,Negotiation,638620.9,70,447034.63,2026-04-01,2026-07-03,E. Chen
+OPP-0051,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Negotiation,262305.92,70,183614.14,2026-02-17,2026-07-15,E. Chen
+OPP-0052,CUST-008,Johor Agri Holdings,SME Lending,Malaysia,Negotiation,73373.19,70,51361.23,2026-06-11,2026-07-18,B. Lim
+OPP-0053,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Qualification,211982.55,20,42396.51,2026-04-08,2026-08-21,B. Lim
+OPP-0054,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Negotiation,399359.56,70,279551.69,2026-05-25,2026-07-14,C. Wong
+OPP-0055,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Proposal,138577.29,45,62359.78,2026-04-08,2026-06-22,E. Chen
+OPP-0056,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Closed Lost,454654.55,0,0.0,2026-02-18,2026-07-10,B. Lim
+OPP-0057,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Negotiation,329898.13,70,230928.69,2026-06-19,2026-09-20,C. Wong
+OPP-0058,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Proposal,164222.84,45,73900.28,2026-02-08,2026-06-14,D. Rahman
+OPP-0059,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Lost,349647.06,0,0.0,2026-04-13,2026-06-06,E. Chen
+OPP-0060,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Closed Won,520474.97,100,520474.97,2026-02-19,2026-03-26,C. Wong
+OPP-0061,CUST-012,Melaka Shipping,SME Lending,Malaysia,Closed Won,578523.33,100,578523.33,2026-01-18,2026-05-12,B. Lim
+OPP-0062,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Proposal,242781.58,45,109251.71,2026-04-24,2026-08-10,D. Rahman
+OPP-0063,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Proposal,170261.54,45,76617.69,2026-01-06,2026-03-04,B. Lim
+OPP-0064,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Negotiation,277390.23,70,194173.16,2026-02-15,2026-04-13,A. Tan
+OPP-0065,CUST-006,Sydney Freight Co,Enterprise,Australia,Proposal,702052.66,45,315923.7,2026-02-14,2026-04-07,E. Chen
+OPP-0066,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Negotiation,407057.57,70,284940.3,2026-04-17,2026-06-16,C. Wong
+OPP-0067,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Won,408865.53,100,408865.53,2026-06-06,2026-10-14,E. Chen
+OPP-0068,CUST-012,Melaka Shipping,SME Lending,Malaysia,Proposal,519386.71,45,233724.02,2026-03-26,2026-06-07,B. Lim
+OPP-0069,CUST-011,Tampines Medical Group,Enterprise,Singapore,Qualification,351148.56,20,70229.71,2026-03-24,2026-05-08,A. Tan
+OPP-0070,CUST-006,Sydney Freight Co,Enterprise,Australia,Qualification,542953.11,20,108590.62,2026-03-23,2026-07-13,A. Tan
+OPP-0071,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Negotiation,361131.87,70,252792.31,2026-01-05,2026-04-18,C. Wong
+OPP-0072,CUST-006,Sydney Freight Co,Enterprise,Australia,Qualification,395881.09,20,79176.22,2026-06-11,2026-07-22,D. Rahman
+OPP-0073,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Proposal,50271.97,45,22622.39,2026-06-18,2026-09-23,A. Tan
+OPP-0074,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Proposal,459955.51,45,206979.98,2026-06-18,2026-11-11,A. Tan
+OPP-0075,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Won,612252.14,100,612252.14,2026-06-13,2026-09-24,E. Chen
+OPP-0076,CUST-006,Sydney Freight Co,Enterprise,Australia,Proposal,634720.29,45,285624.13,2026-01-22,2026-03-07,E. Chen
+OPP-0077,CUST-011,Tampines Medical Group,Enterprise,Singapore,Closed Won,461775.09,100,461775.09,2026-03-20,2026-04-19,A. Tan
+OPP-0078,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Negotiation,447591.83,70,313314.28,2026-01-07,2026-03-11,A. Tan
+OPP-0079,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Proposal,119915.06,45,53961.78,2026-06-06,2026-08-08,D. Rahman
+OPP-0080,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Closed Won,572358.82,100,572358.82,2026-02-24,2026-06-25,A. Tan
+OPP-0081,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Qualification,696139.22,20,139227.84,2026-04-23,2026-09-13,A. Tan
+OPP-0082,CUST-008,Johor Agri Holdings,SME Lending,Malaysia,Closed Lost,602689.91,0,0.0,2026-03-15,2026-05-01,A. Tan
+OPP-0083,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Negotiation,664895.02,70,465426.51,2026-06-13,2026-11-03,C. Wong
+OPP-0084,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Proposal,388477.88,45,174815.05,2026-04-10,2026-07-13,B. Lim
+OPP-0085,CUST-008,Johor Agri Holdings,SME Lending,Malaysia,Qualification,273129.76,20,54625.95,2026-01-28,2026-04-11,B. Lim
+OPP-0086,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Closed Won,270735.55,100,270735.55,2026-01-29,2026-06-12,D. Rahman
+OPP-0087,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Closed Lost,70821.57,0,0.0,2026-03-23,2026-06-01,C. Wong
+OPP-0088,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Won,289901.12,100,289901.12,2026-05-31,2026-08-13,C. Wong
+OPP-0089,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Qualification,552051.15,20,110410.23,2026-04-15,2026-08-28,D. Rahman
+OPP-0090,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Proposal,648054.52,45,291624.53,2026-04-15,2026-08-20,A. Tan
+OPP-0091,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Qualification,673301.07,20,134660.21,2026-03-10,2026-06-21,B. Lim
+OPP-0092,CUST-011,Tampines Medical Group,Enterprise,Singapore,Closed Won,571763.24,100,571763.24,2026-03-13,2026-05-20,D. Rahman
+OPP-0093,CUST-011,Tampines Medical Group,Enterprise,Singapore,Closed Won,124277.53,100,124277.53,2026-02-19,2026-06-08,A. Tan
+OPP-0094,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Qualification,597221.67,20,119444.33,2026-03-06,2026-07-22,D. Rahman
+OPP-0095,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Closed Won,355535.81,100,355535.81,2026-06-03,2026-10-21,B. Lim
+OPP-0096,CUST-006,Sydney Freight Co,Enterprise,Australia,Proposal,153678.49,45,69155.32,2026-06-10,2026-10-09,C. Wong
+OPP-0097,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Won,361321.14,100,361321.14,2026-02-03,2026-06-22,A. Tan
+OPP-0098,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Closed Won,702312.95,100,702312.95,2026-05-03,2026-09-08,A. Tan
+OPP-0099,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Closed Lost,304706.74,0,0.0,2026-02-23,2026-05-14,E. Chen
+OPP-0100,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Lost,559963.59,0,0.0,2026-06-15,2026-11-08,A. Tan
+OPP-0101,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Closed Lost,580207.08,0,0.0,2026-03-28,2026-05-27,E. Chen
+OPP-0102,CUST-006,Sydney Freight Co,Enterprise,Australia,Proposal,692716.1,45,311722.24,2026-01-03,2026-02-28,A. Tan
+OPP-0103,CUST-011,Tampines Medical Group,Enterprise,Singapore,Proposal,537492.41,45,241871.58,2026-04-06,2026-06-29,A. Tan
+OPP-0104,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Qualification,350212.64,20,70042.53,2026-06-08,2026-10-07,D. Rahman
+OPP-0105,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Closed Won,224101.41,100,224101.41,2026-02-09,2026-04-30,E. Chen
+OPP-0106,CUST-012,Melaka Shipping,SME Lending,Malaysia,Closed Won,166254.45,100,166254.45,2026-06-16,2026-07-30,D. Rahman
+OPP-0107,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Closed Lost,212275.54,0,0.0,2026-02-13,2026-04-01,C. Wong
+OPP-0108,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Proposal,145875.64,45,65644.04,2026-02-07,2026-05-24,C. Wong
+OPP-0109,CUST-008,Johor Agri Holdings,SME Lending,Malaysia,Proposal,232224.62,45,104501.08,2026-03-21,2026-06-03,C. Wong
+OPP-0110,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Negotiation,318035.92,70,222625.14,2026-03-21,2026-08-12,D. Rahman
+OPP-0111,CUST-012,Melaka Shipping,SME Lending,Malaysia,Negotiation,545432.49,70,381802.74,2026-03-24,2026-06-12,C. Wong
+OPP-0112,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Proposal,580910.69,45,261409.81,2026-01-23,2026-03-29,C. Wong
+OPP-0113,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Closed Won,580779.49,100,580779.49,2026-05-01,2026-08-26,C. Wong
+OPP-0114,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Closed Won,317088.77,100,317088.77,2026-01-25,2026-06-12,D. Rahman
+OPP-0115,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Negotiation,459210.71,70,321447.5,2026-05-08,2026-07-16,B. Lim
+OPP-0116,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Qualification,98875.49,20,19775.1,2026-03-23,2026-07-07,B. Lim
+OPP-0117,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Negotiation,420645.03,70,294451.52,2026-01-25,2026-03-08,D. Rahman
+OPP-0118,CUST-012,Melaka Shipping,SME Lending,Malaysia,Qualification,119156.07,20,23831.21,2026-01-12,2026-04-02,E. Chen
+OPP-0119,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Proposal,289118.52,45,130103.33,2026-05-07,2026-06-14,E. Chen
+OPP-0120,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Qualification,379635.89,20,75927.18,2026-01-28,2026-03-06,E. Chen
+OPP-0121,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Negotiation,508259.35,70,355781.54,2026-01-10,2026-03-02,E. Chen
+OPP-0122,CUST-001,Marina Bay Logistics,Enterprise,Singapore,Closed Lost,606304.16,0,0.0,2026-06-12,2026-10-08,C. Wong
+OPP-0123,CUST-003,Penang Textiles Sdn Bhd,SME Lending,Malaysia,Negotiation,132363.49,70,92654.44,2026-04-29,2026-05-30,E. Chen
+OPP-0124,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Closed Won,321048.76,100,321048.76,2026-05-08,2026-06-21,D. Rahman
+OPP-0125,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Qualification,336258.32,20,67251.66,2026-04-30,2026-09-01,C. Wong
+OPP-0126,CUST-006,Sydney Freight Co,Enterprise,Australia,Qualification,219446.91,20,43889.38,2026-05-08,2026-07-07,D. Rahman
+OPP-0127,CUST-007,Jurong Manufacturing,Enterprise,Singapore,Qualification,705167.14,20,141033.43,2026-02-12,2026-06-07,A. Tan
+OPP-0128,CUST-006,Sydney Freight Co,Enterprise,Australia,Proposal,610209.31,45,274594.19,2026-04-04,2026-07-01,D. Rahman
+OPP-0129,CUST-011,Tampines Medical Group,Enterprise,Singapore,Qualification,84058.75,20,16811.75,2026-02-27,2026-06-03,D. Rahman
+OPP-0130,CUST-010,Victoria Payments Pty,Digital Payments,Australia,Negotiation,343899.57,70,240729.7,2026-02-18,2026-07-13,E. Chen
+OPP-0131,CUST-006,Sydney Freight Co,Enterprise,Australia,Qualification,717224.42,20,143444.88,2026-01-22,2026-03-04,A. Tan
+OPP-0132,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Qualification,368240.74,20,73648.15,2026-02-15,2026-04-22,C. Wong
+OPP-0133,CUST-005,Kowloon Digital Ltd,Digital Payments,Hong Kong,Proposal,363814.41,45,163716.48,2026-06-05,2026-10-26,C. Wong
+OPP-0134,CUST-012,Melaka Shipping,SME Lending,Malaysia,Qualification,81252.79,20,16250.56,2026-05-18,2026-08-23,B. Lim
+OPP-0135,CUST-012,Melaka Shipping,SME Lending,Malaysia,Closed Lost,65979.12,0,0.0,2026-03-26,2026-07-16,A. Tan
+OPP-0136,CUST-002,Kallang Foods Pte Ltd,SME Lending,Singapore,Qualification,201571.9,20,40314.38,2026-05-25,2026-08-15,C. Wong
+OPP-0137,CUST-009,Orchard Lifestyle Retail,Retail Banking,Singapore,Negotiation,357152.38,70,250006.67,2026-06-19,2026-11-11,B. Lim
+OPP-0138,CUST-006,Sydney Freight Co,Enterprise,Australia,Qualification,184351.58,20,36870.32,2026-04-30,2026-07-08,A. Tan
+OPP-0139,CUST-004,Harbourfront Retail Group,Retail Banking,Singapore,Negotiation,388162.66,70,271713.86,2026-03-18,2026-08-07,C. Wong
+OPP-0140,CUST-006,Sydney Freight Co,Enterprise,Australia,Negotiation,390479.54,70,273335.68,2026-01-15,2026-05-22,B. Lim

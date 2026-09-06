@@ -1,0 +1,241 @@
+﻿Period,Department,AccountCode,AccountName,AccountType,ActualSGD,BudgetSGD,VarianceSGD,VariancePct
+2026-01,Digital Payments,4000,Interest Income,Revenue,346016.39,311617.19,34399.2,11.04
+2026-01,Digital Payments,4100,Fee and Commission Income,Revenue,176057.06,168293.1,7763.96,4.61
+2026-01,Digital Payments,4200,Transaction Revenue,Revenue,107950.83,106368.11,1582.72,1.49
+2026-01,Digital Payments,5000,Cost of Service Delivery,COGS,-168074.28,-159160.94,-8913.34,-5.6
+2026-01,Digital Payments,6100,Marketing and Acquisition,Opex,-60153.21,-67090.59,6937.38,10.34
+2026-01,Digital Payments,6200,Technology and Cloud,Opex,-68606.83,-66831.34,-1775.49,-2.66
+2026-01,Digital Payments,6300,People Cost,Opex,-152662.27,-166902.45,14240.18,8.53
+2026-01,Digital Payments,6400,Premises and Admin,Opex,-30516.88,-27571.89,-2944.99,-10.68
+2026-01,Digital Payments,6500,Compliance and Risk,Opex,-25455.29,-27967.31,2512.02,8.98
+2026-01,Digital Payments,7000,Credit Loss Provision,Provision,-19503.27,-20452.38,949.11,4.64
+2026-01,Enterprise,4000,Interest Income,Revenue,906737.36,909603.18,-2865.82,-0.32
+2026-01,Enterprise,4100,Fee and Commission Income,Revenue,469083.76,464201.85,4881.91,1.05
+2026-01,Enterprise,4200,Transaction Revenue,Revenue,279197.34,256265.06,22932.28,8.95
+2026-01,Enterprise,5000,Cost of Service Delivery,COGS,-468708.17,-479913.41,11205.24,2.33
+2026-01,Enterprise,6100,Marketing and Acquisition,Opex,-143460.83,-141614.68,-1846.15,-1.3
+2026-01,Enterprise,6200,Technology and Cloud,Opex,-177810.17,-193777.49,15967.32,8.24
+2026-01,Enterprise,6300,People Cost,Opex,-385743.74,-399813.86,14070.12,3.52
+2026-01,Enterprise,6400,Premises and Admin,Opex,-82011.04,-89494.34,7483.3,8.36
+2026-01,Enterprise,6500,Compliance and Risk,Opex,-69733.75,-77879.55,8145.8,10.46
+2026-01,Enterprise,7000,Credit Loss Provision,Provision,-48192.8,-46837.65,-1355.15,-2.89
+2026-01,Retail Banking,4000,Interest Income,Revenue,778911.86,825468.38,-46556.52,-5.64
+2026-01,Retail Banking,4100,Fee and Commission Income,Revenue,385865.95,353997.27,31868.68,9.0
+2026-01,Retail Banking,4200,Transaction Revenue,Revenue,245586.72,254507.18,-8920.46,-3.5
+2026-01,Retail Banking,5000,Cost of Service Delivery,COGS,-402281.27,-411497.68,9216.41,2.24
+2026-01,Retail Banking,6100,Marketing and Acquisition,Opex,-121835.14,-129333.24,7498.1,5.8
+2026-01,Retail Banking,6200,Technology and Cloud,Opex,-159661.89,-166204.29,6542.4,3.94
+2026-01,Retail Banking,6300,People Cost,Opex,-353470.13,-343597.49,-9872.64,-2.87
+2026-01,Retail Banking,6400,Premises and Admin,Opex,-76164.73,-73286.34,-2878.39,-3.93
+2026-01,Retail Banking,6500,Compliance and Risk,Opex,-55596.5,-55478.52,-117.98,-0.21
+2026-01,Retail Banking,7000,Credit Loss Provision,Provision,-43241.89,-43078.97,-162.92,-0.38
+2026-01,SME Lending,4000,Interest Income,Revenue,581577.74,630067.04,-48489.3,-7.7
+2026-01,SME Lending,4100,Fee and Commission Income,Revenue,295598.3,282425.68,13172.62,4.66
+2026-01,SME Lending,4200,Transaction Revenue,Revenue,178856.38,192236.86,-13380.48,-6.96
+2026-01,SME Lending,5000,Cost of Service Delivery,COGS,-283986.23,-259095.34,-24890.89,-9.61
+2026-01,SME Lending,6100,Marketing and Acquisition,Opex,-88180.42,-95881.06,7700.64,8.03
+2026-01,SME Lending,6200,Technology and Cloud,Opex,-112968.36,-124568.61,11600.25,9.31
+2026-01,SME Lending,6300,People Cost,Opex,-255131.37,-245439.72,-9691.65,-3.95
+2026-01,SME Lending,6400,Premises and Admin,Opex,-54896.83,-51022.06,-3874.77,-7.59
+2026-01,SME Lending,6500,Compliance and Risk,Opex,-39759.49,-37360.21,-2399.28,-6.42
+2026-01,SME Lending,7000,Credit Loss Provision,Provision,-32385.02,-33432.93,1047.91,3.13
+2026-02,Digital Payments,4000,Interest Income,Revenue,343047.52,320731.74,22315.78,6.96
+2026-02,Digital Payments,4100,Fee and Commission Income,Revenue,182176.52,169254.97,12921.55,7.63
+2026-02,Digital Payments,4200,Transaction Revenue,Revenue,106723.4,102579.04,4144.36,4.04
+2026-02,Digital Payments,5000,Cost of Service Delivery,COGS,-168470.4,-162418.41,-6051.99,-3.73
+2026-02,Digital Payments,6100,Marketing and Acquisition,Opex,-58442.39,-60992.69,2550.3,4.18
+2026-02,Digital Payments,6200,Technology and Cloud,Opex,-74820.4,-67516.3,-7304.1,-10.82
+2026-02,Digital Payments,6300,People Cost,Opex,-148083.05,-153565.51,5482.46,3.57
+2026-02,Digital Payments,6400,Premises and Admin,Opex,-31315.04,-30081.45,-1233.59,-4.1
+2026-02,Digital Payments,6500,Compliance and Risk,Opex,-26781.65,-24300.05,-2481.6,-10.21
+2026-02,Digital Payments,7000,Credit Loss Provision,Provision,-19875.04,-20374.07,499.03,2.45
+2026-02,Enterprise,4000,Interest Income,Revenue,961499.21,876866.89,84632.32,9.65
+2026-02,Enterprise,4100,Fee and Commission Income,Revenue,496008.85,483460.08,12548.77,2.6
+2026-02,Enterprise,4200,Transaction Revenue,Revenue,294102.69,294555.63,-452.94,-0.15
+2026-02,Enterprise,5000,Cost of Service Delivery,COGS,-464505.08,-473843.34,9338.26,1.97
+2026-02,Enterprise,6100,Marketing and Acquisition,Opex,-153718.34,-153796.99,78.65,0.05
+2026-02,Enterprise,6200,Technology and Cloud,Opex,-198412.98,-219301.68,20888.7,9.53
+2026-02,Enterprise,6300,People Cost,Opex,-417046.67,-377773.22,-39273.45,-10.4
+2026-02,Enterprise,6400,Premises and Admin,Opex,-81501.06,-86273.4,4772.34,5.53
+2026-02,Enterprise,6500,Compliance and Risk,Opex,-66785.39,-72768.47,5983.08,8.22
+2026-02,Enterprise,7000,Credit Loss Provision,Provision,-52516.3,-50098.35,-2417.95,-4.83
+2026-02,Retail Banking,4000,Interest Income,Revenue,811192.27,907743.11,-96550.84,-10.64
+2026-02,Retail Banking,4100,Fee and Commission Income,Revenue,407758.37,447893.16,-40134.79,-8.96
+2026-02,Retail Banking,4200,Transaction Revenue,Revenue,254392.92,268936.96,-14544.04,-5.41
+2026-02,Retail Banking,5000,Cost of Service Delivery,COGS,-438529.8,-445512.81,6983.01,1.57
+2026-02,Retail Banking,6100,Marketing and Acquisition,Opex,-134504.59,-122626.09,-11878.5,-9.69
+2026-02,Retail Banking,6200,Technology and Cloud,Opex,-157669.86,-156929.6,-740.26,-0.47
+2026-02,Retail Banking,6300,People Cost,Opex,-349067.94,-353557.75,4489.81,1.27
+2026-02,Retail Banking,6400,Premises and Admin,Opex,-72228.5,-66366.5,-5862.0,-8.83
+2026-02,Retail Banking,6500,Compliance and Risk,Opex,-60019.94,-64732.57,4712.63,7.28
+2026-02,Retail Banking,7000,Credit Loss Provision,Provision,-42584.04,-47290.22,4706.18,9.95
+2026-02,SME Lending,4000,Interest Income,Revenue,547025.6,612204.04,-65178.44,-10.65
+2026-02,SME Lending,4100,Fee and Commission Income,Revenue,281203.0,291247.39,-10044.39,-3.45
+2026-02,SME Lending,4200,Transaction Revenue,Revenue,170225.74,163538.04,6687.7,4.09
+2026-02,SME Lending,5000,Cost of Service Delivery,COGS,-281054.15,-266237.42,-14816.73,-5.57
+2026-02,SME Lending,6100,Marketing and Acquisition,Opex,-95275.01,-103423.23,8148.22,7.88
+2026-02,SME Lending,6200,Technology and Cloud,Opex,-117023.95,-110532.22,-6491.73,-5.87
+2026-02,SME Lending,6300,People Cost,Opex,-226407.0,-207611.83,-18795.17,-9.05
+2026-02,SME Lending,6400,Premises and Admin,Opex,-49136.0,-44978.38,-4157.62,-9.24
+2026-02,SME Lending,6500,Compliance and Risk,Opex,-41320.45,-37692.33,-3628.12,-9.63
+2026-02,SME Lending,7000,Credit Loss Provision,Provision,-29737.85,-29755.8,17.95,0.06
+2026-03,Digital Payments,4000,Interest Income,Revenue,365712.36,351104.65,14607.71,4.16
+2026-03,Digital Payments,4100,Fee and Commission Income,Revenue,187187.34,204616.67,-17429.33,-8.52
+2026-03,Digital Payments,4200,Transaction Revenue,Revenue,117199.22,127665.7,-10466.48,-8.2
+2026-03,Digital Payments,5000,Cost of Service Delivery,COGS,-190374.4,-212283.68,21909.28,10.32
+2026-03,Digital Payments,6100,Marketing and Acquisition,Opex,-59689.51,-60822.03,1132.52,1.86
+2026-03,Digital Payments,6200,Technology and Cloud,Opex,-74643.72,-76527.77,1884.05,2.46
+2026-03,Digital Payments,6300,People Cost,Opex,-172754.68,-168137.29,-4617.39,-2.75
+2026-03,Digital Payments,6400,Premises and Admin,Opex,-35074.29,-37544.25,2469.96,6.58
+2026-03,Digital Payments,6500,Compliance and Risk,Opex,-25932.46,-25107.81,-824.65,-3.28
+2026-03,Digital Payments,7000,Credit Loss Provision,Provision,-20740.24,-21820.35,1080.11,4.95
+2026-03,Enterprise,4000,Interest Income,Revenue,1030843.36,1107775.28,-76931.92,-6.94
+2026-03,Enterprise,4100,Fee and Commission Income,Revenue,500378.44,488866.06,11512.38,2.35
+2026-03,Enterprise,4200,Transaction Revenue,Revenue,318178.93,342560.2,-24381.27,-7.12
+2026-03,Enterprise,5000,Cost of Service Delivery,COGS,-542219.06,-596127.82,53908.76,9.04
+2026-03,Enterprise,6100,Marketing and Acquisition,Opex,-177013.19,-163489.68,-13523.51,-8.27
+2026-03,Enterprise,6200,Technology and Cloud,Opex,-198014.03,-221420.86,23406.83,10.57
+2026-03,Enterprise,6300,People Cost,Opex,-413921.73,-404387.12,-9534.61,-2.36
+2026-03,Enterprise,6400,Premises and Admin,Opex,-96484.75,-91811.06,-4673.69,-5.09
+2026-03,Enterprise,6500,Compliance and Risk,Opex,-75568.18,-84067.71,8499.53,10.11
+2026-03,Enterprise,7000,Credit Loss Provision,Provision,-56635.57,-53211.34,-3424.23,-6.44
+2026-03,Retail Banking,4000,Interest Income,Revenue,820880.7,906611.68,-85730.98,-9.46
+2026-03,Retail Banking,4100,Fee and Commission Income,Revenue,420507.34,468003.43,-47496.09,-10.15
+2026-03,Retail Banking,4200,Transaction Revenue,Revenue,255056.82,281807.93,-26751.11,-9.49
+2026-03,Retail Banking,5000,Cost of Service Delivery,COGS,-458297.9,-511151.22,52853.32,10.34
+2026-03,Retail Banking,6100,Marketing and Acquisition,Opex,-148793.38,-160091.71,11298.33,7.06
+2026-03,Retail Banking,6200,Technology and Cloud,Opex,-174318.15,-161986.82,-12331.33,-7.61
+2026-03,Retail Banking,6300,People Cost,Opex,-381307.18,-363265.95,-18041.23,-4.97
+2026-03,Retail Banking,6400,Premises and Admin,Opex,-82338.88,-87433.64,5094.76,5.83
+2026-03,Retail Banking,6500,Compliance and Risk,Opex,-59022.11,-53542.74,-5479.37,-10.23
+2026-03,Retail Banking,7000,Credit Loss Provision,Provision,-48743.0,-52114.14,3371.14,6.47
+2026-03,SME Lending,4000,Interest Income,Revenue,576244.63,608648.13,-32403.5,-5.32
+2026-03,SME Lending,4100,Fee and Commission Income,Revenue,290741.55,320054.48,-29312.93,-9.16
+2026-03,SME Lending,4200,Transaction Revenue,Revenue,178024.09,163325.95,14698.14,9.0
+2026-03,SME Lending,5000,Cost of Service Delivery,COGS,-296396.87,-322446.91,26050.04,8.08
+2026-03,SME Lending,6100,Marketing and Acquisition,Opex,-93904.3,-100212.82,6308.52,6.3
+2026-03,SME Lending,6200,Technology and Cloud,Opex,-108249.9,-106232.34,-2017.56,-1.9
+2026-03,SME Lending,6300,People Cost,Opex,-258014.26,-261624.88,3610.62,1.38
+2026-03,SME Lending,6400,Premises and Admin,Opex,-49113.1,-48735.94,-377.16,-0.77
+2026-03,SME Lending,6500,Compliance and Risk,Opex,-43915.48,-48314.19,4398.71,9.1
+2026-03,SME Lending,7000,Credit Loss Provision,Provision,-30267.54,-27383.43,-2884.11,-10.53
+2026-04,Digital Payments,4000,Interest Income,Revenue,356430.68,394645.87,-38215.19,-9.68
+2026-04,Digital Payments,4100,Fee and Commission Income,Revenue,186697.4,188624.15,-1926.75,-1.02
+2026-04,Digital Payments,4200,Transaction Revenue,Revenue,112745.2,117874.47,-5129.27,-4.35
+2026-04,Digital Payments,5000,Cost of Service Delivery,COGS,-176965.49,-191964.05,14998.56,7.81
+2026-04,Digital Payments,6100,Marketing and Acquisition,Opex,-57133.48,-61762.08,4628.6,7.49
+2026-04,Digital Payments,6200,Technology and Cloud,Opex,-72838.94,-68346.81,-4492.13,-6.57
+2026-04,Digital Payments,6300,People Cost,Opex,-165511.64,-155223.6,-10288.04,-6.63
+2026-04,Digital Payments,6400,Premises and Admin,Opex,-34460.15,-38033.72,3573.57,9.4
+2026-04,Digital Payments,6500,Compliance and Risk,Opex,-25880.89,-23776.27,-2104.62,-8.85
+2026-04,Digital Payments,7000,Credit Loss Provision,Provision,-20347.5,-19480.17,-867.33,-4.45
+2026-04,Enterprise,4000,Interest Income,Revenue,1009832.75,968510.49,41322.26,4.27
+2026-04,Enterprise,4100,Fee and Commission Income,Revenue,509802.59,557339.58,-47536.99,-8.53
+2026-04,Enterprise,4200,Transaction Revenue,Revenue,307611.9,316602.89,-8990.99,-2.84
+2026-04,Enterprise,5000,Cost of Service Delivery,COGS,-512304.78,-570708.2,58403.42,10.23
+2026-04,Enterprise,6100,Marketing and Acquisition,Opex,-157636.01,-160520.87,2884.86,1.8
+2026-04,Enterprise,6200,Technology and Cloud,Opex,-192132.08,-175949.57,-16182.51,-9.2
+2026-04,Enterprise,6300,People Cost,Opex,-447364.2,-426532.51,-20831.69,-4.88
+2026-04,Enterprise,6400,Premises and Admin,Opex,-92950.7,-84225.44,-8725.26,-10.36
+2026-04,Enterprise,6500,Compliance and Risk,Opex,-74254.1,-71137.48,-3116.62,-4.38
+2026-04,Enterprise,7000,Credit Loss Provision,Provision,-56281.52,-55656.98,-624.54,-1.12
+2026-04,Retail Banking,4000,Interest Income,Revenue,871878.82,823343.43,48535.39,5.89
+2026-04,Retail Banking,4100,Fee and Commission Income,Revenue,451468.52,481923.07,-30454.55,-6.32
+2026-04,Retail Banking,4200,Transaction Revenue,Revenue,269727.62,246840.26,22887.36,9.27
+2026-04,Retail Banking,5000,Cost of Service Delivery,COGS,-428437.32,-436217.71,7780.39,1.78
+2026-04,Retail Banking,6100,Marketing and Acquisition,Opex,-133161.82,-129561.48,-3600.34,-2.78
+2026-04,Retail Banking,6200,Technology and Cloud,Opex,-170555.15,-181303.9,10748.75,5.93
+2026-04,Retail Banking,6300,People Cost,Opex,-358447.77,-334554.13,-23893.64,-7.14
+2026-04,Retail Banking,6400,Premises and Admin,Opex,-82686.7,-77830.58,-4856.12,-6.24
+2026-04,Retail Banking,6500,Compliance and Risk,Opex,-60145.44,-56414.31,-3731.13,-6.61
+2026-04,Retail Banking,7000,Credit Loss Provision,Provision,-45674.52,-50821.39,5146.87,10.13
+2026-04,SME Lending,4000,Interest Income,Revenue,595647.39,619959.12,-24311.73,-3.92
+2026-04,SME Lending,4100,Fee and Commission Income,Revenue,304673.0,281021.3,23651.7,8.42
+2026-04,SME Lending,4200,Transaction Revenue,Revenue,187049.33,194841.75,-7792.42,-4.0
+2026-04,SME Lending,5000,Cost of Service Delivery,COGS,-311720.57,-348642.08,36921.51,10.59
+2026-04,SME Lending,6100,Marketing and Acquisition,Opex,-94698.91,-89131.54,-5567.37,-6.25
+2026-04,SME Lending,6200,Technology and Cloud,Opex,-117053.88,-122721.06,5667.18,4.62
+2026-04,SME Lending,6300,People Cost,Opex,-278095.31,-277858.38,-236.93,-0.09
+2026-04,SME Lending,6400,Premises and Admin,Opex,-53645.08,-48304.97,-5340.11,-11.05
+2026-04,SME Lending,6500,Compliance and Risk,Opex,-45184.03,-45416.45,232.42,0.51
+2026-04,SME Lending,7000,Credit Loss Provision,Provision,-31527.08,-34814.46,3287.38,9.44
+2026-05,Digital Payments,4000,Interest Income,Revenue,397822.43,443566.78,-45744.35,-10.31
+2026-05,Digital Payments,4100,Fee and Commission Income,Revenue,202568.97,213006.77,-10437.8,-4.9
+2026-05,Digital Payments,4200,Transaction Revenue,Revenue,121703.78,110315.74,11388.04,10.32
+2026-05,Digital Payments,5000,Cost of Service Delivery,COGS,-204289.68,-213519.74,9230.06,4.32
+2026-05,Digital Payments,6100,Marketing and Acquisition,Opex,-67579.49,-64360.97,-3218.52,-5.0
+2026-05,Digital Payments,6200,Technology and Cloud,Opex,-80331.99,-77023.23,-3308.76,-4.3
+2026-05,Digital Payments,6300,People Cost,Opex,-158550.22,-145215.11,-13335.11,-9.18
+2026-05,Digital Payments,6400,Premises and Admin,Opex,-33354.14,-35840.96,2486.82,6.94
+2026-05,Digital Payments,6500,Compliance and Risk,Opex,-28959.63,-29789.99,830.36,2.79
+2026-05,Digital Payments,7000,Credit Loss Provision,Provision,-21209.67,-21763.44,553.77,2.54
+2026-05,Enterprise,4000,Interest Income,Revenue,1036328.39,1078326.71,-41998.32,-3.89
+2026-05,Enterprise,4100,Fee and Commission Income,Revenue,556445.33,607217.76,-50772.43,-8.36
+2026-05,Enterprise,4200,Transaction Revenue,Revenue,339167.08,347794.07,-8626.99,-2.48
+2026-05,Enterprise,5000,Cost of Service Delivery,COGS,-571567.24,-537907.14,-33660.1,-6.26
+2026-05,Enterprise,6100,Marketing and Acquisition,Opex,-186176.11,-175038.71,-11137.4,-6.36
+2026-05,Enterprise,6200,Technology and Cloud,Opex,-230199.24,-254874.31,24675.07,9.68
+2026-05,Enterprise,6300,People Cost,Opex,-459100.06,-499253.05,40152.99,8.04
+2026-05,Enterprise,6400,Premises and Admin,Opex,-98352.38,-93842.03,-4510.35,-4.81
+2026-05,Enterprise,6500,Compliance and Risk,Opex,-80499.03,-89801.01,9301.98,10.36
+2026-05,Enterprise,7000,Credit Loss Provision,Provision,-57849.78,-54822.35,-3027.43,-5.52
+2026-05,Retail Banking,4000,Interest Income,Revenue,849294.99,878643.68,-29348.69,-3.34
+2026-05,Retail Banking,4100,Fee and Commission Income,Revenue,427382.19,478168.91,-50786.72,-10.62
+2026-05,Retail Banking,4200,Transaction Revenue,Revenue,259690.05,254153.66,5536.39,2.18
+2026-05,Retail Banking,5000,Cost of Service Delivery,COGS,-427528.06,-476796.11,49268.05,10.33
+2026-05,Retail Banking,6100,Marketing and Acquisition,Opex,-147470.19,-158321.99,10851.8,6.85
+2026-05,Retail Banking,6200,Technology and Cloud,Opex,-157481.48,-171533.22,14051.74,8.19
+2026-05,Retail Banking,6300,People Cost,Opex,-347707.75,-387591.46,39883.71,10.29
+2026-05,Retail Banking,6400,Premises and Admin,Opex,-76616.57,-85271.37,8654.8,10.15
+2026-05,Retail Banking,6500,Compliance and Risk,Opex,-58792.94,-60455.66,1662.72,2.75
+2026-05,Retail Banking,7000,Credit Loss Provision,Provision,-42934.84,-42075.39,-859.45,-2.04
+2026-05,SME Lending,4000,Interest Income,Revenue,574553.42,554324.36,20229.06,3.65
+2026-05,SME Lending,4100,Fee and Commission Income,Revenue,287185.67,262602.33,24583.34,9.36
+2026-05,SME Lending,4200,Transaction Revenue,Revenue,176953.51,191172.37,-14218.86,-7.44
+2026-05,SME Lending,5000,Cost of Service Delivery,COGS,-300838.67,-286881.41,-13957.26,-4.87
+2026-05,SME Lending,6100,Marketing and Acquisition,Opex,-90431.32,-81906.37,-8524.95,-10.41
+2026-05,SME Lending,6200,Technology and Cloud,Opex,-117657.46,-130493.7,12836.24,9.84
+2026-05,SME Lending,6300,People Cost,Opex,-244655.77,-272261.34,27605.57,10.14
+2026-05,SME Lending,6400,Premises and Admin,Opex,-53569.67,-53799.87,230.2,0.43
+2026-05,SME Lending,6500,Compliance and Risk,Opex,-40751.33,-40062.5,-688.83,-1.72
+2026-05,SME Lending,7000,Credit Loss Provision,Provision,-32148.74,-33753.03,1604.29,4.75
+2026-06,Digital Payments,4000,Interest Income,Revenue,378122.61,378417.04,-294.43,-0.08
+2026-06,Digital Payments,4100,Fee and Commission Income,Revenue,189150.08,188569.8,580.28,0.31
+2026-06,Digital Payments,4200,Transaction Revenue,Revenue,114313.04,107624.42,6688.62,6.21
+2026-06,Digital Payments,5000,Cost of Service Delivery,COGS,-187051.04,-192812.97,5761.93,2.99
+2026-06,Digital Payments,6100,Marketing and Acquisition,Opex,-58085.63,-55144.08,-2941.55,-5.33
+2026-06,Digital Payments,6200,Technology and Cloud,Opex,-71961.5,-67567.63,-4393.87,-6.5
+2026-06,Digital Payments,6300,People Cost,Opex,-175224.33,-183578.98,8354.65,4.55
+2026-06,Digital Payments,6400,Premises and Admin,Opex,-35949.32,-38741.37,2792.05,7.21
+2026-06,Digital Payments,6500,Compliance and Risk,Opex,-29649.83,-28893.43,-756.4,-2.62
+2026-06,Digital Payments,7000,Credit Loss Provision,Provision,-20266.46,-19545.7,-720.76,-3.69
+2026-06,Enterprise,4000,Interest Income,Revenue,1008569.15,1119229.88,-110660.73,-9.89
+2026-06,Enterprise,4100,Fee and Commission Income,Revenue,525156.87,477466.01,47690.86,9.99
+2026-06,Enterprise,4200,Transaction Revenue,Revenue,314065.53,331687.97,-17622.44,-5.31
+2026-06,Enterprise,5000,Cost of Service Delivery,COGS,-536708.62,-564245.72,27537.1,4.88
+2026-06,Enterprise,6100,Marketing and Acquisition,Opex,-161736.46,-152516.74,-9219.72,-6.05
+2026-06,Enterprise,6200,Technology and Cloud,Opex,-212087.92,-203204.87,-8883.05,-4.37
+2026-06,Enterprise,6300,People Cost,Opex,-465274.1,-440691.81,-24582.29,-5.58
+2026-06,Enterprise,6400,Premises and Admin,Opex,-93564.34,-100937.53,7373.19,7.3
+2026-06,Enterprise,6500,Compliance and Risk,Opex,-73863.43,-73350.72,-512.71,-0.7
+2026-06,Enterprise,7000,Credit Loss Provision,Provision,-58926.53,-55686.57,-3239.96,-5.82
+2026-06,Retail Banking,4000,Interest Income,Revenue,918559.26,856703.24,61856.02,7.22
+2026-06,Retail Banking,4100,Fee and Commission Income,Revenue,477191.59,460242.15,16949.44,3.68
+2026-06,Retail Banking,4200,Transaction Revenue,Revenue,287733.78,298668.04,-10934.26,-3.66
+2026-06,Retail Banking,5000,Cost of Service Delivery,COGS,-480837.41,-528992.21,48154.8,9.1
+2026-06,Retail Banking,6100,Marketing and Acquisition,Opex,-147975.81,-148602.04,626.23,0.42
+2026-06,Retail Banking,6200,Technology and Cloud,Opex,-196857.71,-216270.16,19412.45,8.98
+2026-06,Retail Banking,6300,People Cost,Opex,-388727.86,-352903.34,-35824.52,-10.15
+2026-06,Retail Banking,6400,Premises and Admin,Opex,-81177.46,-75999.55,-5177.91,-6.81
+2026-06,Retail Banking,6500,Compliance and Risk,Opex,-65641.73,-60366.89,-5274.84,-8.74
+2026-06,Retail Banking,7000,Credit Loss Provision,Provision,-52885.0,-49124.51,-3760.49,-7.66
+2026-06,SME Lending,4000,Interest Income,Revenue,627043.2,657306.98,-30263.78,-4.6
+2026-06,SME Lending,4100,Fee and Commission Income,Revenue,317124.11,326329.45,-9205.34,-2.82
+2026-06,SME Lending,4200,Transaction Revenue,Revenue,185198.39,182610.99,2587.4,1.42
+2026-06,SME Lending,5000,Cost of Service Delivery,COGS,-295330.29,-277423.95,-17906.34,-6.45
+2026-06,SME Lending,6100,Marketing and Acquisition,Opex,-95512.69,-105066.8,9554.11,9.09
+2026-06,SME Lending,6200,Technology and Cloud,Opex,-116136.4,-114007.37,-2129.03,-1.87
+2026-06,SME Lending,6300,People Cost,Opex,-280922.03,-298382.54,17460.51,5.85
+2026-06,SME Lending,6400,Premises and Admin,Opex,-54786.12,-60084.16,5298.04,8.82
+2026-06,SME Lending,6500,Compliance and Risk,Opex,-42160.0,-38785.38,-3374.62,-8.7
+2026-06,SME Lending,7000,Credit Loss Provision,Provision,-33608.74,-32364.93,-1243.81,-3.84

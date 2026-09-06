@@ -1,5 +1,54 @@
 # Courseware Changelog
 
+## v6.0 (deck) / v5.0 (documents) — 6 September 2026
+
+Restructured the course from 5 topics to 6, entirely around Microsoft Copilot, and
+provisioned a live tenant so every lab runs against real infrastructure.
+
+**Course structure**
+
+- Rewrote the syllabus as six topics: (1) Generative, Agentic and Agent AI with Copilot
+  in Word and PowerPoint, (2) Excel Copilot for analysis and dashboards, (3) SharePoint
+  for finance with grounded agents, (4) Copilot Studio workflows with human approval,
+  (5) multi-agent orchestration, (6) AI security, PDPA and human oversight.
+- Replaced the 10 legacy labs with 12 new labs mapped across the six topics.
+- Re-timed all four days to exactly 480 instructional minutes with no gaps, keeping the
+  Written Assessment and Case Study at 60 minutes each.
+- Kept the approved WSQ learning outcomes, knowledge and ability statements unchanged;
+  all of K1–K4 and A1–A5 remain covered.
+
+**Live tenant provisioning**
+
+- Created the Power Platform environment TGS-2026065050 (Sandbox, Asia, SGD, Dataverse)
+  and attached it to the pay-as-you-go billing plan.
+- Built the Northstar Finance SharePoint site with two document libraries and seven
+  typed lists holding 920 rows of synthetic finance data.
+- Published four approved finance policies and five period finance reports.
+- Built and published five Copilot Studio agents, including a Month End Close Supervisor
+  that routes to four connected specialists.
+- Built a Microsoft 365 Copilot agent with the SharePoint agent builder and verified it
+  answers with correct citations and effective dates.
+
+**Data**
+
+- Added a single generator so the SharePoint lists, the Excel labs and the agent-facing
+  reports all derive from one dataset and reconcile to net profit SGD 4,767,259.38.
+- Fixed sign conventions on bank-only items and clamped receipts to the statement cut-off.
+
+**Courseware**
+
+- Added lab-account and lab-data slides near the front of the deck; passwords are shown
+  as "Trainer will provide" so no credential is distributed through Drive or the LMS.
+- Added a Topic 6 module covering PDPA obligations, structural versus procedural
+  controls and the three human oversight models.
+- Added 97 verified step-by-step procedures to the Learner Guide, including the tenant
+  behaviours that actually trip people up: percent-encoded SharePoint URLs, the removed
+  web-search chip, publishing before connecting agents, the Yes/No input that publishes
+  a string, and approval defaults that quietly fail unsafe.
+- Rewrote both assessment instruments against the new content, keeping 4 SAQ questions
+  (K1–K4) and 5 case-study tasks (A1–A5).
+- Grew native Excel charts across the lab workbooks from 3 to 10.
+
 ## v5.6 — 24 August 2026
 
 - Removed all 169 copied legacy raster embeddings from the trainer deck.

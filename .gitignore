@@ -20,3 +20,4 @@ courseware/archive/
 courseware/assets/legacy-technical/
 courseware/assets/ui/
 ~$*
+.playwright-mcp/

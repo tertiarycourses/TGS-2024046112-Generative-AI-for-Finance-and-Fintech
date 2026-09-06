@@ -1,0 +1,11 @@
+﻿AccountCode,AccountName,AccountType,Statement
+4000,Interest Income,Revenue,P&L
+4100,Fee and Commission Income,Revenue,P&L
+4200,Transaction Revenue,Revenue,P&L
+5000,Cost of Service Delivery,COGS,P&L
+6100,Marketing and Acquisition,Opex,P&L
+6200,Technology and Cloud,Opex,P&L
+6300,People Cost,Opex,P&L
+6400,Premises and Admin,Opex,P&L
+6500,Compliance and Risk,Opex,P&L
+7000,Credit Loss Provision,Provision,P&L

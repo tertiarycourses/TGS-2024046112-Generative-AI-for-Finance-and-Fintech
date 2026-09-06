@@ -1,92 +1,110 @@
 [
   {
     "lab": 1,
-    "title": "Prioritise a Finance AI Use-Case Portfolio",
+    "title": "Compare Generative, Agentic and Agent AI for Finance",
     "criteria": "K2 \u00b7 A1",
-    "folder": "lab-01-prioritise-a-finance-ai-use-case-portfolio",
-    "starter": "finance-ai-use-case-portfolio-starter.xlsx",
-    "solution": "finance-ai-use-case-portfolio-solution.xlsx",
-    "acceptance": "Weights total 100%; every shortlisted use case has a named owner, baseline KPI, risk tier and stop condition."
+    "folder": "lab-01-compare-generative-agentic-and-agent-ai-for-finance",
+    "starter": "ai-type-use-case-map-starter.xlsx",
+    "solution": "ai-type-use-case-map-solution.xlsx",
+    "acceptance": "Every use case has a type, a justification, a highest-impact action, a named control and an accountable owner; the three selected are justified on control readiness."
   },
   {
     "lab": 2,
-    "title": "Prepare Finance Data for Copilot in Excel",
-    "criteria": "K1 \u00b7 A2",
-    "folder": "lab-02-prepare-finance-data-for-copilot-in-excel",
-    "starter": "northstar-finance-data-readiness-starter.xlsx",
-    "solution": "northstar-finance-data-readiness-solution.xlsx",
-    "acceptance": "Duplicate count is zero, required-field errors are zero, and clean totals reconcile to the supplied control figures."
+    "title": "Draft a Financial Report with Copilot in Word",
+    "criteria": "K2 \u00b7 A1",
+    "folder": "lab-02-draft-a-financial-report-with-copilot-in-word",
+    "starter": "northstar-report-source-starter.xlsx",
+    "solution": "northstar-report-source-solution.xlsx",
+    "acceptance": "Every figure in the report matches the source workbook exactly; causal claims are evidenced or labelled as hypotheses; the report names its period and as-at date."
   },
   {
     "lab": 3,
-    "title": "Build an FP&A Formula Model and Dashboard",
-    "criteria": "K1 \u00b7 A2",
-    "folder": "lab-03-build-an-fp-a-formula-model-and-dashboard",
-    "starter": "northstar-fpa-dashboard-starter.xlsx",
-    "solution": "northstar-fpa-dashboard-solution.xlsx",
-    "acceptance": "Dashboard charts remain linked to data; all formula checks pass; total variance equals actual less budget; scenarios use assumption cells rather than hard-coded outputs."
+    "title": "Build a Financial Presentation and an M365 Finance Agent",
+    "criteria": "K2 \u00b7 A1",
+    "folder": "lab-03-build-a-financial-presentation-and-an-m365-finance-agent",
+    "starter": "northstar-deck-checklist-starter.xlsx",
+    "solution": "northstar-deck-checklist-solution.xlsx",
+    "acceptance": "Repeated figures reconcile across workbook, report and deck; the agent cites a source document and its effective date, and refuses an out-of-scope question instead of guessing."
   },
   {
     "lab": 4,
-    "title": "Reconcile Accounts and Explain Variances",
+    "title": "Prepare Finance Data for Copilot in Excel",
     "criteria": "K1 \u00b7 A2",
-    "folder": "lab-04-reconcile-accounts-and-explain-variances",
-    "starter": "northstar-reconciliation-variance-starter.xlsx",
-    "solution": "northstar-reconciliation-variance-solution.xlsx",
-    "acceptance": "Matched plus exception values reconcile to each source; all unresolved items have a reason and owner; the narrative cites actual values and materiality thresholds."
+    "folder": "lab-04-prepare-finance-data-for-copilot-in-excel",
+    "starter": "northstar-finance-data-readiness-starter.xlsx",
+    "solution": "northstar-finance-data-readiness-solution.xlsx",
+    "acceptance": "Duplicate count is zero, required-field errors are zero, cleaned totals reconcile to the control figures, and the before-and-after Copilot answers are documented."
   },
   {
     "lab": 5,
-    "title": "Create a Microsoft 365 Finance Decision Pack",
-    "criteria": "A3",
-    "folder": "lab-05-create-a-microsoft-365-finance-decision-pack",
-    "starter": "northstar-decision-pack-source-starter.xlsx",
-    "solution": "northstar-decision-pack-source-solution.xlsx",
-    "acceptance": "All repeated figures match the source workbook; facts and recommendations are separated; the external message remains a draft with an approver."
+    "title": "Analyse Variances and Build a Dashboard with Copilot",
+    "criteria": "K1 \u00b7 A2",
+    "folder": "lab-05-analyse-variances-and-build-a-dashboard-with-copilot",
+    "starter": "northstar-fpa-dashboard-starter.xlsx",
+    "solution": "northstar-fpa-dashboard-solution.xlsx",
+    "acceptance": "All formula checks pass; total variance equals actual less budget; charts stay linked to source data; commentary separates evidenced fact from labelled hypothesis."
   },
   {
     "lab": 6,
-    "title": "Build a Grounded Finance Query Agent",
-    "criteria": "A3",
-    "folder": "lab-06-build-a-grounded-finance-query-agent",
-    "starter": "northstar-agent-uat-starter.xlsx",
-    "solution": "northstar-agent-uat-solution.xlsx",
-    "acceptance": "The agent cites approved sources, refuses unsupported answers, respects access boundaries and passes all critical UAT cases before any publish decision."
+    "title": "Reconcile Accounts and Forecast with Copilot",
+    "criteria": "K1 \u00b7 A2",
+    "folder": "lab-06-reconcile-accounts-and-forecast-with-copilot",
+    "starter": "northstar-reconciliation-forecast-starter.xlsx",
+    "solution": "northstar-reconciliation-forecast-solution.xlsx",
+    "acceptance": "Matched plus exception values reconcile to both sources; every unresolved item has a reason, age and owner; scenarios are driven by assumption cells; escalation items above the policy threshold are flagged."
   },
   {
     "lab": 7,
-    "title": "Design and UAT a Multi-Agent Close Workflow",
-    "criteria": "A3",
-    "folder": "lab-07-design-and-uat-a-multi-agent-close-workflow",
-    "starter": "northstar-multi-agent-close-starter.xlsx",
-    "solution": "northstar-multi-agent-close-solution.xlsx",
-    "acceptance": "No agent can approve or post a journal; every handoff is structured; critical tests pass; monitoring and rollback have named owners."
+    "title": "Build the Finance SharePoint Site and Load Finance Data",
+    "criteria": "K1 \u00b7 A3",
+    "folder": "lab-07-build-the-finance-sharepoint-site-and-load-finance-data",
+    "starter": "northstar-sharepoint-build-starter.xlsx",
+    "solution": "northstar-sharepoint-build-solution.xlsx",
+    "acceptance": "Both libraries and all seven lists exist with correct column types; row counts match the data pack; loaded data reconciles to the control totals; the permission review names each group and its justification."
   },
   {
     "lab": 8,
-    "title": "Evaluate a Fraud Model and Alert Narrative",
-    "criteria": "K3 \u00b7 A4",
-    "folder": "lab-08-evaluate-a-fraud-model-and-alert-narrative",
-    "starter": "northstar-fraud-risk-starter.xlsx",
-    "solution": "northstar-fraud-risk-solution.xlsx",
-    "acceptance": "The threshold decision cites precision, recall, cost and capacity; alert explanations use real fields; the generated narrative is labelled draft and evidence-linked."
+    "title": "Ground a Finance Agent and Test Its Refusals",
+    "criteria": "K1 \u00b7 A3",
+    "folder": "lab-08-ground-a-finance-agent-and-test-its-refusals",
+    "starter": "northstar-agent-uat-starter.xlsx",
+    "solution": "northstar-agent-uat-solution.xlsx",
+    "acceptance": "The agent cites the correct document and effective date on positive tests; refuses on out-of-scope, unsupported and approval requests; the UAT log records evidence for every case; web search is removed."
   },
   {
     "lab": 9,
-    "title": "Threat-Model and Secure a Finance Agent",
-    "criteria": "K3 \u00b7 A4",
-    "folder": "lab-09-threat-model-and-secure-a-finance-agent",
-    "starter": "northstar-agent-security-starter.xlsx",
-    "solution": "northstar-agent-security-solution.xlsx",
-    "acceptance": "Every high risk has a preventive and detective control, test evidence, residual rating and accountable owner; no live credentials or customer data are used."
+    "title": "Create the Environment and a Finance Agent Flow",
+    "criteria": "A3",
+    "folder": "lab-09-create-the-environment-and-a-finance-agent-flow",
+    "starter": "northstar-workflow-design-starter.xlsx",
+    "solution": "northstar-workflow-design-solution.xlsx",
+    "acceptance": "The environment exists with Dataverse and a billing plan; the flow is published and runs green; the run history shows the SharePoint action returning rows; the flow appears as a tool on the agent."
   },
   {
     "lab": 10,
-    "title": "Build the Finance AI Business Case and Roadmap",
-    "criteria": "K4 \u00b7 A5",
-    "folder": "lab-10-build-the-finance-ai-business-case-and-roadmap",
-    "starter": "northstar-ai-business-case-starter.xlsx",
-    "solution": "northstar-ai-business-case-solution.xlsx",
-    "acceptance": "Costs include build, run, control and change; benefits are adoption-adjusted; NPV links to cash-flow cells; each stage gate has evidence, owner and stop condition."
+    "title": "Add a Human Approval Gate to a Finance Workflow",
+    "criteria": "A3",
+    "folder": "lab-10-add-a-human-approval-gate-to-a-finance-workflow",
+    "starter": "northstar-approval-gate-starter.xlsx",
+    "solution": "northstar-approval-gate-solution.xlsx",
+    "acceptance": "The gate blocks until a person responds; both approval and rejection paths are evidenced; the draft is logged before the gate; the default is fail-safe and the learner can explain why."
+  },
+  {
+    "lab": 11,
+    "title": "Orchestrate a Multi-Agent Month-End Close",
+    "criteria": "K4 \u00b7 A3",
+    "folder": "lab-11-orchestrate-a-multi-agent-month-end-close",
+    "starter": "northstar-multi-agent-close-starter.xlsx",
+    "solution": "northstar-multi-agent-close-solution.xlsx",
+    "acceptance": "Each routing test reaches the correct specialist; the supervisor preserves specialist figures and caveats; a missing-data case is reported as blocked rather than answered; no agent can approve, post or send."
+  },
+  {
+    "lab": 12,
+    "title": "Secure a Finance Agent for PDPA and Human Oversight",
+    "criteria": "K3 \u00b7 A4 \u00b7 A5",
+    "folder": "lab-12-secure-a-finance-agent-for-pdpa-and-human-oversight",
+    "starter": "northstar-agent-security-starter.xlsx",
+    "solution": "northstar-agent-security-solution.xlsx",
+    "acceptance": "Every high risk has a preventive and a detective control with test evidence; the PDPA review is complete with a named DPO; no restricted data is in scope; adversarial tests are evidenced; the recommendation names a residual risk and an accountable owner."
   }
 ]

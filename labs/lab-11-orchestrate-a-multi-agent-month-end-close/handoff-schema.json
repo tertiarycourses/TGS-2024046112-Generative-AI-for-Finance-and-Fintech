@@ -1,0 +1,15 @@
+{
+  "task_id": "string",
+  "scope": {
+    "period": "YYYY-MM",
+    "department": "string|all",
+    "account": "string|all"
+  },
+  "source_ids": [
+    "string"
+  ],
+  "result": {},
+  "confidence": "high|medium|low",
+  "exceptions": [],
+  "approval_required": "role"
+}

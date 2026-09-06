@@ -1,0 +1,241 @@
+﻿JournalID,Period,PostingDate,Department,Region,AccountCode,AccountName,AmountSGD,DrCr,Source,Status
+JE-2026-00001,2026-01,2026-01-31,Retail Banking,Singapore,4000,Interest Income,778911.86,Cr,Billing,Posted
+JE-2026-00002,2026-01,2026-01-31,Retail Banking,Singapore,4100,Fee and Commission Income,385865.95,Cr,Billing,Posted
+JE-2026-00003,2026-01,2026-01-31,Retail Banking,Singapore,4200,Transaction Revenue,245586.72,Cr,Billing,Posted
+JE-2026-00004,2026-01,2026-01-31,Retail Banking,Singapore,5000,Cost of Service Delivery,-402281.27,Dr,ERP,Posted
+JE-2026-00005,2026-01,2026-01-31,Retail Banking,Singapore,6100,Marketing and Acquisition,-121835.14,Dr,ERP,Posted
+JE-2026-00006,2026-01,2026-01-31,Retail Banking,Singapore,6200,Technology and Cloud,-159661.89,Dr,ERP,Posted
+JE-2026-00007,2026-01,2026-01-31,Retail Banking,Singapore,6300,People Cost,-353470.13,Dr,ERP,Posted
+JE-2026-00008,2026-01,2026-01-31,Retail Banking,Singapore,6400,Premises and Admin,-76164.73,Dr,ERP,Posted
+JE-2026-00009,2026-01,2026-01-31,Retail Banking,Singapore,6500,Compliance and Risk,-55596.5,Dr,ERP,Posted
+JE-2026-00010,2026-01,2026-01-31,Retail Banking,Singapore,7000,Credit Loss Provision,-43241.89,Dr,ERP,Posted
+JE-2026-00011,2026-01,2026-01-31,SME Lending,Malaysia,4000,Interest Income,581577.74,Cr,Billing,Posted
+JE-2026-00012,2026-01,2026-01-31,SME Lending,Malaysia,4100,Fee and Commission Income,295598.3,Cr,Billing,Posted
+JE-2026-00013,2026-01,2026-01-31,SME Lending,Malaysia,4200,Transaction Revenue,178856.38,Cr,Billing,Posted
+JE-2026-00014,2026-01,2026-01-31,SME Lending,Malaysia,5000,Cost of Service Delivery,-283986.23,Dr,ERP,Posted
+JE-2026-00015,2026-01,2026-01-31,SME Lending,Malaysia,6100,Marketing and Acquisition,-88180.42,Dr,ERP,Posted
+JE-2026-00016,2026-01,2026-01-31,SME Lending,Malaysia,6200,Technology and Cloud,-112968.36,Dr,ERP,Posted
+JE-2026-00017,2026-01,2026-01-31,SME Lending,Malaysia,6300,People Cost,-255131.37,Dr,ERP,Posted
+JE-2026-00018,2026-01,2026-01-31,SME Lending,Malaysia,6400,Premises and Admin,-54896.83,Dr,ERP,Posted
+JE-2026-00019,2026-01,2026-01-31,SME Lending,Malaysia,6500,Compliance and Risk,-39759.49,Dr,ERP,Posted
+JE-2026-00020,2026-01,2026-01-31,SME Lending,Malaysia,7000,Credit Loss Provision,-32385.02,Dr,ERP,Posted
+JE-2026-00021,2026-01,2026-01-31,Enterprise,Singapore,4000,Interest Income,906737.36,Cr,Billing,Posted
+JE-2026-00022,2026-01,2026-01-31,Enterprise,Singapore,4100,Fee and Commission Income,469083.76,Cr,Billing,Posted
+JE-2026-00023,2026-01,2026-01-31,Enterprise,Singapore,4200,Transaction Revenue,279197.34,Cr,Billing,Posted
+JE-2026-00024,2026-01,2026-01-31,Enterprise,Singapore,5000,Cost of Service Delivery,-468708.17,Dr,ERP,Posted
+JE-2026-00025,2026-01,2026-01-31,Enterprise,Singapore,6100,Marketing and Acquisition,-143460.83,Dr,ERP,Posted
+JE-2026-00026,2026-01,2026-01-31,Enterprise,Singapore,6200,Technology and Cloud,-177810.17,Dr,ERP,Posted
+JE-2026-00027,2026-01,2026-01-31,Enterprise,Singapore,6300,People Cost,-385743.74,Dr,ERP,Posted
+JE-2026-00028,2026-01,2026-01-31,Enterprise,Singapore,6400,Premises and Admin,-82011.04,Dr,ERP,Posted
+JE-2026-00029,2026-01,2026-01-31,Enterprise,Singapore,6500,Compliance and Risk,-69733.75,Dr,ERP,Posted
+JE-2026-00030,2026-01,2026-01-31,Enterprise,Singapore,7000,Credit Loss Provision,-48192.8,Dr,ERP,Posted
+JE-2026-00031,2026-01,2026-01-31,Digital Payments,Hong Kong,4000,Interest Income,346016.39,Cr,Billing,Posted
+JE-2026-00032,2026-01,2026-01-31,Digital Payments,Hong Kong,4100,Fee and Commission Income,176057.06,Cr,Billing,Posted
+JE-2026-00033,2026-01,2026-01-31,Digital Payments,Hong Kong,4200,Transaction Revenue,107950.83,Cr,Billing,Posted
+JE-2026-00034,2026-01,2026-01-31,Digital Payments,Hong Kong,5000,Cost of Service Delivery,-168074.28,Dr,ERP,Posted
+JE-2026-00035,2026-01,2026-01-31,Digital Payments,Hong Kong,6100,Marketing and Acquisition,-60153.21,Dr,ERP,Posted
+JE-2026-00036,2026-01,2026-01-31,Digital Payments,Hong Kong,6200,Technology and Cloud,-68606.83,Dr,ERP,Posted
+JE-2026-00037,2026-01,2026-01-31,Digital Payments,Hong Kong,6300,People Cost,-152662.27,Dr,ERP,Posted
+JE-2026-00038,2026-01,2026-01-31,Digital Payments,Hong Kong,6400,Premises and Admin,-30516.88,Dr,ERP,Posted
+JE-2026-00039,2026-01,2026-01-31,Digital Payments,Hong Kong,6500,Compliance and Risk,-25455.29,Dr,ERP,Posted
+JE-2026-00040,2026-01,2026-01-31,Digital Payments,Hong Kong,7000,Credit Loss Provision,-19503.27,Dr,ERP,Posted
+JE-2026-00041,2026-02,2026-02-28,Retail Banking,Singapore,4000,Interest Income,811192.27,Cr,Billing,Posted
+JE-2026-00042,2026-02,2026-02-28,Retail Banking,Singapore,4100,Fee and Commission Income,407758.37,Cr,Billing,Posted
+JE-2026-00043,2026-02,2026-02-28,Retail Banking,Singapore,4200,Transaction Revenue,254392.92,Cr,Billing,Posted
+JE-2026-00044,2026-02,2026-02-28,Retail Banking,Singapore,5000,Cost of Service Delivery,-438529.8,Dr,ERP,Posted
+JE-2026-00045,2026-02,2026-02-28,Retail Banking,Singapore,6100,Marketing and Acquisition,-134504.59,Dr,ERP,Posted
+JE-2026-00046,2026-02,2026-02-28,Retail Banking,Singapore,6200,Technology and Cloud,-157669.86,Dr,ERP,Posted
+JE-2026-00047,2026-02,2026-02-28,Retail Banking,Singapore,6300,People Cost,-349067.94,Dr,ERP,Posted
+JE-2026-00048,2026-02,2026-02-28,Retail Banking,Singapore,6400,Premises and Admin,-72228.5,Dr,ERP,Posted
+JE-2026-00049,2026-02,2026-02-28,Retail Banking,Singapore,6500,Compliance and Risk,-60019.94,Dr,ERP,Posted
+JE-2026-00050,2026-02,2026-02-28,Retail Banking,Singapore,7000,Credit Loss Provision,-42584.04,Dr,ERP,Posted
+JE-2026-00051,2026-02,2026-02-28,SME Lending,Malaysia,4000,Interest Income,547025.6,Cr,Billing,Posted
+JE-2026-00052,2026-02,2026-02-28,SME Lending,Malaysia,4100,Fee and Commission Income,281203.0,Cr,Billing,Posted
+JE-2026-00053,2026-02,2026-02-28,SME Lending,Malaysia,4200,Transaction Revenue,170225.74,Cr,Billing,Posted
+JE-2026-00054,2026-02,2026-02-28,SME Lending,Malaysia,5000,Cost of Service Delivery,-281054.15,Dr,ERP,Posted
+JE-2026-00055,2026-02,2026-02-28,SME Lending,Malaysia,6100,Marketing and Acquisition,-95275.01,Dr,ERP,Posted
+JE-2026-00056,2026-02,2026-02-28,SME Lending,Malaysia,6200,Technology and Cloud,-117023.95,Dr,ERP,Posted
+JE-2026-00057,2026-02,2026-02-28,SME Lending,Malaysia,6300,People Cost,-226407.0,Dr,ERP,Posted
+JE-2026-00058,2026-02,2026-02-28,SME Lending,Malaysia,6400,Premises and Admin,-49136.0,Dr,ERP,Posted
+JE-2026-00059,2026-02,2026-02-28,SME Lending,Malaysia,6500,Compliance and Risk,-41320.45,Dr,ERP,Posted
+JE-2026-00060,2026-02,2026-02-28,SME Lending,Malaysia,7000,Credit Loss Provision,-29737.85,Dr,ERP,Posted
+JE-2026-00061,2026-02,2026-02-28,Enterprise,Singapore,4000,Interest Income,961499.21,Cr,Billing,Posted
+JE-2026-00062,2026-02,2026-02-28,Enterprise,Singapore,4100,Fee and Commission Income,496008.85,Cr,Billing,Posted
+JE-2026-00063,2026-02,2026-02-28,Enterprise,Singapore,4200,Transaction Revenue,294102.69,Cr,Billing,Posted
+JE-2026-00064,2026-02,2026-02-28,Enterprise,Singapore,5000,Cost of Service Delivery,-464505.08,Dr,ERP,Posted
+JE-2026-00065,2026-02,2026-02-28,Enterprise,Singapore,6100,Marketing and Acquisition,-153718.34,Dr,ERP,Posted
+JE-2026-00066,2026-02,2026-02-28,Enterprise,Singapore,6200,Technology and Cloud,-198412.98,Dr,ERP,Posted
+JE-2026-00067,2026-02,2026-02-28,Enterprise,Singapore,6300,People Cost,-417046.67,Dr,ERP,Posted
+JE-2026-00068,2026-02,2026-02-28,Enterprise,Singapore,6400,Premises and Admin,-81501.06,Dr,ERP,Posted
+JE-2026-00069,2026-02,2026-02-28,Enterprise,Singapore,6500,Compliance and Risk,-66785.39,Dr,ERP,Posted
+JE-2026-00070,2026-02,2026-02-28,Enterprise,Singapore,7000,Credit Loss Provision,-52516.3,Dr,ERP,Posted
+JE-2026-00071,2026-02,2026-02-28,Digital Payments,Hong Kong,4000,Interest Income,343047.52,Cr,Billing,Posted
+JE-2026-00072,2026-02,2026-02-28,Digital Payments,Hong Kong,4100,Fee and Commission Income,182176.52,Cr,Billing,Posted
+JE-2026-00073,2026-02,2026-02-28,Digital Payments,Hong Kong,4200,Transaction Revenue,106723.4,Cr,Billing,Posted
+JE-2026-00074,2026-02,2026-02-28,Digital Payments,Hong Kong,5000,Cost of Service Delivery,-168470.4,Dr,ERP,Posted
+JE-2026-00075,2026-02,2026-02-28,Digital Payments,Hong Kong,6100,Marketing and Acquisition,-58442.39,Dr,ERP,Posted
+JE-2026-00076,2026-02,2026-02-28,Digital Payments,Hong Kong,6200,Technology and Cloud,-74820.4,Dr,ERP,Posted
+JE-2026-00077,2026-02,2026-02-28,Digital Payments,Hong Kong,6300,People Cost,-148083.05,Dr,ERP,Posted
+JE-2026-00078,2026-02,2026-02-28,Digital Payments,Hong Kong,6400,Premises and Admin,-31315.04,Dr,ERP,Posted
+JE-2026-00079,2026-02,2026-02-28,Digital Payments,Hong Kong,6500,Compliance and Risk,-26781.65,Dr,ERP,Posted
+JE-2026-00080,2026-02,2026-02-28,Digital Payments,Hong Kong,7000,Credit Loss Provision,-19875.04,Dr,ERP,Posted
+JE-2026-00081,2026-03,2026-03-31,Retail Banking,Singapore,4000,Interest Income,820880.7,Cr,Billing,Posted
+JE-2026-00082,2026-03,2026-03-31,Retail Banking,Singapore,4100,Fee and Commission Income,420507.34,Cr,Billing,Posted
+JE-2026-00083,2026-03,2026-03-31,Retail Banking,Singapore,4200,Transaction Revenue,255056.82,Cr,Billing,Posted
+JE-2026-00084,2026-03,2026-03-31,Retail Banking,Singapore,5000,Cost of Service Delivery,-458297.9,Dr,ERP,Posted
+JE-2026-00085,2026-03,2026-03-31,Retail Banking,Singapore,6100,Marketing and Acquisition,-148793.38,Dr,ERP,Posted
+JE-2026-00086,2026-03,2026-03-31,Retail Banking,Singapore,6200,Technology and Cloud,-174318.15,Dr,ERP,Posted
+JE-2026-00087,2026-03,2026-03-31,Retail Banking,Singapore,6300,People Cost,-381307.18,Dr,ERP,Posted
+JE-2026-00088,2026-03,2026-03-31,Retail Banking,Singapore,6400,Premises and Admin,-82338.88,Dr,ERP,Posted
+JE-2026-00089,2026-03,2026-03-31,Retail Banking,Singapore,6500,Compliance and Risk,-59022.11,Dr,ERP,Posted
+JE-2026-00090,2026-03,2026-03-31,Retail Banking,Singapore,7000,Credit Loss Provision,-48743.0,Dr,ERP,Posted
+JE-2026-00091,2026-03,2026-03-31,SME Lending,Malaysia,4000,Interest Income,576244.63,Cr,Billing,Posted
+JE-2026-00092,2026-03,2026-03-31,SME Lending,Malaysia,4100,Fee and Commission Income,290741.55,Cr,Billing,Posted
+JE-2026-00093,2026-03,2026-03-31,SME Lending,Malaysia,4200,Transaction Revenue,178024.09,Cr,Billing,Posted
+JE-2026-00094,2026-03,2026-03-31,SME Lending,Malaysia,5000,Cost of Service Delivery,-296396.87,Dr,ERP,Posted
+JE-2026-00095,2026-03,2026-03-31,SME Lending,Malaysia,6100,Marketing and Acquisition,-93904.3,Dr,ERP,Posted
+JE-2026-00096,2026-03,2026-03-31,SME Lending,Malaysia,6200,Technology and Cloud,-108249.9,Dr,ERP,Posted
+JE-2026-00097,2026-03,2026-03-31,SME Lending,Malaysia,6300,People Cost,-258014.26,Dr,ERP,Posted
+JE-2026-00098,2026-03,2026-03-31,SME Lending,Malaysia,6400,Premises and Admin,-49113.1,Dr,ERP,Posted
+JE-2026-00099,2026-03,2026-03-31,SME Lending,Malaysia,6500,Compliance and Risk,-43915.48,Dr,ERP,Posted
+JE-2026-00100,2026-03,2026-03-31,SME Lending,Malaysia,7000,Credit Loss Provision,-30267.54,Dr,ERP,Posted
+JE-2026-00101,2026-03,2026-03-31,Enterprise,Singapore,4000,Interest Income,1030843.36,Cr,Billing,Posted
+JE-2026-00102,2026-03,2026-03-31,Enterprise,Singapore,4100,Fee and Commission Income,500378.44,Cr,Billing,Posted
+JE-2026-00103,2026-03,2026-03-31,Enterprise,Singapore,4200,Transaction Revenue,318178.93,Cr,Billing,Posted
+JE-2026-00104,2026-03,2026-03-31,Enterprise,Singapore,5000,Cost of Service Delivery,-542219.06,Dr,ERP,Posted
+JE-2026-00105,2026-03,2026-03-31,Enterprise,Singapore,6100,Marketing and Acquisition,-177013.19,Dr,ERP,Posted
+JE-2026-00106,2026-03,2026-03-31,Enterprise,Singapore,6200,Technology and Cloud,-198014.03,Dr,ERP,Posted
+JE-2026-00107,2026-03,2026-03-31,Enterprise,Singapore,6300,People Cost,-413921.73,Dr,ERP,Posted
+JE-2026-00108,2026-03,2026-03-31,Enterprise,Singapore,6400,Premises and Admin,-96484.75,Dr,ERP,Posted
+JE-2026-00109,2026-03,2026-03-31,Enterprise,Singapore,6500,Compliance and Risk,-75568.18,Dr,ERP,Posted
+JE-2026-00110,2026-03,2026-03-31,Enterprise,Singapore,7000,Credit Loss Provision,-56635.57,Dr,ERP,Posted
+JE-2026-00111,2026-03,2026-03-31,Digital Payments,Hong Kong,4000,Interest Income,365712.36,Cr,Billing,Posted
+JE-2026-00112,2026-03,2026-03-31,Digital Payments,Hong Kong,4100,Fee and Commission Income,187187.34,Cr,Billing,Posted
+JE-2026-00113,2026-03,2026-03-31,Digital Payments,Hong Kong,4200,Transaction Revenue,117199.22,Cr,Billing,Posted
+JE-2026-00114,2026-03,2026-03-31,Digital Payments,Hong Kong,5000,Cost of Service Delivery,-190374.4,Dr,ERP,Posted
+JE-2026-00115,2026-03,2026-03-31,Digital Payments,Hong Kong,6100,Marketing and Acquisition,-59689.51,Dr,ERP,Posted
+JE-2026-00116,2026-03,2026-03-31,Digital Payments,Hong Kong,6200,Technology and Cloud,-74643.72,Dr,ERP,Posted
+JE-2026-00117,2026-03,2026-03-31,Digital Payments,Hong Kong,6300,People Cost,-172754.68,Dr,ERP,Posted
+JE-2026-00118,2026-03,2026-03-31,Digital Payments,Hong Kong,6400,Premises and Admin,-35074.29,Dr,ERP,Posted
+JE-2026-00119,2026-03,2026-03-31,Digital Payments,Hong Kong,6500,Compliance and Risk,-25932.46,Dr,ERP,Posted
+JE-2026-00120,2026-03,2026-03-31,Digital Payments,Hong Kong,7000,Credit Loss Provision,-20740.24,Dr,ERP,Posted
+JE-2026-00121,2026-04,2026-04-30,Retail Banking,Singapore,4000,Interest Income,871878.82,Cr,Billing,Posted
+JE-2026-00122,2026-04,2026-04-30,Retail Banking,Singapore,4100,Fee and Commission Income,451468.52,Cr,Billing,Posted
+JE-2026-00123,2026-04,2026-04-30,Retail Banking,Singapore,4200,Transaction Revenue,269727.62,Cr,Billing,Posted
+JE-2026-00124,2026-04,2026-04-30,Retail Banking,Singapore,5000,Cost of Service Delivery,-428437.32,Dr,ERP,Posted
+JE-2026-00125,2026-04,2026-04-30,Retail Banking,Singapore,6100,Marketing and Acquisition,-133161.82,Dr,ERP,Posted
+JE-2026-00126,2026-04,2026-04-30,Retail Banking,Singapore,6200,Technology and Cloud,-170555.15,Dr,ERP,Posted
+JE-2026-00127,2026-04,2026-04-30,Retail Banking,Singapore,6300,People Cost,-358447.77,Dr,ERP,Posted
+JE-2026-00128,2026-04,2026-04-30,Retail Banking,Singapore,6400,Premises and Admin,-82686.7,Dr,ERP,Posted
+JE-2026-00129,2026-04,2026-04-30,Retail Banking,Singapore,6500,Compliance and Risk,-60145.44,Dr,ERP,Posted
+JE-2026-00130,2026-04,2026-04-30,Retail Banking,Singapore,7000,Credit Loss Provision,-45674.52,Dr,ERP,Posted
+JE-2026-00131,2026-04,2026-04-30,SME Lending,Malaysia,4000,Interest Income,595647.39,Cr,Billing,Posted
+JE-2026-00132,2026-04,2026-04-30,SME Lending,Malaysia,4100,Fee and Commission Income,304673.0,Cr,Billing,Posted
+JE-2026-00133,2026-04,2026-04-30,SME Lending,Malaysia,4200,Transaction Revenue,187049.33,Cr,Billing,Posted
+JE-2026-00134,2026-04,2026-04-30,SME Lending,Malaysia,5000,Cost of Service Delivery,-311720.57,Dr,ERP,Posted
+JE-2026-00135,2026-04,2026-04-30,SME Lending,Malaysia,6100,Marketing and Acquisition,-94698.91,Dr,ERP,Posted
+JE-2026-00136,2026-04,2026-04-30,SME Lending,Malaysia,6200,Technology and Cloud,-117053.88,Dr,ERP,Posted
+JE-2026-00137,2026-04,2026-04-30,SME Lending,Malaysia,6300,People Cost,-278095.31,Dr,ERP,Posted
+JE-2026-00138,2026-04,2026-04-30,SME Lending,Malaysia,6400,Premises and Admin,-53645.08,Dr,ERP,Posted
+JE-2026-00139,2026-04,2026-04-30,SME Lending,Malaysia,6500,Compliance and Risk,-45184.03,Dr,ERP,Posted
+JE-2026-00140,2026-04,2026-04-30,SME Lending,Malaysia,7000,Credit Loss Provision,-31527.08,Dr,ERP,Posted
+JE-2026-00141,2026-04,2026-04-30,Enterprise,Singapore,4000,Interest Income,1009832.75,Cr,Billing,Posted
+JE-2026-00142,2026-04,2026-04-30,Enterprise,Singapore,4100,Fee and Commission Income,509802.59,Cr,Billing,Posted
+JE-2026-00143,2026-04,2026-04-30,Enterprise,Singapore,4200,Transaction Revenue,307611.9,Cr,Billing,Posted
+JE-2026-00144,2026-04,2026-04-30,Enterprise,Singapore,5000,Cost of Service Delivery,-512304.78,Dr,ERP,Posted
+JE-2026-00145,2026-04,2026-04-30,Enterprise,Singapore,6100,Marketing and Acquisition,-157636.01,Dr,ERP,Posted
+JE-2026-00146,2026-04,2026-04-30,Enterprise,Singapore,6200,Technology and Cloud,-192132.08,Dr,ERP,Posted
+JE-2026-00147,2026-04,2026-04-30,Enterprise,Singapore,6300,People Cost,-447364.2,Dr,ERP,Posted
+JE-2026-00148,2026-04,2026-04-30,Enterprise,Singapore,6400,Premises and Admin,-92950.7,Dr,ERP,Posted
+JE-2026-00149,2026-04,2026-04-30,Enterprise,Singapore,6500,Compliance and Risk,-74254.1,Dr,ERP,Posted
+JE-2026-00150,2026-04,2026-04-30,Enterprise,Singapore,7000,Credit Loss Provision,-56281.52,Dr,ERP,Posted
+JE-2026-00151,2026-04,2026-04-30,Digital Payments,Hong Kong,4000,Interest Income,356430.68,Cr,Billing,Posted
+JE-2026-00152,2026-04,2026-04-30,Digital Payments,Hong Kong,4100,Fee and Commission Income,186697.4,Cr,Billing,Posted
+JE-2026-00153,2026-04,2026-04-30,Digital Payments,Hong Kong,4200,Transaction Revenue,112745.2,Cr,Billing,Posted
+JE-2026-00154,2026-04,2026-04-30,Digital Payments,Hong Kong,5000,Cost of Service Delivery,-176965.49,Dr,ERP,Posted
+JE-2026-00155,2026-04,2026-04-30,Digital Payments,Hong Kong,6100,Marketing and Acquisition,-57133.48,Dr,ERP,Posted
+JE-2026-00156,2026-04,2026-04-30,Digital Payments,Hong Kong,6200,Technology and Cloud,-72838.94,Dr,ERP,Posted
+JE-2026-00157,2026-04,2026-04-30,Digital Payments,Hong Kong,6300,People Cost,-165511.64,Dr,ERP,Posted
+JE-2026-00158,2026-04,2026-04-30,Digital Payments,Hong Kong,6400,Premises and Admin,-34460.15,Dr,ERP,Posted
+JE-2026-00159,2026-04,2026-04-30,Digital Payments,Hong Kong,6500,Compliance and Risk,-25880.89,Dr,ERP,Posted
+JE-2026-00160,2026-04,2026-04-30,Digital Payments,Hong Kong,7000,Credit Loss Provision,-20347.5,Dr,ERP,Posted
+JE-2026-00161,2026-05,2026-05-31,Retail Banking,Singapore,4000,Interest Income,849294.99,Cr,Billing,Posted
+JE-2026-00162,2026-05,2026-05-31,Retail Banking,Singapore,4100,Fee and Commission Income,427382.19,Cr,Billing,Posted
+JE-2026-00163,2026-05,2026-05-31,Retail Banking,Singapore,4200,Transaction Revenue,259690.05,Cr,Billing,Posted
+JE-2026-00164,2026-05,2026-05-31,Retail Banking,Singapore,5000,Cost of Service Delivery,-427528.06,Dr,ERP,Posted
+JE-2026-00165,2026-05,2026-05-31,Retail Banking,Singapore,6100,Marketing and Acquisition,-147470.19,Dr,ERP,Posted
+JE-2026-00166,2026-05,2026-05-31,Retail Banking,Singapore,6200,Technology and Cloud,-157481.48,Dr,ERP,Posted
+JE-2026-00167,2026-05,2026-05-31,Retail Banking,Singapore,6300,People Cost,-347707.75,Dr,ERP,Posted
+JE-2026-00168,2026-05,2026-05-31,Retail Banking,Singapore,6400,Premises and Admin,-76616.57,Dr,ERP,Posted
+JE-2026-00169,2026-05,2026-05-31,Retail Banking,Singapore,6500,Compliance and Risk,-58792.94,Dr,ERP,Posted
+JE-2026-00170,2026-05,2026-05-31,Retail Banking,Singapore,7000,Credit Loss Provision,-42934.84,Dr,ERP,Posted
+JE-2026-00171,2026-05,2026-05-31,SME Lending,Malaysia,4000,Interest Income,574553.42,Cr,Billing,Posted
+JE-2026-00172,2026-05,2026-05-31,SME Lending,Malaysia,4100,Fee and Commission Income,287185.67,Cr,Billing,Posted
+JE-2026-00173,2026-05,2026-05-31,SME Lending,Malaysia,4200,Transaction Revenue,176953.51,Cr,Billing,Posted
+JE-2026-00174,2026-05,2026-05-31,SME Lending,Malaysia,5000,Cost of Service Delivery,-300838.67,Dr,ERP,Posted
+JE-2026-00175,2026-05,2026-05-31,SME Lending,Malaysia,6100,Marketing and Acquisition,-90431.32,Dr,ERP,Posted
+JE-2026-00176,2026-05,2026-05-31,SME Lending,Malaysia,6200,Technology and Cloud,-117657.46,Dr,ERP,Posted
+JE-2026-00177,2026-05,2026-05-31,SME Lending,Malaysia,6300,People Cost,-244655.77,Dr,ERP,Posted
+JE-2026-00178,2026-05,2026-05-31,SME Lending,Malaysia,6400,Premises and Admin,-53569.67,Dr,ERP,Posted
+JE-2026-00179,2026-05,2026-05-31,SME Lending,Malaysia,6500,Compliance and Risk,-40751.33,Dr,ERP,Posted
+JE-2026-00180,2026-05,2026-05-31,SME Lending,Malaysia,7000,Credit Loss Provision,-32148.74,Dr,ERP,Posted
+JE-2026-00181,2026-05,2026-05-31,Enterprise,Singapore,4000,Interest Income,1036328.39,Cr,Billing,Posted
+JE-2026-00182,2026-05,2026-05-31,Enterprise,Singapore,4100,Fee and Commission Income,556445.33,Cr,Billing,Posted
+JE-2026-00183,2026-05,2026-05-31,Enterprise,Singapore,4200,Transaction Revenue,339167.08,Cr,Billing,Posted
+JE-2026-00184,2026-05,2026-05-31,Enterprise,Singapore,5000,Cost of Service Delivery,-571567.24,Dr,ERP,Posted
+JE-2026-00185,2026-05,2026-05-31,Enterprise,Singapore,6100,Marketing and Acquisition,-186176.11,Dr,ERP,Posted
+JE-2026-00186,2026-05,2026-05-31,Enterprise,Singapore,6200,Technology and Cloud,-230199.24,Dr,ERP,Posted
+JE-2026-00187,2026-05,2026-05-31,Enterprise,Singapore,6300,People Cost,-459100.06,Dr,ERP,Posted
+JE-2026-00188,2026-05,2026-05-31,Enterprise,Singapore,6400,Premises and Admin,-98352.38,Dr,ERP,Posted
+JE-2026-00189,2026-05,2026-05-31,Enterprise,Singapore,6500,Compliance and Risk,-80499.03,Dr,ERP,Posted
+JE-2026-00190,2026-05,2026-05-31,Enterprise,Singapore,7000,Credit Loss Provision,-57849.78,Dr,ERP,Posted
+JE-2026-00191,2026-05,2026-05-31,Digital Payments,Hong Kong,4000,Interest Income,397822.43,Cr,Billing,Posted
+JE-2026-00192,2026-05,2026-05-31,Digital Payments,Hong Kong,4100,Fee and Commission Income,202568.97,Cr,Billing,Posted
+JE-2026-00193,2026-05,2026-05-31,Digital Payments,Hong Kong,4200,Transaction Revenue,121703.78,Cr,Billing,Posted
+JE-2026-00194,2026-05,2026-05-31,Digital Payments,Hong Kong,5000,Cost of Service Delivery,-204289.68,Dr,ERP,Posted
+JE-2026-00195,2026-05,2026-05-31,Digital Payments,Hong Kong,6100,Marketing and Acquisition,-67579.49,Dr,ERP,Posted
+JE-2026-00196,2026-05,2026-05-31,Digital Payments,Hong Kong,6200,Technology and Cloud,-80331.99,Dr,ERP,Posted
+JE-2026-00197,2026-05,2026-05-31,Digital Payments,Hong Kong,6300,People Cost,-158550.22,Dr,ERP,Posted
+JE-2026-00198,2026-05,2026-05-31,Digital Payments,Hong Kong,6400,Premises and Admin,-33354.14,Dr,ERP,Posted
+JE-2026-00199,2026-05,2026-05-31,Digital Payments,Hong Kong,6500,Compliance and Risk,-28959.63,Dr,ERP,Posted
+JE-2026-00200,2026-05,2026-05-31,Digital Payments,Hong Kong,7000,Credit Loss Provision,-21209.67,Dr,ERP,Posted
+JE-2026-00201,2026-06,2026-06-30,Retail Banking,Singapore,4000,Interest Income,918559.26,Cr,Billing,Posted
+JE-2026-00202,2026-06,2026-06-30,Retail Banking,Singapore,4100,Fee and Commission Income,477191.59,Cr,Billing,Posted
+JE-2026-00203,2026-06,2026-06-30,Retail Banking,Singapore,4200,Transaction Revenue,287733.78,Cr,Billing,Posted
+JE-2026-00204,2026-06,2026-06-30,Retail Banking,Singapore,5000,Cost of Service Delivery,-480837.41,Dr,ERP,Posted
+JE-2026-00205,2026-06,2026-06-30,Retail Banking,Singapore,6100,Marketing and Acquisition,-147975.81,Dr,ERP,Posted
+JE-2026-00206,2026-06,2026-06-30,Retail Banking,Singapore,6200,Technology and Cloud,-196857.71,Dr,ERP,Posted
+JE-2026-00207,2026-06,2026-06-30,Retail Banking,Singapore,6300,People Cost,-388727.86,Dr,ERP,Posted
+JE-2026-00208,2026-06,2026-06-30,Retail Banking,Singapore,6400,Premises and Admin,-81177.46,Dr,ERP,Posted
+JE-2026-00209,2026-06,2026-06-30,Retail Banking,Singapore,6500,Compliance and Risk,-65641.73,Dr,ERP,Posted
+JE-2026-00210,2026-06,2026-06-30,Retail Banking,Singapore,7000,Credit Loss Provision,-52885.0,Dr,ERP,Posted
+JE-2026-00211,2026-06,2026-06-30,SME Lending,Malaysia,4000,Interest Income,627043.2,Cr,Billing,Posted
+JE-2026-00212,2026-06,2026-06-30,SME Lending,Malaysia,4100,Fee and Commission Income,317124.11,Cr,Billing,Posted
+JE-2026-00213,2026-06,2026-06-30,SME Lending,Malaysia,4200,Transaction Revenue,185198.39,Cr,Billing,Posted
+JE-2026-00214,2026-06,2026-06-30,SME Lending,Malaysia,5000,Cost of Service Delivery,-295330.29,Dr,ERP,Posted
+JE-2026-00215,2026-06,2026-06-30,SME Lending,Malaysia,6100,Marketing and Acquisition,-95512.69,Dr,ERP,Posted
+JE-2026-00216,2026-06,2026-06-30,SME Lending,Malaysia,6200,Technology and Cloud,-116136.4,Dr,ERP,Posted
+JE-2026-00217,2026-06,2026-06-30,SME Lending,Malaysia,6300,People Cost,-280922.03,Dr,ERP,Posted
+JE-2026-00218,2026-06,2026-06-30,SME Lending,Malaysia,6400,Premises and Admin,-54786.12,Dr,ERP,Posted
+JE-2026-00219,2026-06,2026-06-30,SME Lending,Malaysia,6500,Compliance and Risk,-42160.0,Dr,ERP,Posted
+JE-2026-00220,2026-06,2026-06-30,SME Lending,Malaysia,7000,Credit Loss Provision,-33608.74,Dr,ERP,Posted
+JE-2026-00221,2026-06,2026-06-30,Enterprise,Singapore,4000,Interest Income,1008569.15,Cr,Billing,Posted
+JE-2026-00222,2026-06,2026-06-30,Enterprise,Singapore,4100,Fee and Commission Income,525156.87,Cr,Billing,Posted
+JE-2026-00223,2026-06,2026-06-30,Enterprise,Singapore,4200,Transaction Revenue,314065.53,Cr,Billing,Posted
+JE-2026-00224,2026-06,2026-06-30,Enterprise,Singapore,5000,Cost of Service Delivery,-536708.62,Dr,ERP,Posted
+JE-2026-00225,2026-06,2026-06-30,Enterprise,Singapore,6100,Marketing and Acquisition,-161736.46,Dr,ERP,Posted
+JE-2026-00226,2026-06,2026-06-30,Enterprise,Singapore,6200,Technology and Cloud,-212087.92,Dr,ERP,Posted
+JE-2026-00227,2026-06,2026-06-30,Enterprise,Singapore,6300,People Cost,-465274.1,Dr,ERP,Posted
+JE-2026-00228,2026-06,2026-06-30,Enterprise,Singapore,6400,Premises and Admin,-93564.34,Dr,ERP,Posted
+JE-2026-00229,2026-06,2026-06-30,Enterprise,Singapore,6500,Compliance and Risk,-73863.43,Dr,ERP,Posted
+JE-2026-00230,2026-06,2026-06-30,Enterprise,Singapore,7000,Credit Loss Provision,-58926.53,Dr,ERP,Posted
+JE-2026-00231,2026-06,2026-06-30,Digital Payments,Hong Kong,4000,Interest Income,378122.61,Cr,Billing,Posted
+JE-2026-00232,2026-06,2026-06-30,Digital Payments,Hong Kong,4100,Fee and Commission Income,189150.08,Cr,Billing,Posted
+JE-2026-00233,2026-06,2026-06-30,Digital Payments,Hong Kong,4200,Transaction Revenue,114313.04,Cr,Billing,Posted
+JE-2026-00234,2026-06,2026-06-30,Digital Payments,Hong Kong,5000,Cost of Service Delivery,-187051.04,Dr,ERP,Posted
+JE-2026-00235,2026-06,2026-06-30,Digital Payments,Hong Kong,6100,Marketing and Acquisition,-58085.63,Dr,ERP,Posted
+JE-2026-00236,2026-06,2026-06-30,Digital Payments,Hong Kong,6200,Technology and Cloud,-71961.5,Dr,ERP,Posted
+JE-2026-00237,2026-06,2026-06-30,Digital Payments,Hong Kong,6300,People Cost,-175224.33,Dr,ERP,Posted
+JE-2026-00238,2026-06,2026-06-30,Digital Payments,Hong Kong,6400,Premises and Admin,-35949.32,Dr,ERP,Posted
+JE-2026-00239,2026-06,2026-06-30,Digital Payments,Hong Kong,6500,Compliance and Risk,-29649.83,Dr,ERP,Posted
+JE-2026-00240,2026-06,2026-06-30,Digital Payments,Hong Kong,7000,Credit Loss Provision,-20266.46,Dr,ERP,Posted

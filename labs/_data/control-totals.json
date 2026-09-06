@@ -1,0 +1,21 @@
+{
+  "course": "TGS-2026065050",
+  "currency": "SGD",
+  "period": "FY2026 H1 (Jan-Jun)",
+  "gl_rows": 240,
+  "gl_revenue_total": 30402639.18,
+  "gl_cost_total": -25635379.8,
+  "gl_net_profit": 4767259.38,
+  "pl_rows": 240,
+  "pl_actual_total": 4767259.38,
+  "pl_budget_total": 5048089.48,
+  "forecast_rows": 240,
+  "forecast_base_total": 5067596.73,
+  "sales_rows": 140,
+  "sales_pipeline_value": 51081729.92,
+  "sales_weighted_value": 28233101.58,
+  "collections_rows": 33,
+  "ar_outstanding_total": 8964691.11,
+  "bank_rows": 17,
+  "note": "Synthetic data. P&L is aggregated from the general ledger, so the two reconcile exactly."
+}

@@ -1,0 +1,241 @@
+﻿Period,Department,AccountCode,AccountName,AccountType,Scenario,ForecastSGD,DownsideSGD,UpsideSGD,DriverNote
+2026-07,Retail Banking,4000,Interest Income,Revenue,Base,856938.47,796952.78,908354.78,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,4100,Fee and Commission Income,Revenue,Base,436072.85,405547.75,462237.22,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,4200,Transaction Revenue,Revenue,Base,266747.88,248075.53,282752.75,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,5000,Cost of Service Delivery,COGS,Base,-447226.36,-469587.68,-433809.57,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,6100,Marketing and Acquisition,Opex,Base,-141458.04,-148530.95,-137214.3,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,6200,Technology and Cloud,Opex,Base,-172473.67,-181097.36,-167299.46,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,6300,People Cost,Opex,Base,-369657.62,-388140.51,-358567.9,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,6400,Premises and Admin,Opex,Base,-79949.11,-83946.57,-77550.64,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,6500,Compliance and Risk,Opex,Base,-60947.43,-63994.8,-59119.01,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Retail Banking,7000,Credit Loss Provision,Provision,Base,-46838.74,-49180.68,-45433.58,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,4000,Interest Income,Revenue,Base,594188.27,552595.09,629839.57,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,4100,Fee and Commission Income,Revenue,Base,301417.18,280317.98,319502.21,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,4200,Transaction Revenue,Revenue,Base,182613.5,169830.55,193570.31,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,5000,Cost of Service Delivery,COGS,Base,-300195.78,-315205.57,-291189.9,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,6100,Marketing and Acquisition,Opex,Base,-94674.45,-99408.17,-91834.22,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,6200,Technology and Cloud,Opex,Base,-116915.59,-122761.37,-113408.13,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,6300,People Cost,Opex,Base,-261833.97,-274925.67,-253978.95,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,6400,Premises and Admin,Opex,Base,-53469.91,-56143.4,-51865.81,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,6500,Compliance and Risk,Opex,Base,-42941.07,-45088.12,-41652.84,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,SME Lending,7000,Credit Loss Provision,Provision,Base,-32181.52,-33790.6,-31216.07,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,4000,Interest Income,Revenue,Base,1010163.13,939451.71,1070772.92,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,4100,Fee and Commission Income,Revenue,Base,518649.93,482344.44,549768.93,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,4200,Transaction Revenue,Revenue,Base,314277.55,292278.12,333134.2,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,5000,Cost of Service Delivery,COGS,Base,-525290.2,-551554.71,-509531.49,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,6100,Marketing and Acquisition,Opex,Base,-166229.38,-174540.85,-161242.5,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,6200,Technology and Cloud,Opex,Base,-205068.71,-215322.14,-198916.64,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,6300,People Cost,Opex,Base,-439173.77,-461132.46,-425998.56,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,6400,Premises and Admin,Opex,Base,-92445.3,-97067.57,-89671.95,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,6500,Compliance and Risk,Opex,Base,-74772.76,-78511.4,-72529.58,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Enterprise,7000,Credit Loss Provision,Provision,Base,-56058.29,-58861.21,-54376.54,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,4000,Interest Income,Revenue,Base,371086.79,345110.71,393351.99,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,4100,Fee and Commission Income,Revenue,Base,190677.74,177330.3,202118.4,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,4200,Transaction Revenue,Revenue,Base,115481.15,107397.47,122410.02,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,5000,Cost of Service Delivery,COGS,Base,-185823.22,-195114.39,-180248.53,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,6100,Marketing and Acquisition,Opex,Base,-61263.87,-64327.06,-59425.95,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,6200,Technology and Cloud,Opex,Base,-75196.84,-78956.68,-72940.93,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,6300,People Cost,Opex,Base,-165049.39,-173301.86,-160097.91,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,6400,Premises and Admin,Opex,Base,-34046.98,-35749.33,-33025.57,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,6500,Compliance and Risk,Opex,Base,-27597.94,-28977.83,-26770.0,H1 run-rate extended with 1.8% monthly growth assumption
+2026-07,Digital Payments,7000,Credit Loss Provision,Provision,Base,-20689.52,-21724.0,-20068.84,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,4000,Interest Income,Revenue,Base,872090.62,811044.28,924416.06,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,4100,Fee and Commission Income,Revenue,Base,443783.37,412718.53,470410.37,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,4200,Transaction Revenue,Revenue,Base,271464.45,252461.93,287752.31,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,5000,Cost of Service Delivery,COGS,Base,-455134.1,-477890.8,-441480.07,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,6100,Marketing and Acquisition,Opex,Base,-143959.27,-151157.23,-139640.49,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,6200,Technology and Cloud,Opex,Base,-175523.31,-184299.47,-170257.61,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,6300,People Cost,Opex,Base,-376193.81,-395003.5,-364908.0,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,6400,Premises and Admin,Opex,Base,-81362.75,-85430.89,-78921.87,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,6500,Compliance and Risk,Opex,Base,-62025.09,-65126.34,-60164.34,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Retail Banking,7000,Credit Loss Provision,Provision,Base,-47666.93,-50050.27,-46236.92,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,4000,Interest Income,Revenue,Base,604694.55,562365.93,640976.22,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,4100,Fee and Commission Income,Revenue,Base,306746.76,285274.49,325151.56,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,4200,Transaction Revenue,Revenue,Base,185842.42,172833.45,196992.96,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,5000,Cost of Service Delivery,COGS,Base,-305503.76,-320778.95,-296338.64,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,6100,Marketing and Acquisition,Opex,Base,-96348.46,-101165.88,-93458.0,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,6200,Technology and Cloud,Opex,Base,-118982.86,-124932.01,-115413.38,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,6300,People Cost,Opex,Base,-266463.64,-279786.83,-258469.74,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,6400,Premises and Admin,Opex,Base,-54415.35,-57136.11,-52782.89,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,6500,Compliance and Risk,Opex,Base,-43700.34,-45885.36,-42389.33,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,SME Lending,7000,Credit Loss Provision,Provision,Base,-32750.54,-34388.07,-31768.03,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,4000,Interest Income,Revenue,Base,1028024.56,956062.85,1089706.04,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,4100,Fee and Commission Income,Revenue,Base,527820.56,490873.12,559489.8,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,4200,Transaction Revenue,Revenue,Base,319834.52,297446.1,339024.59,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,5000,Cost of Service Delivery,COGS,Base,-534578.24,-561307.15,-518540.89,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,6100,Marketing and Acquisition,Opex,Base,-169168.6,-177627.03,-164093.54,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,6200,Technology and Cloud,Opex,Base,-208694.68,-219129.41,-202433.83,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,6300,People Cost,Opex,Base,-446939.12,-469286.08,-433530.95,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,6400,Premises and Admin,Opex,Base,-94079.9,-98783.89,-91257.5,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,6500,Compliance and Risk,Opex,Base,-76094.87,-79899.61,-73812.02,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Enterprise,7000,Credit Loss Provision,Provision,Base,-57049.5,-59901.97,-55338.01,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,4000,Interest Income,Revenue,Base,377648.24,351212.87,400307.14,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,4100,Fee and Commission Income,Revenue,Base,194049.25,180465.8,205692.21,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,4200,Transaction Revenue,Revenue,Base,117523.06,109296.44,124574.44,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,5000,Cost of Service Delivery,COGS,Base,-189108.9,-198564.35,-183435.63,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,6100,Marketing and Acquisition,Opex,Base,-62347.12,-65464.48,-60476.71,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,6200,Technology and Cloud,Opex,Base,-76526.45,-80352.77,-74230.66,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,6300,People Cost,Opex,Base,-167967.75,-176366.14,-162928.72,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,6400,Premises and Admin,Opex,Base,-34648.99,-36381.44,-33609.52,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,6500,Compliance and Risk,Opex,Base,-28085.92,-29490.21,-27243.34,H1 run-rate extended with 1.8% monthly growth assumption
+2026-08,Digital Payments,7000,Credit Loss Provision,Provision,Base,-21055.35,-22108.12,-20423.69,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,4000,Interest Income,Revenue,Base,887242.78,825135.78,940477.34,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,4100,Fee and Commission Income,Revenue,Base,451493.89,419889.32,478583.53,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,4200,Transaction Revenue,Revenue,Base,276181.01,256848.34,292751.87,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,5000,Cost of Service Delivery,COGS,Base,-463041.83,-486193.92,-449150.58,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,6100,Marketing and Acquisition,Opex,Base,-146460.49,-153783.51,-142066.68,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,6200,Technology and Cloud,Opex,Base,-178572.94,-187501.59,-173215.75,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,6300,People Cost,Opex,Base,-382730.0,-401866.5,-371248.1,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,6400,Premises and Admin,Opex,Base,-82776.39,-86915.21,-80293.1,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,6500,Compliance and Risk,Opex,Base,-63102.74,-66257.88,-61209.66,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Retail Banking,7000,Credit Loss Provision,Provision,Base,-48495.12,-50919.87,-47040.26,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,4000,Interest Income,Revenue,Base,615200.82,572136.77,652112.87,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,4100,Fee and Commission Income,Revenue,Base,312076.34,290230.99,330800.92,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,4200,Transaction Revenue,Revenue,Base,189071.34,175836.35,200415.62,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,5000,Cost of Service Delivery,COGS,Base,-310811.74,-326352.32,-301487.39,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,6100,Marketing and Acquisition,Opex,Base,-98022.47,-102923.59,-95081.79,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,6200,Technology and Cloud,Opex,Base,-121050.13,-127102.64,-117418.63,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,6300,People Cost,Opex,Base,-271093.32,-284647.99,-262960.52,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,6400,Premises and Admin,Opex,Base,-55360.79,-58128.83,-53699.96,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,6500,Compliance and Risk,Opex,Base,-44459.61,-46682.59,-43125.83,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,SME Lending,7000,Credit Loss Provision,Provision,Base,-33319.57,-34985.55,-32319.98,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,4000,Interest Income,Revenue,Base,1045886.0,972673.98,1108639.16,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,4100,Fee and Commission Income,Revenue,Base,536991.19,499401.81,569210.66,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,4200,Transaction Revenue,Revenue,Base,325391.49,302614.09,344914.98,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,5000,Cost of Service Delivery,COGS,Base,-543866.27,-571059.59,-527550.29,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,6100,Marketing and Acquisition,Opex,Base,-172107.83,-180713.22,-166944.59,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,6200,Technology and Cloud,Opex,Base,-212320.64,-222936.68,-205951.03,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,6300,People Cost,Opex,Base,-454704.47,-477439.69,-441063.34,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,6400,Premises and Admin,Opex,Base,-95714.49,-100500.21,-92843.06,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,6500,Compliance and Risk,Opex,Base,-77416.98,-81287.83,-75094.47,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Enterprise,7000,Credit Loss Provision,Provision,Base,-58040.71,-60942.74,-56299.48,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,4000,Interest Income,Revenue,Base,384209.7,357315.02,407262.28,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,4100,Fee and Commission Income,Revenue,Base,197420.76,183601.31,209266.01,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,4200,Transaction Revenue,Revenue,Base,119564.96,111195.42,126738.86,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,5000,Cost of Service Delivery,COGS,Base,-192394.58,-202014.3,-186622.74,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,6100,Marketing and Acquisition,Opex,Base,-63430.37,-66601.89,-61527.46,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,6200,Technology and Cloud,Opex,Base,-77856.06,-81748.86,-75520.38,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,6300,People Cost,Opex,Base,-170886.11,-179430.41,-165759.52,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,6400,Premises and Admin,Opex,Base,-35251.0,-37013.55,-34193.47,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,6500,Compliance and Risk,Opex,Base,-28573.9,-30002.59,-27716.68,H1 run-rate extended with 1.8% monthly growth assumption
+2026-09,Digital Payments,7000,Credit Loss Provision,Provision,Base,-21421.18,-22492.24,-20778.54,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,4000,Interest Income,Revenue,Base,902394.93,839227.29,956538.63,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,4100,Fee and Commission Income,Revenue,Base,459204.41,427060.11,486756.68,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,4200,Transaction Revenue,Revenue,Base,280897.57,261234.74,297751.43,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,5000,Cost of Service Delivery,COGS,Base,-470949.57,-494497.05,-456821.08,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,6100,Marketing and Acquisition,Opex,Base,-148961.71,-156409.8,-144492.86,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,6200,Technology and Cloud,Opex,Base,-181622.57,-190703.7,-176173.89,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,6300,People Cost,Opex,Base,-389266.18,-408729.49,-377588.2,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,6400,Premises and Admin,Opex,Base,-84190.03,-88399.53,-81664.33,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,6500,Compliance and Risk,Opex,Base,-64180.4,-67389.42,-62254.99,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Retail Banking,7000,Credit Loss Provision,Provision,Base,-49323.31,-51789.47,-47843.61,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,4000,Interest Income,Revenue,Base,625707.1,581907.6,663249.53,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,4100,Fee and Commission Income,Revenue,Base,317405.91,295187.5,336450.27,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,4200,Transaction Revenue,Revenue,Base,192300.26,178839.24,203838.28,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,5000,Cost of Service Delivery,COGS,Base,-316119.72,-331925.7,-306636.13,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,6100,Marketing and Acquisition,Opex,Base,-99696.47,-104681.3,-96705.58,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,6200,Technology and Cloud,Opex,Base,-123117.4,-129273.27,-119423.88,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,6300,People Cost,Opex,Base,-275723.0,-289509.15,-267451.31,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,6400,Premises and Admin,Opex,Base,-56306.23,-59121.54,-54617.04,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,6500,Compliance and Risk,Opex,Base,-45218.89,-47479.83,-43862.32,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,SME Lending,7000,Credit Loss Provision,Provision,Base,-33888.59,-35583.02,-32871.94,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,4000,Interest Income,Revenue,Base,1063747.43,989285.11,1127572.27,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,4100,Fee and Commission Income,Revenue,Base,546161.82,507930.49,578931.53,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,4200,Transaction Revenue,Revenue,Base,330948.46,307782.07,350805.37,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,5000,Cost of Service Delivery,COGS,Base,-553154.31,-580812.03,-536559.68,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,6100,Marketing and Acquisition,Opex,Base,-175047.05,-183799.4,-169795.64,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,6200,Technology and Cloud,Opex,Base,-215946.61,-226743.94,-209468.22,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,6300,People Cost,Opex,Base,-462469.82,-485593.31,-448595.73,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,6400,Premises and Admin,Opex,Base,-97349.08,-102216.54,-94428.61,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,6500,Compliance and Risk,Opex,Base,-78739.09,-82676.05,-76376.92,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Enterprise,7000,Credit Loss Provision,Provision,Base,-59031.91,-61983.51,-57260.96,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,4000,Interest Income,Revenue,Base,390771.16,363417.17,414217.42,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,4100,Fee and Commission Income,Revenue,Base,200792.28,186736.82,212839.81,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,4200,Transaction Revenue,Revenue,Base,121606.87,113094.39,128903.28,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,5000,Cost of Service Delivery,COGS,Base,-195680.25,-205464.26,-189809.84,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,6100,Marketing and Acquisition,Opex,Base,-64513.62,-67739.3,-62578.21,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,6200,Technology and Cloud,Opex,Base,-79185.67,-83144.95,-76810.1,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,6300,People Cost,Opex,Base,-173804.47,-182494.69,-168590.33,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,6400,Premises and Admin,Opex,Base,-35853.01,-37645.66,-34777.42,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,6500,Compliance and Risk,Opex,Base,-29061.88,-30514.97,-28190.02,H1 run-rate extended with 1.8% monthly growth assumption
+2026-10,Digital Payments,7000,Credit Loss Provision,Provision,Base,-21787.0,-22876.35,-21133.39,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,4000,Interest Income,Revenue,Base,917547.09,853318.79,972599.91,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,4100,Fee and Commission Income,Revenue,Base,466914.94,434230.89,494929.83,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,4200,Transaction Revenue,Revenue,Base,285614.14,265621.15,302750.99,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,5000,Cost of Service Delivery,COGS,Base,-478857.3,-502800.17,-464491.58,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,6100,Marketing and Acquisition,Opex,Base,-151462.94,-159036.08,-146919.05,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,6200,Technology and Cloud,Opex,Base,-184672.2,-193905.81,-179132.04,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,6300,People Cost,Opex,Base,-395802.37,-415592.49,-383928.3,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,6400,Premises and Admin,Opex,Base,-85603.67,-89883.85,-83035.56,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,6500,Compliance and Risk,Opex,Base,-65258.06,-68520.96,-63300.31,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Retail Banking,7000,Credit Loss Provision,Provision,Base,-50151.5,-52659.07,-48646.95,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,4000,Interest Income,Revenue,Base,636213.38,591678.44,674386.18,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,4100,Fee and Commission Income,Revenue,Base,322735.49,300144.01,342099.62,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,4200,Transaction Revenue,Revenue,Base,195529.18,181842.14,207260.94,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,5000,Cost of Service Delivery,COGS,Base,-321427.7,-337499.08,-311784.87,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,6100,Marketing and Acquisition,Opex,Base,-101370.48,-106439.01,-98329.37,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,6200,Technology and Cloud,Opex,Base,-125184.67,-131443.91,-121429.13,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,6300,People Cost,Opex,Base,-280352.68,-294370.31,-271942.1,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,6400,Premises and Admin,Opex,Base,-57251.67,-60114.25,-55534.12,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,6500,Compliance and Risk,Opex,Base,-45978.16,-48277.07,-44598.81,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,SME Lending,7000,Credit Loss Provision,Provision,Base,-34457.62,-36180.5,-33423.89,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,4000,Interest Income,Revenue,Base,1081608.86,1005896.24,1146505.39,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,4100,Fee and Commission Income,Revenue,Base,555332.44,516459.17,588652.39,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,4200,Transaction Revenue,Revenue,Base,336505.43,312950.05,356695.76,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,5000,Cost of Service Delivery,COGS,Base,-562442.35,-590564.47,-545569.08,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,6100,Marketing and Acquisition,Opex,Base,-177986.27,-186885.58,-172646.68,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,6200,Technology and Cloud,Opex,Base,-219572.58,-230551.21,-212985.41,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,6300,People Cost,Opex,Base,-470235.17,-493746.93,-456128.12,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,6400,Premises and Admin,Opex,Base,-98983.68,-103932.86,-96014.17,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,6500,Compliance and Risk,Opex,Base,-80061.2,-84064.27,-77659.37,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Enterprise,7000,Credit Loss Provision,Provision,Base,-60023.12,-63024.28,-58222.43,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,4000,Interest Income,Revenue,Base,397332.61,369519.33,421172.57,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,4100,Fee and Commission Income,Revenue,Base,204163.79,189872.32,216413.62,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,4200,Transaction Revenue,Revenue,Base,123648.78,114993.36,131067.7,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,5000,Cost of Service Delivery,COGS,Base,-198965.93,-208914.22,-192996.95,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,6100,Marketing and Acquisition,Opex,Base,-65596.87,-68876.72,-63628.97,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,6200,Technology and Cloud,Opex,Base,-80515.28,-84541.04,-78099.82,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,6300,People Cost,Opex,Base,-176722.82,-185558.97,-171421.14,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,6400,Premises and Admin,Opex,Base,-36455.02,-38277.77,-35361.37,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,6500,Compliance and Risk,Opex,Base,-29549.85,-31027.35,-28663.36,H1 run-rate extended with 1.8% monthly growth assumption
+2026-11,Digital Payments,7000,Credit Loss Provision,Provision,Base,-22152.83,-23260.47,-21488.24,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,4000,Interest Income,Revenue,Base,932699.24,867410.29,988661.19,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,4100,Fee and Commission Income,Revenue,Base,474625.46,441401.68,503102.99,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,4200,Transaction Revenue,Revenue,Base,290330.7,270007.55,307750.54,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,5000,Cost of Service Delivery,COGS,Base,-486765.04,-511103.29,-472162.09,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,6100,Marketing and Acquisition,Opex,Base,-153964.16,-161662.37,-149345.23,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,6200,Technology and Cloud,Opex,Base,-187721.84,-197107.93,-182090.18,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,6300,People Cost,Opex,Base,-402338.55,-422455.48,-390268.4,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,6400,Premises and Admin,Opex,Base,-87017.3,-91368.17,-84406.79,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,6500,Compliance and Risk,Opex,Base,-66335.71,-69652.5,-64345.64,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Retail Banking,7000,Credit Loss Provision,Provision,Base,-50979.69,-53528.67,-49450.3,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,4000,Interest Income,Revenue,Base,646719.65,601449.28,685522.83,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,4100,Fee and Commission Income,Revenue,Base,328065.07,305100.51,347748.97,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,4200,Transaction Revenue,Revenue,Base,198758.11,184845.04,210683.59,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,5000,Cost of Service Delivery,COGS,Base,-326735.68,-343072.46,-316933.61,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,6100,Marketing and Acquisition,Opex,Base,-103044.49,-108196.71,-99953.15,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,6200,Technology and Cloud,Opex,Base,-127251.94,-133614.54,-123434.39,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,6300,People Cost,Opex,Base,-284982.35,-299231.47,-276432.88,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,6400,Premises and Admin,Opex,Base,-58197.11,-61106.96,-56451.2,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,6500,Compliance and Risk,Opex,Base,-46737.43,-49074.3,-45335.31,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,SME Lending,7000,Credit Loss Provision,Provision,Base,-35026.64,-36777.98,-33975.85,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,4000,Interest Income,Revenue,Base,1099470.29,1022507.37,1165438.5,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,4100,Fee and Commission Income,Revenue,Base,564503.07,524987.86,598373.26,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,4200,Transaction Revenue,Revenue,Base,342062.4,318118.03,362586.14,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,5000,Cost of Service Delivery,COGS,Base,-571730.39,-600316.91,-554578.48,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,6100,Marketing and Acquisition,Opex,Base,-180925.49,-189971.77,-175497.73,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,6200,Technology and Cloud,Opex,Base,-223198.55,-234358.48,-216502.6,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,6300,People Cost,Opex,Base,-478000.53,-501900.55,-463660.51,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,6400,Premises and Admin,Opex,Base,-100618.27,-105649.18,-97599.72,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,6500,Compliance and Risk,Opex,Base,-81383.32,-85452.48,-78941.82,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Enterprise,7000,Credit Loss Provision,Provision,Base,-61014.33,-64065.04,-59183.9,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,4000,Interest Income,Revenue,Base,403894.07,375621.48,428127.71,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,4100,Fee and Commission Income,Revenue,Base,207535.3,193007.83,219987.42,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,4200,Transaction Revenue,Revenue,Base,125690.68,116892.34,133232.12,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,5000,Cost of Service Delivery,COGS,Base,-202251.6,-212364.18,-196184.06,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,6100,Marketing and Acquisition,Opex,Base,-66680.13,-70014.13,-64679.72,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,6200,Technology and Cloud,Opex,Base,-81844.89,-85937.14,-79389.54,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,6300,People Cost,Opex,Base,-179641.18,-188623.24,-174251.95,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,6400,Premises and Admin,Opex,Base,-37057.03,-38909.88,-35945.32,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,6500,Compliance and Risk,Opex,Base,-30037.83,-31539.73,-29136.7,H1 run-rate extended with 1.8% monthly growth assumption
+2026-12,Digital Payments,7000,Credit Loss Provision,Provision,Base,-22518.66,-23644.59,-21843.1,H1 run-rate extended with 1.8% monthly growth assumption
