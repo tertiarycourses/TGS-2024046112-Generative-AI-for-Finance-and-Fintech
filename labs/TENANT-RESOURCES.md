@@ -148,9 +148,15 @@ description. That is the Topic 5 multi-agent system.
 
 ## 6. Known behaviour worth teaching
 
-- **Grounded agents refuse rather than guess.** During the build, before indexing had
-  completed, every agent said it could not retrieve the source and declined to invent
-  a threshold. That is the designed control working, not a fault.
+- **Copilot Studio does not index Markdown.** This cost an hour and a half to find.
+  The knowledge source reported *Status: Ready* and every search returned nothing.
+  The same documents as `.docx` answered immediately. Microsoft 365 Copilot agents
+  index `.md` perfectly well, which is why one surface worked and the other did not.
+  Both formats are now in the libraries; point any Copilot Studio knowledge source
+  at the Word versions.
+- **Grounded agents refuse rather than guess.** While the source was un-indexed,
+  every agent said it could not retrieve anything and declined to invent a
+  threshold. That is the designed control working, not a fault.
 - **Indexing is not instant.** A new SharePoint site takes 30 to 60 minutes to reach
   tenant search, and a Copilot Studio knowledge source is indexed separately again.
   The M365 Copilot agent picked the documents up noticeably sooner.
@@ -160,6 +166,11 @@ description. That is the Topic 5 multi-agent system.
   building the supervisor.
 - **A default value can undo a control.** A Human review node defaulting to Approve
   turns a gate into a rubber stamp, and the canvas looks identical either way.
+- **The policy set contains a deliberate conflict.** POL-FIN-001 puts an SGD 5,000
+  claim with the Financial Controller; POL-FIN-003 allows a department head up to
+  SGD 5,000. The Finance Policy Assistant found this unprompted and escalated rather
+  than choosing a side. Keep it: an agent that quietly picks one is more dangerous
+  than one that refuses, and Topic 3 teaches exactly that.
 
 ---
 
