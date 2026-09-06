@@ -56,6 +56,8 @@ Record the evidence for Step 3 in the checklist before continuing.
 
 - Add the SharePoint knowledge source pointing at the Finance Policies library.
 - Paste the URL with spaces percent-encoded as %20. With raw spaces the Add button stays disabled and it is not obvious why.
+- Point at the Word versions of the policies. Copilot Studio does not index Markdown files: the source shows Status Ready, and every search returns nothing.
+- Microsoft 365 Copilot agents do index Markdown, which is why the same documents can work in one surface and not the other.
 
 Record the evidence for Step 4 in the checklist before continuing.
 

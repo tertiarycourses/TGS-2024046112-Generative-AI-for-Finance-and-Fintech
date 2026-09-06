@@ -46,6 +46,7 @@ Record the evidence for Step 2 in the checklist before continuing.
 ### Step 3: Upload the supplied policy documents and period reports.
 
 - Upload the four policy documents to Finance Policies and the five period reports to Finance Reports.
+- Upload the Word versions. Copilot Studio will not index Markdown, so a .md-only library grounds an agent on nothing.
 - Check each document carries its ID, effective date and owner. A policy without an effective date cannot be cited safely.
 
 Record the evidence for Step 3 in the checklist before continuing.
