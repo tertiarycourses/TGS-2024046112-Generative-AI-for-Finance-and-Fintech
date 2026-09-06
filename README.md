@@ -9,7 +9,7 @@ with PDPA, security and human oversight running through all of it.
 
 ## The package
 
-- a 287-slide trainer deck (PPTX + PDF), generated from a single course content module;
+- a 307-slide trainer deck (PPTX + PDF), generated from a single course content module;
 - an aligned Learner Guide and Lesson Plan (DOCX + PDF);
 - 12 self-contained lab folders with starter and solution workbooks, step-by-step
   procedures and evidence checklists;
